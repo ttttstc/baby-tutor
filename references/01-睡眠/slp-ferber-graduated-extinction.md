@@ -5,7 +5,7 @@ category: 01-睡眠
 age_range: [infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years, child-3-4-years]
 also_in: []
 evidence: tier-2
-conflicts_with: [slp-kastzahn-sleep-plan, slp-dubief-swap-soothing-ladder]
+conflicts_with: [slp-kastzahn-sleep-plan, slp-dubief-swap-soothing-ladder, disc-markham-emotion-coach]
 red_flags: [呼吸暂停或面色青紫, 发热≥38℃(3月龄内), 呕吐超过1次或呕吐后精神差, 白天异常嗜睡难唤醒, 夜醒伴抓耳揪耳, 打鼾伴白天易怒多动]
 extraction: "S1: 法伯睡眠宝典 (epub) 第1-4章（part0006/part0007/part0009/part0010，含表3-1原图读数）、第9章安全前提（part0016）"
 problem: 八个月的宝宝夜里醒五次，每次都要抱起来摇二十分钟才睡回去，一放床就哭，我们两口子快熬死了，法伯法到底怎么操作
