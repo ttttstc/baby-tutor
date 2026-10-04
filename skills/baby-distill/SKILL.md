@@ -38,11 +38,12 @@ cd /tmp && rm -rf <workdir> && mkdir <workdir> && cd <workdir> \
 ### 2. 读原文
 用 Read/Grep 直接读解包后的章节文件。**只读 0-6 月相关章节**。章节文件是 HTML，内容可读，忽略标签。长章节分段读。
 
-### 3. 切条
-- 找"方法论单元"：一个单元 = 一个可独立回答的问题 + 一套完整方法
-- 按密度切：一本书通常 2-6 条，不为凑数拆条
-- 每条对照**四件套**初判可立性：机制+实操+判断标准+红线——书中只有理念没有操作的主题不立条
-- 中文书注意：同一主题常与育儿百科重叠（如发热处理），切条时以本书独有视角为准，重叠部分留给更权威的源
+### 3. 切条（问题粒度）
+- **判据**：一个条目 = **一个家长会独立问出来的具体问题**。「这个问题，家长会不会单独问一次？」会 → 单独一条。
+- **不设上限**：一本内容丰富的书（育儿百科/睡眠全书/教科书）可切 **15-40 条**；单主题小册 3-8 条。漏一个具体问题，家长就掉进条目缝隙——**宁多勿少**。
+- **允许重叠**：多本书讲同一主题时各立各的，用 `conflicts_with`/`note` 互相指路，**不要为"去重"把一本书榨成 2 条**。
+- 每条对照**四件套**初判可立性：机制+实操+判断标准+红线——只有理念没有操作的主题不立条。
+- 例子：一本睡眠书不该只出"N 条睡眠方法论"，而应出「前半夜频繁醒」「后半夜早醒」「小睡 30 分钟就醒」「并觉期反复醒」「奶睡依赖」「睡眠倒退」「夜惊 vs 噩梦」等一条一问题的密集条目。
 
 ### 4. 写条目
 - 全部字段与节名**严格照 format.md**，一个字不改
@@ -65,16 +66,22 @@ cd /tmp && rm -rf <workdir> && mkdir <workdir> && cd <workdir> \
 
 ## 四、并行蒸馏（多书时）
 
-多本书可并行，**一书一 subagent**。给每个 subagent 的 prompt 模板：
+多本书并行，**一书一 subagent**（大书可再拆分给嵌套 subagent）。给每个 subagent 的 prompt 模板：
 
 ```
 蒸馏《<书名>》。源文件：D:\AI\workspace\电子书\<文件名>（质量门 A 级，已验证）。
 1. 先 Read D:\AI\workspace\baby-tutor\skills\baby-distill\references\format.md 并严格遵守
-2. 解包到 /tmp/<slug>，只读 0-6 月相关章节
-3. 切 2-6 条，写条目到 D:\AI\workspace\baby-tutor\references\<分类>\（注意路径拼写）
-4. 写索引行
-5. 按 format.md 第十节汇报
+2. 再 Read 本 SKILL.md 的「四之二 触发字段质量标准」
+3. **先去重**：grep 现有同名书条目 + 读该分类 _index，已覆盖的问题跳过
+4. 解包读到 /tmp/<slug>，按**问题粒度**切条（一条=一个家长会独立问的具体问题，**不设上限**）
+5. 写条目到 D:\AI\workspace\baby-tutor\references\<分类>\（id 前缀按 format.md，与现有区分）
+6. **不写索引文件**（主会话统一重建）
+7. 按 format.md 第十节汇报
 ```
+
+**两条运维纪律（实测踩过）**：
+1. **并发上限 20 个 subagent**（`CLAUDE_CODE_MAX_CONCURRENT_SUBAGENTS`）：一次派超过 20 会报 "Concurrent subagent limit reached"。按每批 ≤20 规划波次，失败的稍后补派。
+2. **shell 环境可能坏**（PATH 缺 git-bash 的 `/usr/bin`，`ls`/`grep`/`python` 都找不到）：prompt 里提醒 subagent 命令前先 `export PATH="/d/soft/Git/usr/bin:$PATH"`，python 用绝对路径 `D:/soft/anaconda/python.exe`。
 
 （prompt 里的分类由主会话根据书的主题预指定，subagent 可按实际内容调整并说明。）
 
@@ -109,6 +116,14 @@ python skills/baby-distill/scripts/validate_entries.py
 2. 风格检查：无鸡汤段落；「正常范围」无"别担心"式语言；判断标准可操作
 3. 问题分级：硬伤（四件套缺失/extraction 造假/医学数字无来源）→ 修复；软伤（表达啰嗦/signals 弱）→ 列待用户决定
 
+## 五之二、成熟库的检索层维护（库里 >300 条后）
+
+问题粒度会把库迅速做大（>300 条时单分类索引可达 80+ 行）。消费端（baby-tutor）每次只读**命中分类**的索引，仍可控；但需注意：
+
+1. **索引瘦身预案**（单分类 >50 行时启用）：`rebuild_index.py` 输出可去掉 `signals` 列（signals 只在条目 frontmatter 保留），单行从 6 列减到 5 列，索引体积省约 40%。改一处 `rebuild_index.py` 的表头即可。
+2. **同主题多条目共存**（问题粒度 + 允许重叠的必然结果）：同一问题可能有 3-4 本书的条目（如"安全座椅"有 aap-safe-carseat / aap-ybfy-car-seat / safe-jana-car-seat）。索引靠「用户会怎么问」逐字命中选最强；`note` 字段应互相指路。这是**设计内**的，不是重复 bug。
+3. **id 前缀一致性**：理想是"分类前缀-作者-slug"，但并行蒸馏常出现 `aap-safe-*`（作者在前）等变体。**不强求统一**——只要 id 唯一、能进索引即可；统一化是可选清理，收益低于风险，不必做。
+
 ## 六、纪律
 
 - **不蒸馏 PDF**（待用户解除）
@@ -116,4 +131,5 @@ python skills/baby-distill/scripts/validate_entries.py
 - **不代跑 baby-tutor**：蒸馏出的条目如何被使用是 baby-tutor skill 的职责
 - **医学数字双源核对**：书 vs 官方指南不一致时，以指南为准+标注分歧
 - **批次必过机械验收**：validate_entries.py 通过才收工
+- **并发 ≤20 subagent**：超限报错；shell 坏了先 `export PATH="/d/soft/Git/usr/bin:$PATH"`
 - 汇报时如实报未覆盖主题，不为好看凑条数

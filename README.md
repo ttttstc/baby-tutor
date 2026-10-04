@@ -13,23 +13,23 @@
 
 ## 知识库现状
 
-- **127 条方法论条目**，10 分类
+- **656 条方法论条目**，10 分类
 - 全部来自**原书实文蒸馏**（`extraction` 字段可溯源到书名+章节 / 官方 URL）
 - **证据分级**：tier-1 机构指南 / tier-2 同行评议 / tier-3 专家专著 / tier-4 流行理念（争议已标注）
 - 每条目 13 节正文（含「正常范围与个体差异」「就医红线」两节育儿特有内容）
 
 | 分类 | 条数 | 主要来源 |
 |---|---|---|
-| 00-安全与就医红旗 | 21 | AAP 育儿百科、崔玉涛、裴洪岗、虾米妈咪、冀连梅、Science of Mom、官方指南 |
-| 01-睡眠 | 21 | Precious Little Sleep、法伯、Weissbluth、Kassowitz、实用程序育儿法、小土大橙子、Mindell、Karp |
-| 02-喂养与营养 | 11 | Satter、崔玉涛、Science of Mom、Eliot、BLW |
-| 03-情绪与安抚 | 10 | Karp 5S、Hogg、RIE、Lieberman |
-| 04-管教与边界 | 16 | 蒙氏、Siegel、Faber、Greene、Phelan、德雷克斯、Gordon、Karp |
-| 05-发展与里程碑 | 8 | AAP、Eliot、崔玉涛、Lieberman、Wonder Weeks |
-| 06-游戏与早教 | 18 | 蒙氏（3 本）、Dirksen、RIE、Eliot、Cohen、Hanscom、NurtureShock、Suskind |
-| 07-生活自理与习惯 | 9 | AAP、Jana、蒙氏、Azrin-Foxx、Glowacki、Payne |
-| 08-社交与分离 | 2 | Gonzalez-Mina、Fraiberg |
-| 09-父母自身 | 11 | Mindell、佩里、雷诺、Oster、高普尼克、Gonzalez-Mina |
+| 00-安全与就医红旗 | 85 | AAP 育儿百科、崔玉涛、裴洪岗、虾米妈咪、冀连梅、Science of Mom、官方指南 |
+| 01-睡眠 | 86 | Precious Little Sleep、法伯、Weissbluth、Kassowitz、实用程序育儿法、小土大橙子、Mindell、Karp |
+| 02-喂养与营养 | 68 | Satter、崔玉涛、Science of Mom、Eliot、BLW |
+| 03-情绪与安抚 | 46 | Karp 5S、Hogg、RIE、Lieberman |
+| 04-管教与边界 | 120 | 蒙氏、Siegel、Faber、Greene、Phelan、德雷克斯、Gordon、Karp |
+| 05-发展与里程碑 | 49 | AAP、Eliot、崔玉涛、Lieberman、Wonder Weeks |
+| 06-游戏与早教 | 80 | 蒙氏（3 本）、Dirksen、RIE、Eliot、Cohen、Hanscom、NurtureShock、Suskind |
+| 07-生活自理与习惯 | 51 | AAP、Jana、蒙氏、Azrin-Foxx、Glowacki、Payne |
+| 08-社交与分离 | 22 | Gonzalez-Mina、Fraiberg |
+| 09-父母自身 | 49 | Mindell、佩里、雷诺、Oster、高普尼克、Gonzalez-Mina |
 
 ## 目录结构
 
