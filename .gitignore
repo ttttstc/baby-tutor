@@ -2,3 +2,7 @@
 tests/
 *.test.md
 test-results/
+
+# 蒸馏临时抽取物（页图/脚本），非 skill 资产
+_tmp_*
+.tmp_*
