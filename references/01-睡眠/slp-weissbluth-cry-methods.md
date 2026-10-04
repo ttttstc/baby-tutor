@@ -169,6 +169,6 @@ note: 本条讲"哭法三档怎么选、怎么执行"；「睡前安抚与放床
 
 ## 来源
 
-- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版（eISBN 978-0-345-51840-8）。第 2 章「Solutions to Help Your Child Sleep Better: 'No Cry,' 'Maybe Cry,' or 'Let Cry'」（三档清单、prevention vs treatment）；第 5 章「FOUR SLEEP-TRAINING STRATEGIES」（Ignoring/Extinction 与 Graduated Extinction 的对比与家长压力数据、Check and Console、Scheduled Awakenings、"夜里的哭不设时限"）；第 6 章（fading vs extinction、attachment theory 被证据反驳、"忽略抗议哭后安全感提高、母亲焦虑下降"、Thomas & Chess、"为什么我哭不出来"清单、"哭产生加速遗忘"）。案例（Ares、David、Amanda、Stephen、Lauren、Rebecca）均书中原文。
+- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版。第 2 章「Solutions to Help Your Child Sleep Better: 'No Cry,' 'Maybe Cry,' or 'Let Cry'」（三档清单、prevention vs treatment）；第 5 章「FOUR SLEEP-TRAINING STRATEGIES」（Ignoring/Extinction 与 Graduated Extinction 的对比与家长压力数据、Check and Console、Scheduled Awakenings、"夜里的哭不设时限"）；第 6 章（fading vs extinction、attachment theory 被证据反驳、"忽略抗议哭后安全感提高、母亲焦虑下降"、Thomas & Chess、"为什么我哭不出来"清单、"哭产生加速遗忘"）。案例（Ares、David、Amanda、Stephen、Lauren、Rebecca）均书中原文。
 - AAP healthychildren.org Crying & Colic 页（2025，2026-10-04 核对）：摇晃婴儿警示；哭到呕吐等及时就医。
 - 说明：extinction / graduated extinction 在睡眠训练领域有多篇 RCT 支持；"4 个月以上抗议哭无害"的结论为专家共识+多项研究；但本书的具体处方（阈值、时序、作者偏好）为临床经验，故整体标 tier-3。

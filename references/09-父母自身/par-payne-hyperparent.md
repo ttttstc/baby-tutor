@@ -132,7 +132,7 @@ note: |
 
 ## 来源
 
-- Kim John Payne（家庭咨询师、华德福教育背景）《Simplicity Parenting》Ballantine Books, 2009（with Lisa M. Ross）
+- Kim John Payne（家庭咨询师、华德福教育背景）《Simplicity Parenting》Ballantine Books, 2009
   - ch6 Filtering Out the Adult World："Involvement"（两种驱力的共舞、学骑车"你松手吧"）；"Base Camp"（trust vs mistrust、海马体过滤、皮质醇、基地不移动）；"Helicopter Parenting"（四种过度卷入画像、Public Agenda 2002、Denver Post 1985、Justice Dept、技术越界）；"Backing Off—Work Together"（一方卷入一方缺位、妈妈的过度卷入、爸爸的"专属领地"、融为一体的分工）
 - 书内引 Erik Erikson、Ellen Goodman；Daniel Goleman（amygdala hijack，见 ch1）
 - 蒸馏者注：本书为专家专著（tier-3），"基地营/退后改善独立与连接"的证据以依恋理论与临床案例间接支撑，无 RCT；书内民调与犯罪数据照录自 2009 年版本

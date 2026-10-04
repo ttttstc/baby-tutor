@@ -158,6 +158,6 @@ note: 本条讲"什么时候开始、什么是睡眠训练"（时机与定性）
 
 ## 来源
 
-- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版（eISBN 978-0-345-51840-8）。第 1 章（"入睡是技能"、早教好习惯优于晚纠、"start early 无长哭"）；第 2 章「Prevention versus Treatment of Sleep Problems」（80% 常见哭闹的不哭预防、20% 肠绞痛需更多资源、治疗可能伴更多哭）；第 5 章「SLEEP TRAINING DOES NOT EQUAL CRY IT OUT」（睡训的通用原则清单）「FOUR SLEEP-TRAINING STRATEGIES: WHEN TO TRY」（6-8 周/8-16 周/16 周后三档与预期）。
+- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版。第 1 章（"入睡是技能"、早教好习惯优于晚纠、"start early 无长哭"）；第 2 章「Prevention versus Treatment of Sleep Problems」（80% 常见哭闹的不哭预防、20% 肠绞痛需更多资源、治疗可能伴更多哭）；第 5 章「SLEEP TRAINING DOES NOT EQUAL CRY IT OUT」（睡训的通用原则清单）「FOUR SLEEP-TRAINING STRATEGIES: WHEN TO TRY」（6-8 周/8-16 周/16 周后三档与预期）。
 - AAP healthychildren.org Sleep 页（2025，2026-10-04 核对）：约 6 个月才形成规律睡眠周期、新生儿单次睡眠仅 1-2 小时——与"6 周后才有可训练的节律"方向一致；AAP 未给睡眠训练时机表，本文档位为作者处方（tier-3）。
 - 说明：三档时机、"早开始越不哭"为作者临床经验，非 RCT；哭法本身（尤其渐进消退/消退）在睡眠训练领域有多篇 RCT 支持，故整体标 tier-3。

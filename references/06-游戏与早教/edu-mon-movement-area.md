@@ -137,7 +137,7 @@ note: |
 
 - Paula Polk Lillard & Lynn Lillard Jessen《Montessori from the Start: The Child at Home, from Birth to Age Three》Schocken Books, 2003
   - ch2（epub 页码 p27-39）：四区原则、示例房间全描述（蓝墙/双人大床垫/墙镜/吊饰钩/矮架/换尿布柜）、低床规格与缓冲、护栏门与排查清单、婴儿床三宗问题
-  - ch5（p67-69 束缚装置清单与着装原则、p81-82 sitters/crawlers 与 Walker Wagon、p86 光脚、p88 视觉地图与最大努力期）：外部妊娠与第二次出生（p67-68）、俯卧撑发展链、倒爬处理、拉站扶手规格
+  - ch5（p67-69 束缚装置清单与着装原则、p81-82 sitters/crawlers 与 Walker Wagon、p86 光脚、p88 视觉地图与最大努力期）：外部妊娠与第二次出生、俯卧撑发展链、倒爬处理、拉站扶手规格
 - AAP 安全睡眠政策（healthychildren.org）：仰卧入睡、硬床垫、睡眠区无软物——兼容性核对，2026-10-03 校准
 - 卫健委《3岁以下婴幼儿健康养育照护指南（2022）》：玩耍中帮助婴儿俯卧、提供安全活动空间——方向核对，2026-10-03
 - 分歧说明：Time Line 节点书内自认与现代仰卧入睡习惯存在数月系统性偏早；发展里程碑就医判断以 CDC/AAP 口径为准（见红线），不以 Time Line 为准

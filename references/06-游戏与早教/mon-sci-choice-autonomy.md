@@ -54,7 +54,7 @@ note: |
 
 **失去控制感会主动"放弃努力"（强证据）。** **Hiroto & Seligman 1975**：先经历"怎么做都没用"的受试，之后面对**本可以控制**的任务也会消极不做——这叫习得性无助。**Glass & Singer 1972**：身处无法控制的噪音中的人，即使后来噪音变可控，随后的任务表现仍更差。**Seligman 1975** 把这条推广为"无助是学来的"。翻译成育儿：一个长期"我说了不算"的孩子，会学会"努力没意义"。
 
-**控制感本身提升投入和坚持（强证据）。** **Iyengar & Lepper 1999**：在做任务这件事上，**被允许自己选的孩子，完成的量是"被指定"孩子的两倍**。**Swann & Pittman 1977**：被赋予选择/控制权的一组，**80% 表现出高投入，平均坚持约 5 分钟；被剥夺选择的一组只有 20%、约 1.5 分钟**。**Langer & Rodin 1976** 在养老院做的经典研究：被允许对日常做选择、并负责照料一盆植物的老人，状态更好。**DeCharms 1976** 区分"起源者（origin）"和"棋子（pawn）"——把自己看作行动发起者的人，更有动力；**Ryan & Grolnick 1986** 方向一致（p88-89）。
+**控制感本身提升投入和坚持（强证据）。** **Iyengar & Lepper 1999**：在做任务这件事上，**被允许自己选的孩子，完成的量是"被指定"孩子的两倍**。**Swann & Pittman 1977**：被赋予选择/控制权的一组，**80% 表现出高投入，平均坚持约 5 分钟；被剥夺选择的一组只有 20%、约 1.5 分钟**。**Langer & Rodin 1976** 在养老院做的经典研究：被允许对日常做选择、并负责照料一盆植物的老人，状态更好。**DeCharms 1976** 区分"起源者（origin）"和"棋子（pawn）"——把自己看作行动发起者的人，更有动力；**Ryan & Grolnick 1986** 方向一致。
 
 **婴儿期就存在"行动能控制后果"的需要。** **Watson & Ramey 1972**：2 月龄婴儿中，**行动能带来后果（控制吊饰转动）的一组，转头次数几乎是"行动无效"组的两倍**；Watson 1971 与 Rovee-Collier & Hayne 2000 都显示婴儿在"自己做主、后果可控"时会主动练习。
 
@@ -135,6 +135,6 @@ note: |
 
 ## 来源
 
-- Angeline Stoll Lillard《Montessori: The Science Behind the Genius》Oxford University Press, 2005。**第 3 章（书页 p80-113）**：Glass & Singer 1972、Hiroto & Seligman 1975、Iyengar & Lepper 1999 选择→两倍、Swann & Pittman 1977 80% vs 20%、Watson & Ramey 1972 两月婴儿转头近乎两倍、Watson 1971、Rovee-Collier & Hayne 2000、Langer & Rodin 1976、Seligman 1975、DeCharms 1976 起源者 vs 棋子、Ryan & Grolnick 1986（p88-89）、Montessori 1966 p.121 柜门故事、Iyengar & Lepper 2000 果酱 24 种 vs 6 种、Dreyer & Rigler 1969 蒙氏儿童更具创造性、Amabile DeJong & Lepper 1976 截止期限
+- Angeline Stoll Lillard《Montessori: The Science Behind the Genius》Oxford University Press, 2005。**第 3 章（书页 p80-113）**：Glass & Singer 1972、Hiroto & Seligman 1975、Iyengar & Lepper 1999 选择→两倍、Swann & Pittman 1977 80% vs 20%、Watson & Ramey 1972 两月婴儿转头近乎两倍、Watson 1971、Rovee-Collier & Hayne 2000、Langer & Rodin 1976、Seligman 1975、DeCharms 1976 起源者 vs 棋子、Ryan & Grolnick 1986、Montessori 1966 p.121 柜门故事、Iyengar & Lepper 2000 果酱 24 种 vs 6 种、Dreyer & Rigler 1969 蒙氏儿童更具创造性、Amabile DeJong & Lepper 1976 截止期限
 - **证据分级**：核心主张"控制感/选择权影响动机与坚持"由多个对照实验与元分析支持 → tier-2。
 - extraction：S1-PDF-视觉 Montessori: The Science Behind the Genius p80-113（视觉逐页读取）。

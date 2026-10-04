@@ -154,6 +154,6 @@ note: 本条讲"睡眠债累积的滞后性"与"睡眠促进睡眠"的双向螺�
 
 ## 来源
 
-- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版（eISBN 978-0-345-51840-8）。第 2 章「Cumulative Sleepiness」（成人恒定睡眠剥夺的累积症状清单、"小但持续的睡眠赤字会升级且可能长期影响脑功能"、"就晚 20-30 分钟"导致的滞后显现案例、间隔数周至数月的差异）、「Sleep Regularity」「25-Hour Cycles」（重置生物钟）；第 3 章（"睡眠促进睡眠、不睡也促进不睡"的反向螺旋）；第 6 章（就寝漂移与滞后爆发、临界孩子扰动后恢复慢、周末补觉的局限）。
+- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版。第 2 章「Cumulative Sleepiness」（成人恒定睡眠剥夺的累积症状清单、"小但持续的睡眠赤字会升级且可能长期影响脑功能"、"就晚 20-30 分钟"导致的滞后显现案例、间隔数周至数月的差异）、「Sleep Regularity」「25-Hour Cycles」（重置生物钟）；第 3 章（"睡眠促进睡眠、不睡也促进不睡"的反向螺旋）；第 6 章（就寝漂移与滞后爆发、临界孩子扰动后恢复慢、周末补觉的局限）。
 - AAP healthychildren.org Sleep 页（2025，2026-10-04 核对）：约 6 个月才形成规律睡眠周期、各婴儿睡眠需求不同——与本书方向一致；AAP 未涉及"睡眠债累积滞后"，本文该部分为作者临床观察（tier-3）。
 - 说明：成人的累积效应有实验支持，儿童的滞后窗口与"睡眠促进睡眠"为作者临床推断，非 RCT，故整体标 tier-3。

@@ -157,6 +157,6 @@ note: 本条讲"什么时候该哄睡"（清醒窗口与困倦信号）；「为
 
 ## 来源
 
-- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版（eISBN 978-0-345-51840-8）。第 2 章「Respect Your Baby's Need to Sleep: The One-to Two-Hour Window of Wakefulness」（清醒窗口、困倦信号表、冲浪比喻、"过刺激=清醒太长"）；第 5 章「THE ONE-TO TWO-HOUR WINDOW」「FOUR SLEEP-TRAINING STRATEGIES」与 Q&A（清醒不超过两小时、有时只一小时、清晨更短、即睡即放、"Perfect timing produces no crying"、Timing 节、早起时段约 1 小时）；第 6 章（4-5 个月约 2 小时、8 个月约 3 小时、晨醒时段、出门掐窗口）。
+- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版。第 2 章「Respect Your Baby's Need to Sleep: The One-to Two-Hour Window of Wakefulness」（清醒窗口、困倦信号表、冲浪比喻、"过刺激=清醒太长"）；第 5 章「THE ONE-TO TWO-HOUR WINDOW」「FOUR SLEEP-TRAINING STRATEGIES」与 Q&A（清醒不超过两小时、有时只一小时、清晨更短、即睡即放、"Perfect timing produces no crying"、Timing 节、早起时段约 1 小时）；第 6 章（4-5 个月约 2 小时、8 个月约 3 小时、晨醒时段、出门掐窗口）。
 - AAP healthychildren.org Sleep 页（2025，2026-10-04 核对）：新生儿单次睡眠常仅 1-2 小时、约 6 个月才形成规律睡眠周期——与本书"清醒窗口短"的方向一致；AAP 未给出分月龄清醒时长表，本文数值为作者临床/研究数据（tier-3）。
 - 说明：清醒窗口的精确时长与"完美时机不哭"为作者研究+临床经验，非 RCT，故整体标 tier-3。

@@ -139,7 +139,7 @@ note: |
 
 - Paula Polk Lillard & Lynn Lillard Jessen《Montessori from the Start: The Child at Home, from Birth to Age Three》Schocken Books, 2003
   - ch5（epub 页码 p67-89：扶坐扶站架走批评与三类障碍 p69-72、sitters/crawlers 分型 p81、Walker Wagon 与学步车之辨 p82-83、光脚原则 p86、牵手惯例 p87-88、最大努力期 p88）
-  - ch2（p31-32）：婴儿床拉站卡壳的批评（对照低床方案）
+  - ch2：婴儿床拉站卡壳的批评（对照低床方案）
 - CDC 发育里程碑页（4/6/9/12/18 月：坐、爬、扶站、独走窗口）——红线校准，2026-10-03
 - AAP 学步车安全立场（建议禁售婴儿学步车；加拿大已禁售）——反模式条官方依据，2026-10-03 校准
 - 卫健委《3岁以下婴幼儿健康养育照护指南（2022）》：鼓励婴幼儿自主运动发展——方向核对，2026-10-03

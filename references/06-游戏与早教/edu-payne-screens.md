@@ -137,7 +137,7 @@ note: |
 
 ## 来源
 
-- Kim John Payne（家庭咨询师、华德福教育背景）《Simplicity Parenting》Ballantine Books, 2009（with Lisa M. Ross）
+- Kim John Payne（家庭咨询师、华德福教育背景）《Simplicity Parenting》Ballantine Books, 2009
   - ch6 "Houseguests"：Uncle Andy=电视的寓言
   - ch6 "Simplifying Screens"：AAP 1999 立场、法国 2008 禁令、2 岁内三种互动、戒断两三周、卧室有电视多看约 90 分钟、搬移/无屏时段/7 岁前无电视、"规则 vs 无规则"研究
 - 卫健委《3岁以下婴幼儿健康养育照护指南（2022）》：2 岁内不建议、2 岁以上每天≤1 小时且每次≤20 分钟、卧室不宜放视屏产品、进餐时不看——2026-10-04 校准

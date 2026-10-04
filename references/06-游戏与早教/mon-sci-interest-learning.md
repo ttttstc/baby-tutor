@@ -52,9 +52,9 @@ note: |
 
 （按证据强度分级）
 
-**兴趣提升记忆（强证据）。** **Estes & Vaughn 1973**：对内容感兴趣 vs 不感兴趣，回忆成绩约为 **86 vs 67**。**Renninger 1992** 综述：兴趣带来更多注意投入和更好的记忆（p117-118）。**Renninger & Wozniak 1985** 发现孩子对感兴趣领域的材料，甚至能记住序列里较靠后的项目（"第五位回忆"，p120-121）。
+**兴趣提升记忆（强证据）。** **Estes & Vaughn 1973**：对内容感兴趣 vs 不感兴趣，回忆成绩约为 **86 vs 67**。**Renninger 1992** 综述：兴趣带来更多注意投入和更好的记忆。**Renninger & Wozniak 1985** 发现孩子对感兴趣领域的材料，甚至能记住序列里较靠后的项目（"第五位回忆"，p120-121）。
 
-**兴趣提升理解与迁移，且"个性化"最强（关键证据）。** **Anand & Ross 1987** 用分数题做对比：**抽象表述组 11 题只对了约 2 题，加具体情境 3.5 题，而"个性化到孩子本人生活"组对了 6 题**（p118-119）——三层递进，个性化效果最好。**Resnick, Bill, Lesgold & Leer 1991**：接受个性化辅导的孩子，数学从约 **第 30 百分位提升到第 70 百分位**。**Csikszentmihalyi & Rathunde 1993** 对 **200 名高中生**的研究显示，兴趣投入时更易进入"心流"。
+**兴趣提升理解与迁移，且"个性化"最强（关键证据）。** **Anand & Ross 1987** 用分数题做对比：**抽象表述组 11 题只对了约 2 题，加具体情境 3.5 题，而"个性化到孩子本人生活"组对了 6 题**——三层递进，个性化效果最好。**Resnick, Bill, Lesgold & Leer 1991**：接受个性化辅导的孩子，数学从约 **第 30 百分位提升到第 70 百分位**。**Csikszentmihalyi & Rathunde 1993** 对 **200 名高中生**的研究显示，兴趣投入时更易进入"心流"。
 
 **兴趣从婴儿期就有生理基础。** **Karmel & Maisel 1975**：婴儿对 **6×6 的棋盘格**（中等复杂度）注视时间最长——说明"更感兴趣"在注意层面早有体现。蒙氏的"生命时间线"（Time Line of Life）做成 **20 英尺 × 3 英尺**的巨大实物，就是用视觉兴趣吸引孩子钻进内容。
 
@@ -135,6 +135,6 @@ note: |
 
 ## 来源
 
-- Angeline Stoll Lillard《Montessori: The Science Behind the Genius》Oxford University Press, 2005。**第 4 章（书页 p114-151）**：Estes & Vaughn 1973（67 vs 86，p117）、Renninger 1992（p117-118）、Anand & Ross 1987 分数题 11 题对 2/3.5/6（p118-119）、Resnick Bill Lesgold & Leer 1991 第 30→70 百分位、Csikszentmihalyi & Rathunde 1993 200 名高中生、Renninger & Wozniak 1985（p120-121）、Karmel & Maisel 1975 6×6 棋盘格、Time Line of Life 20 英尺×3 英尺、Weiss 1995 约 23% 教师
+- Angeline Stoll Lillard《Montessori: The Science Behind the Genius》Oxford University Press, 2005。**第 4 章（书页 p114-151）**：Estes & Vaughn 1973（67 vs 86，p117）、Renninger 1992、Anand & Ross 1987 分数题 11 题对 2/3.5/6、Resnick Bill Lesgold & Leer 1991 第 30→70 百分位、Csikszentmihalyi & Rathunde 1993 200 名高中生、Renninger & Wozniak 1985、Karmel & Maisel 1975 6×6 棋盘格、Time Line of Life 20 英尺×3 英尺、Weiss 1995 约 23% 教师
 - **证据分级**：核心主张"兴趣提升学习"由多项实验与综述支持 → tier-2；"个性化→具体→抽象"的梯度为单项研究结论，正文已标。
 - extraction：S1-PDF-视觉 Montessori: The Science Behind the Genius p114-151（视觉逐页读取）。

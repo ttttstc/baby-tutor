@@ -97,7 +97,7 @@ note: |
 
 - **怎么算有效**：孩子单件玩具的持续专注时间变长；收拾能在 5 分钟内由孩子自己完成；"我无聊"频率下降；兄弟/姐妹抢玩具的战争明显减少；孩子开始主动翻出"好久没见"的玩具来玩
 - **坚持多久再评估**：玩具简化后观察 **2 周**（书内家庭通常几天内就见孩子间的争吵减少）
-- **出现什么信号换下一条**：孩子**持续两周以上**追问某件被收走的玩具、情绪明显低落——把那件还回来（书内："心爱之物是神圣的，留下"）；简化后孩子仍长期烦躁、睡眠差、攻击不减——不是杂物的问题，排查其他原因（感官、发育、家庭事件），持续两周以上按红线走专业评估
+- **出现什么信号换下一条**：孩子**持续两周以上**追问某件被收走的玩具、情绪明显低落——把那件还回来（"心爱之物是神圣的，留下"）；简化后孩子仍长期烦躁、睡眠差、攻击不减——不是杂物的问题，排查其他原因（感官、发育、家庭事件），持续两周以上按红线走专业评估
 
 ## 反模式
 
@@ -134,7 +134,7 @@ note: |
 
 ## 来源
 
-- Kim John Payne（家庭咨询师、华德福教育背景）《Simplicity Parenting: Using the Extraordinary Power of Less to Raise Calmer, Happier, and More Secure Kids》Ballantine Books, 2009（with Lisa M. Ross）
+- Kim John Payne（家庭咨询师、华德福教育背景）《Simplicity Parenting: Using the Extraordinary Power of Less to Raise Calmer, Happier, and More Secure Kids》Ballantine Books, 2009
   - ch3 Environment："Toys"（玩具山减法/反圣诞节两三天/Elise 与 Mikey 案例）；"The Power of Less"（十年前引"固定 vs 开放式"/松散部件/Jung 的"世界地图"）；"Getting Started: The Discard Pile"（十点清单全文）；"Organizing What Remains"（一进一出/奶奶箱/5 分钟收完/筐能滑到孩子面前）
 - Juliet Schor《Born to Buy》（Scribner, 2004）：年均 70 件玩具、2860 亿美元、广告费、品牌记忆（书内 ch3 引用）
 - 蒸馏者注：本书为专家专著（tier-3），"简化改善游戏深度"的证据以临床案例与相关领域研究（消费、广告影响）间接支撑，方案整体无 RCT；书内营销/睡眠类统计数字照录自 2009 年版本

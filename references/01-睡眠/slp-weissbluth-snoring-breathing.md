@@ -161,6 +161,6 @@ note: 本条讲"打鼾/夜间呼吸不畅影响睡眠"（医学问题，需转�
 
 ## 来源
 
-- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版（eISBN 978-0-345-51840-8）。第 10 章「Poor-Quality Breathing (Allergies and Snoring)」（Guilleminault & Dement 1976 八例儿童打鼾研究及症状清单；作者 141 例 4-8 月婴儿研究：12% 打鼾、10% 张口呼吸、打鼾婴儿少睡 1.5 小时且夜醒翻倍；SRBD/SDB 与 ADHD 关联（1997/1998/2002 研究，约 25% ADHD 儿童纠正后症状消失）；保护性唤醒机制；诊断手段与治疗（手术、控过敏、snore ball、减重）；13 个月男婴术后发育追赶案例；打鼾与 SIDS 无关）；第 6 章（4-8 个月夜醒两群之一为 10% 打鼾/张口呼吸者）。
+- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版。第 10 章「Poor-Quality Breathing (Allergies and Snoring)」（Guilleminault & Dement 1976 八例儿童打鼾研究及症状清单；作者 141 例 4-8 月婴儿研究：12% 打鼾、10% 张口呼吸、打鼾婴儿少睡 1.5 小时且夜醒翻倍；SRBD/SDB 与 ADHD 关联（1997/1998/2002 研究，约 25% ADHD 儿童纠正后症状消失）；保护性唤醒机制；诊断手段与治疗（手术、控过敏、snore ball、减重）；13 个月男婴术后发育追赶案例；打鼾与 SIDS 无关）；第 6 章（4-8 个月夜醒两群之一为 10% 打鼾/张口呼吸者）。
 - AAP healthychildren.org「Sleep Apnea in Children: Detection & Treatment」（2025，2026-10-04 核对）：儿童打鼾/睡眠呼吸障碍需评估——与本书方向一致。
 - 说明：本条整体标 tier-2——"打鼾/气道阻塞破坏睡眠、影响白天行为学习、且可逆"有多项研究直接支持；"约 25% ADHD 儿童纠正后症状消失"为特定研究数字，因果与普适性仍存争议，正文已作限定表述。

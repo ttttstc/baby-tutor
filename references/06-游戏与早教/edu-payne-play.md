@@ -59,9 +59,9 @@ note: |
 
 **开放式材料 vs 固定玩具**（作者的理论假说，与蒙氏、Nicholson 同源）：在玩里，孩子用的是他能**移动**、能**改造**的东西。石头上岸就是山，一堆树枝就是房——创造力不在物件本身，而在孩子挪动、想象、设计的动作里。越"完成"、越"什么都会做"的玩具，留给孩子的空间越小，只能被按按钮或拆坏。真正耐玩的常是娃合成的人物/娃娃、搭建类、以及能"住进去"的场景。
 
-**玩是体验不是娱乐**（书内立场）：孩子需要"经历"而非"被逗"——亲手玩泥、玩沙、踩水、爬树、种东西。信息时代让孩子"知道热带雨林"，但很多孩子没在自己院子里翻过土。经验本身建构连接和主体感。
+**玩是体验不是娱乐**：孩子需要"经历"而非"被逗"——亲手玩泥、玩沙、踩水、爬树、种东西。信息时代让孩子"知道热带雨林"，但很多孩子没在自己院子里翻过土。经验本身建构连接和主体感。
 
-**真工具与"干活"给主体感**（书内观察）：孩子爱"忙"、爱"有用"——修补、和面、摆餐具、用小扫帚。塑料锤子没有分量，小号的**真**工具（小铲、耙、花园手套、工作围裙）带来真实的参与和掌握感。这能对冲"在大人的世界里又小又被动"的无力感。
+**真工具与"干活"给主体感**：孩子爱"忙"、爱"有用"——修补、和面、摆餐具、用小扫帚。塑料锤子没有分量，小号的**真**工具（小铲、耙、花园手套、工作围裙）带来真实的参与和掌握感。这能对冲"在大人的世界里又小又被动"的无力感。
 
 **假装游戏撑起执行功能**（引 executive function 研究）：过家家是最灵活的开放式玩——什么样的道具越简陋，孩子的"想象肌肉"越用力。把一切都演好的公主城堡，反而让孩子无戏可演。
 
@@ -139,7 +139,7 @@ note: |
 
 ## 来源
 
-- Kim John Payne（家庭咨询师、华德福教育背景）《Simplicity Parenting》Ballantine Books, 2009（with Lisa M. Ross）
+- Kim John Payne（家庭咨询师、华德福教育背景）《Simplicity Parenting》Ballantine Books, 2009
   - ch3 Environment "Simplified Play"：Trial and error（floor time）；Touch（真材质）；Pretending/imaginary play（executive function）；Experience（四元素、沙水泥）；Purpose and industry（真工具、参与家务）；Nature（引 Louv）；Social interaction；Movement；Art and music
   - ch6 "Backing Off—Talk Less"：别当实况解说员、别把每个瞬间变成教学时刻；"Pa 不多说"
 - Simon Nicholson"松散部件理论"；Richard Louv《Last Child in the Woods》（书内引用）

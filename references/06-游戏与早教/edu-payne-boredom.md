@@ -93,7 +93,7 @@ note: |
 ## 决策规则
 
 - **怎么算有效**：孩子喊"我无聊"的频率下降；喊完之后能自己找到事（哪怕先挣扎一会儿）；你不再一听到就起身；孩子开始自己发起游戏
-- **坚持多久再评估**：平话术 + 留白给足 **2-3 周**（书内：撤掉外部刺激后，烦躁与"我无聊"约在 2-3 周内逐渐消退）
+- **坚持多久再评估**：平话术 + 留白给足 **2-3 周**（撤掉外部刺激后，烦躁与"我无聊"约在 2-3 周内逐渐消退）
 - **出现什么信号换下一条**：给足 2-3 周后，孩子仍长期烦躁、无法自处、且伴随情绪低落/睡眠差/攻击——不是"无聊处理"能解决的，排查过载（见 hab-payne-overload）或发育因素
 
 ## 反模式
@@ -129,7 +129,7 @@ note: |
 
 ## 来源
 
-- Kim John Payne（家庭咨询师、华德福教育背景）《Simplicity Parenting》Ballantine Books, 2009（with Lisa M. Ross）
+- Kim John Payne（家庭咨询师、华德福教育背景）《Simplicity Parenting》Ballantine Books, 2009
   - ch5 Schedules "The Gift of Boredom"：无聊是创造力前奏；平话术；"无聊处方"（一日三次、餐前服用）；农场家庭的"给活儿"；"娱乐委员会"隐喻
   - ch5 "Seeds of Addiction"：引 Felicitas Vogt 的成瘾定义
   - ch3 Environment "Simplified Play"：孩子最需要的是不被安排的时间

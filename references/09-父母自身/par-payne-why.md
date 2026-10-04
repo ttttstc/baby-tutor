@@ -133,7 +133,7 @@ note: |
 
 ## 来源
 
-- Kim John Payne（家庭咨询师、华德福教育背景）《Simplicity Parenting》Ballantine Books, 2009（with Lisa M. Ross）
+- Kim John Payne（家庭咨询师、华德福教育背景）《Simplicity Parenting》Ballantine Books, 2009
   - ch1 Why Simplify："The Insight"（CSR 累积压力反应、"童年未宣之战"）；"The Changes"（q+s=d、滑向光谱/滑回来、amygdala hijack 引 Goleman、neuroplasticity 引 Begley、telos 引 Aristotle、四支柱）；"The Process: Getting Started"（重要 vs 可做、先简环境）
   - 书内引：Erik Erikson（trust vs mistrust）、Daniel Goleman《Emotional Intelligence》、Sharon Begley《Train Your Mind, Change Your Brain》、Oliver Sacks、Aristotle（telos）；与 Bonnie River 的合作研究（55 人，4 个月，68%/36.8%）
 - 蒸馏者注：本书为专家专著（tier-3）。本条的"简化改善行为"核心主张来源为**书内自述的小样本研究（未发表）**，属弱证据；CSR、q+s=d 为作者理论框架。"简化改善环境函数"作为养育策略可用，但**任何诊断与用药决策以专业评估为准**

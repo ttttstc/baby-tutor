@@ -165,6 +165,6 @@ note: 本条讲"分离焦虑/怕黑怕独处与睡眠"；「夜醒联结机制�
 
 ## 来源
 
-- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版（eISBN 978-0-345-51840-8）。第 6 章（stranger wariness / separation anxiety 6-9 个月出现、作者"分离焦虑不直接影响自主入睡"的观察、母亲难分离类型、Winnicott 独处能力、Mahler 分离-个体化、Thomas & Chess）；第 3 章「Afraid of the Dark or Being Alone」（2-4 岁常见恐惧、0.25 瓦微光、护身玩偶、抓怪物、守护天使、单次响铃+定时器、"给夜间额外关注但不开放式"）；第 12 章（好父母与独立能力、母亲难分离）。案例均为书中原文。
+- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版。第 6 章（stranger wariness / separation anxiety 6-9 个月出现、作者"分离焦虑不直接影响自主入睡"的观察、母亲难分离类型、Winnicott 独处能力、Mahler 分离-个体化、Thomas & Chess）；第 3 章「Afraid of the Dark or Being Alone」（2-4 岁常见恐惧、0.25 瓦微光、护身玩偶、抓怪物、守护天使、单次响铃+定时器、"给夜间额外关注但不开放式"）；第 12 章（好父母与独立能力、母亲难分离）。案例均为书中原文。
 - AAP healthychildren.org Sleep 页（2025，2026-10-04 核对）：约 6 个月形成规律睡眠周期；1 岁后夜里短暂醒来属正常——与本书方向一致。
 - 说明：分离焦虑与自主入睡"无直接因果"、独处能力"是成熟标志"为作者临床观点+精神分析理论（tier-3）；"忽略抗议哭无害、安全感反而提高"有多项研究支持。

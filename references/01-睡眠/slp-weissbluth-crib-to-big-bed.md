@@ -158,6 +158,6 @@ note: 本条讲「何时换大床、二胎腾床时机」；「换床后的下�
 
 ## 来源
 
-- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版（eISBN 978-0-345-51840-8）。第 7 章「A Regular Bed and the Arrival of a New Baby」（无必须换床的年龄、让孩子开口要、约 2-3 岁多数家庭换、挪早了会因好奇下床、换回婴儿床不造成"退步"、新弟妹等小宝约 4 个月作息稳后挪大宝、空婴儿床可留一段时间、大床无围栏与"social candy"式过度陪伴）；第 11 章「New Sibling」（孕期保持规律、别硬撑英雄主义、大宝睡什么床、必要时退回婴儿床、床帐兜底）。家长案例均为书中原文。
+- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版。第 7 章「A Regular Bed and the Arrival of a New Baby」（无必须换床的年龄、让孩子开口要、约 2-3 岁多数家庭换、挪早了会因好奇下床、换回婴儿床不造成"退步"、新弟妹等小宝约 4 个月作息稳后挪大宝、空婴儿床可留一段时间、大床无围栏与"social candy"式过度陪伴）；第 11 章「New Sibling」（孕期保持规律、别硬撑英雄主义、大宝睡什么床、必要时退回婴儿床、床帐兜底）。家长案例均为书中原文。
 - AAP healthychildren.org Sleep 页（2025，2026-10-04 核对）：固定就寝流程、清晰界限与安全睡眠；约 6 个月形成规律睡眠周期——与本书方向一致。
 - 说明：换床时机与二胎过渡的建议为作者临床经验（tier-3），书中"约 4 个月""约 2-3 岁"为经验节点，个体可差，勿当硬指标。

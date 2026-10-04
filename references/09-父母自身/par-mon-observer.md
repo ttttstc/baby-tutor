@@ -144,8 +144,8 @@ note: |
 
 - Paula Polk Lillard & Lynn Lillard Jessen《Montessori from the Start》Schocken Books, 2003
   - ch1（epub 页码 p13-25）："刺激"含糊之弊、人的倾向框架
-  - ch2（p27-39）：专注被引向大人即断的机制、鼓掌/夸奖/亲吻的打断定性、3 岁瓶盖例与 zoom-zoom 反例、主观体验观察、Baumrind 四象限、心流、Rathunde 研究（脚注）
-  - ch5（p79-80）：电视劫持定向反应（引 Kubey & Csikszentmihalyi, Scientific American 2002）
+  - ch2：专注被引向大人即断的机制、鼓掌/夸奖/亲吻的打断定性、3 岁瓶盖例与 zoom-zoom 反例、主观体验观察、Baumrind 四象限、心流、Rathunde 研究（脚注）
+  - ch5：电视劫持定向反应（引 Kubey & Csikszentmihalyi, Scientific American 2002）
   - ch9（p212 附近）：电视/电子游戏/塑料玩具与过度刺激让孩子难以形成专注与意志
 - 卫健委《3岁以下婴幼儿健康养育照护指南（2022）》：亲子交流与玩耍、限制屏幕时间——方向一致性核对，2026-10-03 核对
 - CDC「Act Early」发育里程碑（社交红旗：唤名、对视、指物）——红线校准，2026-10-03

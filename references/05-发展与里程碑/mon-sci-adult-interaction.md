@@ -50,9 +50,9 @@ note: |
 
 （按证据强度分级）
 
-**依恋：敏感回应是安全感的来源。** 约 **70% 的美国婴儿形成安全依恋**；**Matas, Arend & Sroufe 1978**：安全依恋的幼儿后来是**更擅长解决问题的人**（p259-260）。**De Wolff & van IJzendoorn 1997** 元分析：母亲敏感时，婴儿形成安全依恋的概率约 **62%；母亲不敏感时降到约 38%**。**Bakermans-Kranenburg et al 2003** 汇总 **88 项干预研究**，确认"母亲敏感度"对依恋有**因果**作用。
+**依恋：敏感回应是安全感的来源。** 约 **70% 的美国婴儿形成安全依恋**；**Matas, Arend & Sroufe 1978**：安全依恋的幼儿后来是**更擅长解决问题的人**。**De Wolff & van IJzendoorn 1997** 元分析：母亲敏感时，婴儿形成安全依恋的概率约 **62%；母亲不敏感时降到约 38%**。**Bakermans-Kranenburg et al 2003** 汇总 **88 项干预研究**，确认"母亲敏感度"对依恋有**因果**作用。
 
-**养育风格：温暖 × 要求，权威型最好（核心证据）。** Baumrind 用"**温暖**"和"**要求/控制**"两个维度分出四种养育风格（图 8.1，p267）：**权威型**（高温暖+高要求）效果最好；**专制型**（高要求+低温暖）、**放任型**（高温暖+低要求）、**忽视型**（都低）各有问题。**Steinberg et al 1991** 在约 **一万名**学生中验证权威型对应更好的发展结果（p268-269）；**Dekovic & Janssens 1992** 方向一致。**Kindlon 2001**：放任型养育与更高的行为风险相关。
+**养育风格：温暖 × 要求，权威型最好（核心证据）。** Baumrind 用"**温暖**"和"**要求/控制**"两个维度分出四种养育风格（图 8.1，p267）：**权威型**（高温暖+高要求）效果最好；**专制型**（高要求+低温暖）、**放任型**（高温暖+低要求）、**忽视型**（都低）各有问题。**Steinberg et al 1991** 在约 **一万名**学生中验证权威型对应更好的发展结果；**Dekovic & Janssens 1992** 方向一致。**Kindlon 2001**：放任型养育与更高的行为风险相关。
 
 **"指令性"的效果随孩子年龄反转（重要细化）。** **Landry et al 2000**：对很小的孩子，成人的**直接指令/引导**有积极作用；**但随着孩子长大，过多的指令越来越有害**——成人要给的是脚手架，不是命令。这解释了为什么"高要求"不等于"多命令"。
 
@@ -134,6 +134,6 @@ note: |
 
 ## 来源
 
-- Angeline Stoll Lillard《Montessori: The Science Behind the Genius》Oxford University Press, 2005。**第 8 章（书页 p257-288）**：约 70% 婴儿安全依恋、Matas Arend & Sroufe 1978（p259-260）、De Wolff & van IJzendoorn 1997 元分析 38% vs 62%、Bakermans-Kranenburg et al 2003 88 项干预研究、Baumrind 养育风格矩阵图8.1、Steinberg et al 1991 约一万学生（p268-269）、Dekovic & Janssens 1992、Landry et al 2000、Kindlon 2001、Mueller & Dweck 1998 92% vs 8%、Kamins & Dweck 1999、Wentzel 2002、Deci Schwartz et al 1981、Montessori 1989 p.78
+- Angeline Stoll Lillard《Montessori: The Science Behind the Genius》Oxford University Press, 2005。**第 8 章（书页 p257-288）**：约 70% 婴儿安全依恋、Matas Arend & Sroufe 1978、De Wolff & van IJzendoorn 1997 元分析 38% vs 62%、Bakermans-Kranenburg et al 2003 88 项干预研究、Baumrind 养育风格矩阵图8.1、Steinberg et al 1991 约一万学生、Dekovic & Janssens 1992、Landry et al 2000、Kindlon 2001、Mueller & Dweck 1998 92% vs 8%、Kamins & Dweck 1999、Wentzel 2002、Deci Schwartz et al 1981、Montessori 1989 p.78
 - **证据分级**：权威型养育、依恋敏感度、表扬方式等均有元分析/大样本支持 → tier-2。
 - extraction：S1-PDF-视觉 Montessori: The Science Behind the Genius p257-288（视觉逐页读取）。

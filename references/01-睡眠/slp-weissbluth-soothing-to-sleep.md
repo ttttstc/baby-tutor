@@ -165,6 +165,6 @@ note: 本条讲"安抚入睡手法"（奶睡抱睡/放床时机/自主入睡/Met
 
 ## 来源
 
-- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版（eISBN 978-0-345-51840-8）。第 2 章「Soothing to Sleep」（安抚=恢复平静、躯体接触/吸吮/节律运动最有效、别打断吮吸、"放床时困但醒着"、motion sleep 是丢失的睡眠）；第 5 章「METHOD A / METHOD B」（两种风格、一致性是关键、不一致破坏节律）；第 6 章「Nurse to Sleep?」（无睡眠问题时奶睡无妨、"放床时困但醒着"、喂完放下就走）。案例（Ares、Katie、Hayden/Lily）为书中原文。
+- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版。第 2 章「Soothing to Sleep」（安抚=恢复平静、躯体接触/吸吮/节律运动最有效、别打断吮吸、"放床时困但醒着"、motion sleep 是丢失的睡眠）；第 5 章「METHOD A / METHOD B」（两种风格、一致性是关键、不一致破坏节律）；第 6 章「Nurse to Sleep?」（无睡眠问题时奶睡无妨、"放床时困但醒着"、喂完放下就走）。案例（Ares、Katie、Hayden/Lily）为书中原文。
 - AAP healthychildren.org Sleep 页（2025，2026-10-04 核对）：约 6 个月形成规律睡眠周期；安全睡眠（仰卧、硬床垫、同房不同床）以 AAP 政策为准，本条不含。
 - 说明："睡眠是习得行为、一致性关键"为作者临床框架（tier-3）；吮吸无害、延长抓取与夜醒无必然因果，为作者对流行"戒奶睡"说法的反驳，有临床观察支持。

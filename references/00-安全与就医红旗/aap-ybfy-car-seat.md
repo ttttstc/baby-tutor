@@ -50,9 +50,9 @@ sources:
 
 ## 机制
 
-- **为什么后向更安全**（书第11章）：后向时，碰撞的力由孩子的整个背部和头枕承担、被分散到座椅壳体上；就近两周岁前头大颈弱，颈椎扛不住前向的甩鞭力。书第9章给出底线——"children should remain in rear-facing car seats until at least the age of two years"；第11章补充，几乎所有可转换座椅的后向体重/身长上限都足以让多数孩子"ride rear-facing well past the second birthday"。
+- **为什么后向更安全**：后向时，碰撞的力由孩子的整个背部和头枕承担、被分散到座椅壳体上；就近两周岁前头大颈弱，颈椎扛不住前向的甩鞭力。书第9章给出底线——"children should remain in rear-facing car seats until at least the age of two years"；第11章补充，几乎所有可转换座椅的后向体重/身长上限都足以让多数孩子"ride rear-facing well past the second birthday"。
 - **为什么后排不可替代**（书第11章 Installing）："to prevent head and spine injuries from the deployment of an airbag……the safest place for all children to ride is in the backseat"。前排气囊对成人是保护，对后向座椅里的婴儿是致命力——"even in a low-speed crash, the airbag can inflate, strike the car safety seat, and cause serious brain injury and death"。
-- **为什么必须"每次"**（书第11章）：致命碰撞多发生在近途低速；"有座椅但没用"和"没座椅"在统计上差别不大。
+- **为什么必须"每次"**：致命碰撞多发生在近途低速；"有座椅但没用"和"没座椅"在统计上差别不大。
 - **LATCH 与安全带的等效性**（书第11章 Installing）：2002 年后车型配 LATCH（下锚点+系绳），"the systems are equally safe"，主要是安装便利差异。
 - **材料会老化**（书第11章 Choosing）：椅壳在冷热循环下会变脆，所以多数厂商建议座椅只用六年——按制造日期、说明书或壳体上打的日期查保质期。
 
@@ -73,10 +73,10 @@ sources:
 
 - **首次乘车（书第11章 Where We Stand）**：AAP 呼吁所有出院新生儿都以后向座椅抱回家；低出生体重婴儿应以后向乘坐，并在安全系统外侧、身体两侧垫足填充。
 - **后向时长（书第9、11章）**：后向至少到两岁；几乎所有可转换座椅的上限允许多数孩子"well past the second birthday"继续后向。
-- **坐后排的年龄上限（书第11章）**：所有十三岁以下儿童最安全的位置都在后排。
-- **保质期（书第11章）**：多数厂商建议座椅只用六年；过期日见说明书，或座椅标签/壳体冲压。
-- **事故后（书第11章）**：中重度碰撞后"should not be used, even if it looks fine"；轻微碰撞满足五个条件（车能开离现场、靠座椅那侧车门未损、无人受伤、气囊未弹出、座椅无可见损伤）可继续用，但部分厂商仍建议更换。
-- **早产/低体重（书第11章）**：出院前应由医院人员在座椅中观察，确认半躺姿势不引起心率低、血氧低或呼吸问题。
+- **坐后排的年龄上限**：所有十三岁以下儿童最安全的位置都在后排。
+- **保质期**：多数厂商建议座椅只用六年；过期日见说明书，或座椅标签/壳体冲压。
+- **事故后**：中重度碰撞后"should not be used, even if it looks fine"；轻微碰撞满足五个条件（车能开离现场、靠座椅那侧车门未损、无人受伤、气囊未弹出、座椅无可见损伤）可继续用，但部分厂商仍建议更换。
+- **早产/低体重**：出院前应由医院人员在座椅中观察，确认半躺姿势不引起心率低、血氧低或呼吸问题。
 
 ## 实操方法
 

@@ -167,6 +167,6 @@ note: 本条讲"夜醒/醒后难再睡"的处理（fading/extinction/椅法、�
 
 ## 来源
 
-- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版（eISBN 978-0-345-51840-8）。第 2 章（唤醒正常与保护性唤醒、"唤醒由大脑不是胃制造"、碎片化代价、切勿叫醒睡着的宝宝）；第 3 章「Night Waking, Difficulty Staying Asleep」（夜醒正常、问题是醒后不能自主再睡）；第 6 章「Night Wakings」（4-8 个月两群易夜醒者：20% 肠绞痛史、10% 打鼾张口呼吸；夜醒成因 vs 谣言清单；出牙芬兰 233 人研究、生长痛 2178 人研究；fading/椅法逐级序列与 extinction；少吃一顿、改水、不抱起、不说话、椅子外移；"出床次数"与夜活动；父亲接手的 Minde 研究）。案例均为书中原文。
+- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版。第 2 章（唤醒正常与保护性唤醒、"唤醒由大脑不是胃制造"、碎片化代价、切勿叫醒睡着的宝宝）；第 3 章「Night Waking, Difficulty Staying Asleep」（夜醒正常、问题是醒后不能自主再睡）；第 6 章「Night Wakings」（4-8 个月两群易夜醒者：20% 肠绞痛史、10% 打鼾张口呼吸；夜醒成因 vs 谣言清单；出牙芬兰 233 人研究、生长痛 2178 人研究；fading/椅法逐级序列与 extinction；少吃一顿、改水、不抱起、不说话、椅子外移；"出床次数"与夜活动；父亲接手的 Minde 研究）。案例均为书中原文。
 - AAP healthychildren.org Sleep 页（2025，2026-10-04 核对）：6 个月婴儿夜间醒来后几分钟内再睡属正常——与本书一致。
 - 说明：fading/extinction/check-and-console 在睡眠训练领域有多篇 RCT 支持（渐进消退法），但本书的具体处方（阈值、时序）为作者临床经验，故整体标 tier-3；具体行为策略的证据强度在正文「机制/实操」内分别标注。

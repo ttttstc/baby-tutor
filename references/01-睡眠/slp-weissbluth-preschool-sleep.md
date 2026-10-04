@@ -163,6 +163,6 @@ note: 本条讲「学龄前（3-6 岁）的睡眠需求、午觉退场与就寝�
 
 ## 来源
 
-- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版（eISBN 978-0-345-51840-8）。第 8 章「Preschool Children」：午睡退场比例（3 岁 91%、4 岁约 50%、5 岁约 25%、6 岁基本无）与长度（3-4 岁 1-3h、5-6 岁 1-2h）；"A missed nap is sleep lost forever"；睡眠-气质关联（12.4/11.8/11.4/12.0 小时数据）；睡眠-行为关联（外化行为与缺觉、John Bates 202 例 4-5 岁直接效应、规律就寝与学校适应、日本/德国 5-6 岁短睡与肥胖）；学龄前就寝仪式清单；4 岁的"贴出来的日程"；Day Correction of Bedtime Problems（Tired-Quiet-Relaxed、日间练自我安抚）。家长案例均为书中原文。
+- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版。第 8 章「Preschool Children」：午睡退场比例（3 岁 91%、4 岁约 50%、5 岁约 25%、6 岁基本无）与长度（3-4 岁 1-3h、5-6 岁 1-2h）；"A missed nap is sleep lost forever"；睡眠-气质关联（12.4/11.8/11.4/12.0 小时数据）；睡眠-行为关联（外化行为与缺觉、John Bates 202 例 4-5 岁直接效应、规律就寝与学校适应、日本/德国 5-6 岁短睡与肥胖）；学龄前就寝仪式清单；4 岁的"贴出来的日程"；Day Correction of Bedtime Problems（Tired-Quiet-Relaxed、日间练自我安抚）。家长案例均为书中原文。
 - AAP healthychildren.org Sleep 页（2025，2026-10-04 核对）：固定就寝流程与作息规律、3-5 岁建议每天 10-13 小时（含午睡）；打鼾/呼吸暂停需评估——与本书方向一致。
 - 说明：午睡比例、气质/行为关联为作者研究与少量他研究；"睡眠直接影响白天行为"有 tier-2 研究支持，但因果方向仍存争议，故整体标 tier-3。

@@ -152,6 +152,6 @@ note: 本条讲"夜醒的归因辨析"（不是长牙/生长痛）；「夜醒�
 
 ## 来源
 
-- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版（eISBN 978-0-345-51840-8）。第 6 章：「Night waking is not caused by」（糖分/夜间低血糖/缺锌/蛲虫/胃食管反流）；出牙段（芬兰 233 例 4-30 个月每日随访研究、20 世纪初英国 5% 儿童死亡归因出牙的历史）；生长痛段（2178 例 6-19 岁研究、生长速率无差异）；「Night waking may be caused by」（发热、中耳炎、湿疹）；"6-18 个月夜醒更可能由小睡剥夺/过刺激/作息错乱导致"。
+- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版。第 6 章：「Night waking is not caused by」（糖分/夜间低血糖/缺锌/蛲虫/胃食管反流）；出牙段（芬兰 233 例 4-30 个月每日随访研究、20 世纪初英国 5% 儿童死亡归因出牙的历史）；生长痛段（2178 例 6-19 岁研究、生长速率无差异）；「Night waking may be caused by」（发热、中耳炎、湿疹）；"6-18 个月夜醒更可能由小睡剥夺/过刺激/作息错乱导致"。
 - AAP healthychildren.org Sleep 页（2025，2026-10-04 核对）：约 6 个月才形成规律睡眠周期、6 月龄夜醒后能自行睡回属正常——与本书方向一致。
 - 说明：芬兰出牙研究、生长痛研究为同行评议研究（较强证据）；"夜醒主因是作息与强化"为作者框架（tier-3）；整体条目按核心处理思路标 tier-3。

@@ -46,7 +46,7 @@ note: |
 
 可是有个现象你没细想：他玩玩具三分钟就跑，却能专注地"剥橘子"十几分钟，一遍遍往洗衣机里塞衣服、往你的购物袋里装东西、把湿衣服从盆里捞出来。他不是在捣乱——**他在用全部热情申请加入这个家庭的运作**，而你的每一次"别动/让开/我来"都在驳回申请。
 
-原书的立场：toddler 对"参与真实生活"的兴趣高于任何玩具（原书："These activities might be chores to us, but young children love them"），而且这个意愿窗口不会一直敞开——作者提醒"start young to lay a strong foundation while they are willing"（趁他们还愿意的时候趁早打地基）。蒙氏把这做成了完整系统：**practical life（生活实践）活动**——用儿童尺寸的真工具、托盘化的准备、脚手架式的教学，让娃从一岁起的每件家务都有他的一席。
+原书的立场：toddler 对"参与真实生活"的兴趣高于任何玩具（"These activities might be chores to us, but young children love them"），而且这个意愿窗口不会一直敞开——作者提醒"start young to lay a strong foundation while they are willing"（趁他们还愿意的时候趁早打地基）。蒙氏把这做成了完整系统：**practical life（生活实践）活动**——用儿童尺寸的真工具、托盘化的准备、脚手架式的教学，让娃从一岁起的每件家务都有他的一席。
 
 ## 核心判断
 
@@ -54,7 +54,7 @@ note: |
 
 ## 机制
 
-**发展驱动的真实参与欲**：toddler 的核心发展任务是成为所属群体的一员（原书："They want to be a significant member of the family"）。过家家玩具给的是模仿，真实家务给的是身份——他擦的地真的变干了，这份"真"是玩具替代不了的。（蒙氏理论，tier-3）
+**发展驱动的真实参与欲**：toddler 的核心发展任务是成为所属群体的一员（"They want to be a significant member of the family"）。过家家玩具给的是模仿，真实家务给的是身份——他擦的地真的变干了，这份"真"是玩具替代不了的。（蒙氏理论，tier-3）
 
 **动作序列与专注**：生活实践活动天然带完整序列（取围裙—做—擦干—送洗脏布），重复练习序列是专注力的建筑材料（原书 Benefits 节：技能需要重复获得 mastery，利于 building concentration）。一两步的小活动起步、随 mastery 加步骤，是对工作记忆和执行功能的持续训练。（理论框架成熟，无 toddler 家务 RCT——tier-3）
 

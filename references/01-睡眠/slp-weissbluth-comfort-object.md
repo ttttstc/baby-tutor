@@ -149,6 +149,6 @@ note: 本条讲"跨地点的睡眠信号一致性 + 安抚物"；「房间暗静
 
 ## 来源
 
-- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版（eISBN 978-0-345-51840-8）。第 2 章（"床应无聊"、彩色床品/床铃的吐槽、入睡是学来的联结）；第 3 章「Will Not Sleep Anywhere Else」（两地放同一音乐、同一柔软可抓握物、同一（睡眠专用）气味、同作息同流程）；第 6 章「Comforting Habits」（摇篮曲/抚触/拍抱要一致；软毯、玩偶、绒毛玩具、弱光夜灯、奶睡的安抚清单）。
+- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版。第 2 章（"床应无聊"、彩色床品/床铃的吐槽、入睡是学来的联结）；第 3 章「Will Not Sleep Anywhere Else」（两地放同一音乐、同一柔软可抓握物、同一（睡眠专用）气味、同作息同流程）；第 6 章「Comforting Habits」（摇篮曲/抚触/拍抱要一致；软毯、玩偶、绒毛玩具、弱光夜灯、奶睡的安抚清单）。
 - AAP 安全睡眠指南（2025，2026-10-04 核对）：**婴儿床面清空（无枕头、软物、玩偶、松被），至少第一年**——与本书"床内放软毯/玩偶"的安抚清单不一致，**本条以 AAP 为准并标注分歧**。
 - 说明：跨地点信号一致性为作者临床建议（tier-3）；床内软物的安全要求以 AAP 政策（tier-1）为准。

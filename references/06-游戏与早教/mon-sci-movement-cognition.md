@@ -54,7 +54,7 @@ note: |
 
 **主动运动 vs 被动接收（动物实验，方向明确）。** 把小猫放进"旋转木马"，一组自己走带动整个装置，一组被装置推着走。两只猫看到的光流几乎一样，但**只有自己动的那组发展出了正常的视觉引导行为**（Held & Hein 1963，p40）。这说明"自己产生动作"是感知-运动系统发育的关键条件，被别人带着动不行。
 
-**婴儿"手先于脑"——获得动作能力会带动认知（婴儿研究）。** Needham 给婴儿戴上魔术贴手套，让他们凭空获得抓握能力；这些婴儿随后**更多地注视自己的手和物体**（p41-42）。Woodward 1998 发现婴儿会把伸手解释成"目标"——动作成了理解意图的线索。**Bai & Bertenthal 1992** 更直接：婴儿自主移动（约 7-8 月会爬）的出现，与他们能去找"藏起来的物体"相关——**会爬这件事改变了空间认知**（p42-43）。
+**婴儿"手先于脑"——获得动作能力会带动认知（婴儿研究）。** Needham 给婴儿戴上魔术贴手套，让他们凭空获得抓握能力；这些婴儿随后**更多地注视自己的手和物体**。Woodward 1998 发现婴儿会把伸手解释成"目标"——动作成了理解意图的线索。**Bai & Bertenthal 1992** 更直接：婴儿自主移动（约 7-8 月会爬）的出现，与他们能去找"藏起来的物体"相关——**会爬这件事改变了空间认知**。
 
 **最直观的一条：自己动 vs 被带过去。** **Benson & Uzgiris 1985** 让 10 月龄婴儿去够一块布下面的玩具：**自己爬过去的那组 26 人里几乎都第一次就找到了；被抱着送过去的那组，26 人里只有 1 人找到**。同样的信息、同样的距离，差别只在于"是自己移动过去的"——身体动作把空间关系"编码"进了大脑。
 
@@ -137,6 +137,6 @@ note: |
 
 ## 来源
 
-- Angeline Stoll Lillard《Montessori: The Science Behind the Genius》Oxford University Press, 2005。**第 2 章 "The Impact of Movement on Learning and Cognition"（书页 p38-57，PDF p55-74）**：蒙氏原话引 Montessori 1967a, p. 142（书 p40）、Held & Hein 1963 小猫旋转木马、Needham 魔术贴手套（p41-42）、Woodward 1998、Bai & Bertenthal 1992（p42-43）、Rovee-Collier & Hayne 2000、Benson & Uzgiris 1985、Rieger Garing & Young 1994、Levin Siegler & Druyan 1990、Schwartz & Black 1999、Stigler 1984、Wells & Petty 1980、Glenberg & Kaschak 2002、Montessori 1967a, p. 152
+- Angeline Stoll Lillard《Montessori: The Science Behind the Genius》Oxford University Press, 2005。**第 2 章 "The Impact of Movement on Learning and Cognition"（书页 p38-57，PDF p55-74）**：蒙氏原话引 Montessori 1967a, p. 142（书 p40）、Held & Hein 1963 小猫旋转木马、Needham 魔术贴手套、Woodward 1998、Bai & Bertenthal 1992、Rovee-Collier & Hayne 2000、Benson & Uzgiris 1985、Rieger Garing & Young 1994、Levin Siegler & Druyan 1990、Schwartz & Black 1999、Stigler 1984、Wells & Petty 1980、Glenberg & Kaschak 2002、Montessori 1967a, p. 152
 - **证据分级**：本条核心主张"主动动作参与促进学习"由多个对照实验支持 → tier-2；但"蒙氏教具因此有效"未被本书单独验证，正文已标注区分。
 - extraction：S1-PDF-视觉 Montessori: The Science Behind the Genius p38-57（视觉逐页读取，PDF 页码 = 书页 + 17）。

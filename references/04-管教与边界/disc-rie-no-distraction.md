@@ -80,19 +80,19 @@ Janet Lansbury 在《No Bad Kids》里专门用一整章反对这个流行招数
 
 ## 实操方法
 
-1. **先深呼吸、别急着抢镜**（c07）。除非危险马上发生（手快碰到插座、拳头快碰到头），先停一秒——你的平静是后面一切的基础。危险即时发生的，直接动手（握住、拿开），再说话。
+1. **先深呼吸、别急着抢镜**。除非危险马上发生（手快碰到插座、拳头快碰到头），先停一秒——你的平静是后面一切的基础。危险即时发生的，直接动手（握住、拿开），再说话。
 2. **危险场景给直话，不给引开**（c07/c04）。"I can't let you touch that. It's not safe. I'm going to help you let go."（我不能让你碰，这不安全，我帮你放开。）——不解释艺术、不塞替代品，说清规则+跟进。
 3. **同伴争端：先解说、别当裁判**（c07 sportscasting）。把正在发生的事客观讲出来，不贴标签、不判谁对谁错、不倾向任何一方。允许争夺存在（别急着分流），但不许互相伤害。
-4. **只拦伤害，不拦情绪**（c07）。"I see you're frustrated, but I won't let you hit."（我知道你很挫败，但我不让你打。）——行为拦下，情绪留下。
-5. **争端过后，分别确认各自观点**（c07）。"Jake has the truck now. John, you wanted it. You're upset."（Jake 现在有卡车，John 你想要，你很委屈。）给孩子真实感受被看见的机会，并准备好在他们需要时给安慰。
-6. **看见并鼓励创造性与好奇**（c07）。他费劲够到你的墨镜——先赞他的努力："Wow, you reached all the way up to the counter and picked up my sunglasses!"再定界限："你可以看、可以摸，但我不让你拿走。"这样"好奇心"和"规则"同时被接住（详见 disc-rie-cooperation-care 的 curiosity rocks）。
-7. **想要孩子"自己解决"，得给时间、给信任**（c07）。书里的立场：孩子需要 time and our confidence in them（时间和我们的信心）才能学会处理冲突。你的沉默、不插手、只做解说，本身就是给他的练习场。
+4. **只拦伤害，不拦情绪**。"I see you're frustrated, but I won't let you hit."（我知道你很挫败，但我不让你打。）——行为拦下，情绪留下。
+5. **争端过后，分别确认各自观点**。"Jake has the truck now. John, you wanted it. You're upset."（Jake 现在有卡车，John 你想要，你很委屈。）给孩子真实感受被看见的机会，并准备好在他们需要时给安慰。
+6. **看见并鼓励创造性与好奇**。他费劲够到你的墨镜——先赞他的努力："Wow, you reached all the way up to the counter and picked up my sunglasses!"再定界限："你可以看、可以摸，但我不让你拿走。"这样"好奇心"和"规则"同时被接住（详见 disc-rie-cooperation-care 的 curiosity rocks）。
+7. **想要孩子"自己解决"，得给时间、给信任**。书里的立场：孩子需要 time and our confidence in them（时间和我们的信心）才能学会处理冲突。你的沉默、不插手、只做解说，本身就是给他的练习场。
 
 ## 备选计策
 
 - **公共场合、场面失控在即**：优先"搬离+处理"，不是为了围观硬当众解决（参见 disc-rie-tantrums）。搬离不是转移注意力——你不掩盖，你换了场地继续回应
 - **危险物防不胜防的家庭**：把环境先做安全（插座保护盖、划定探索区、易碎物上锁），减少"必须拦"的次数——预防治本，比每次现场拆弹省力（c29 annoyance factor，详见 disc-rie-punishment-vs-limits）
-- **两个孩子年龄差大的家庭**：需要"保护大孩子作品"的物理安排（高处作业面），别让公平成了不管的借口（c24）——公平不等于放任
+- **两个孩子年龄差大的家庭**：需要"保护大孩子作品"的物理安排（高处作业面），别让公平成了不管的借口——公平不等于放任
 - **高敏感/慢热孩子的同伴场景**：把解说降到最少、给更多空间，让他自己先缓冲
 
 ## 决策规则

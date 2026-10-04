@@ -167,6 +167,6 @@ note: 本条讲"同床/分床/家床转 crib"；「睡眠环境布置」见 slp-
 
 ## 来源
 
-- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版（eISBN 978-0-345-51840-8）。第 2 章「Family Bed versus Crib」（early cosleepers vs reactive cosleepers、约 1/3 白人城市家庭同睡、同睡与日后睡眠问题相关多发生在 reactive 群、AAP/CPSC 不鼓励同床的原因、若要同睡的安全措施、约 1-2 岁同睡与夜醒）；第 4 章「Transition from Family Bed to Crib」（逐步、数月、sidecar crib、床垫落地、父母同意、先立即回应后延迟、"不必先断奶"）；第 6 章（"Only One Bedroom"一间房对策：父母睡客厅、让房给孩子）。案例均为书中原文。
+- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版。第 2 章「Family Bed versus Crib」（early cosleepers vs reactive cosleepers、约 1/3 白人城市家庭同睡、同睡与日后睡眠问题相关多发生在 reactive 群、AAP/CPSC 不鼓励同床的原因、若要同睡的安全措施、约 1-2 岁同睡与夜醒）；第 4 章「Transition from Family Bed to Crib」（逐步、数月、sidecar crib、床垫落地、父母同意、先立即回应后延迟、"不必先断奶"）；第 6 章（"Only One Bedroom"一间房对策：父母睡客厅、让房给孩子）。案例均为书中原文。
 - AAP 安全睡眠政策（2025，2026-10-04 校准）：同房不同床至少 6 个月、避免危险同床、清空软物、仰卧——本条安全层与红线以此为准。
 - 说明：同床"动机分层"（early vs reactive）与转床方法为作者临床经验（tier-3）；本轮核心安全主张（避免危险同床、同房不同床）为 tier-1。两源在"应急式同床更易出问题""同睡不防 SIDS"上方向一致。

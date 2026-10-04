@@ -162,6 +162,6 @@ note: 本条讲「会爬走孩子下床/就寝拖延的行为处理」；「睡�
 
 ## 来源
 
-- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版（eISBN 978-0-345-51840-8）。第 7 章「Getting Out of the Crib or Bed：The Jack-in-the-Box Syndrome」（下床行为机制、五步方案、"Down is down"、"silent return to sleep"、门上挂铃/对讲机、隔天轮换同晚不换人、渐进关门、床帐与锁门、睡眠规则海报四条、星星表、奖励 vs 贿赂、"奖励不够即失败"、26 个月 Nicole 案例 69/145/0 次、response burst）；第 8 章「Day Correction of Bedtime Problems」（Tired-Quiet-Relaxed、"dolphin game"、锁定门、睡眠规则 #5（听到音乐/鸟叫/闹钟才出房间）与 #6（怕就摇一次铃、只来一次）、"问题先变坏再变好"、English 研究 84% 与 90% 改善）。家长案例均为书中原文。
+- Healthy Sleep Habits, Happy Child, Marc Weissbluth, Ballantine 2003 修订版。第 7 章「Getting Out of the Crib or Bed：The Jack-in-the-Box Syndrome」（下床行为机制、五步方案、"Down is down"、"silent return to sleep"、门上挂铃/对讲机、隔天轮换同晚不换人、渐进关门、床帐与锁门、睡眠规则海报四条、星星表、奖励 vs 贿赂、"奖励不够即失败"、26 个月 Nicole 案例 69/145/0 次、response burst）；第 8 章「Day Correction of Bedtime Problems」（Tired-Quiet-Relaxed、"dolphin game"、锁定门、睡眠规则 #5（听到音乐/鸟叫/闹钟才出房间）与 #6（怕就摇一次铃、只来一次）、"问题先变坏再变好"、English 研究 84% 与 90% 改善）。家长案例均为书中原文。
 - AAP healthychildren.org Sleep 页（2025，2026-10-04 核对）：睡眠周期发育、固定就寝流程与清晰界限；打鼾/呼吸暂停需评估——与本书方向一致。
 - 说明：本条核心为行为干预（学习理论 + 作者临床经验），整体标 tier-3；书中"3-4 晚见效""84%/90% 改善"为特定研究/择例数字，勿外推。

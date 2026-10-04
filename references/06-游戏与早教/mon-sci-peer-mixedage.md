@@ -58,7 +58,7 @@ note: |
 
 **"教别人"让教者受益最大（强证据）。** **Annis 1983**：把学生分成几组对比，**"互相教"的那一组理解最好**。**Benware & Deci 1984**：预先被告知"要教给别人"的学生，学习效果**约为只为自己学的一倍**。**Brown & Kane 1988**：在类比推理任务中，会去解释/教别人的孩子，使用类比的频率**约翻倍**。**Graesser & Person 1994**：在辅导情境中，**被辅导者提出的问题数量是常规课堂的 240 倍**——被"允许提问、被同伴带动"时，孩子的问题意识被极大激活。
 
-**同伴的影响靠"参与结构"而非人数。** **Greenwood et al 1987**：重视同伴互动与参与的教学安排下，**学生参与率约 87%，对照约 75%**。而传统讲座式课堂，注意力维持很低（书内第 6 章的基调）。**每教师 30-35 名儿童**是蒙氏混龄班常见的比例上限（p201-202）。
+**同伴的影响靠"参与结构"而非人数。** **Greenwood et al 1987**：重视同伴互动与参与的教学安排下，**学生参与率约 87%，对照约 75%**。而传统讲座式课堂，注意力维持很低（书内第 6 章的基调）。**每教师 30-35 名儿童**是蒙氏混龄班常见的比例上限。
 
 **为什么"教别人"最受益。** 机制上是"生成效应"：当一个人预期要**讲给别人听**，他必须把零散的知识重新组织成"能说得清"的结构，找出自己其实没懂的地方，还要用对方能懂的话表达——这一整套加工远比"自己听懂"更深。所以"当小老师"的一方进步最大，被辅导的一方则因为能**随时提问**（Graesser & Person 的 240 倍）而获得常规课堂给不了的一对一反馈。**"混龄"的价值则更像"最近发展区"**：孩子向"略高于自己"的同伴学习最有效，差距太大（大孩子早已会、小孩子完全跟不上）双方都无收益——这正是收益呈"中等跨度最佳"曲线的原因。
 
@@ -134,6 +134,6 @@ note: |
 
 ## 来源
 
-- Angeline Stoll Lillard《Montessori: The Science Behind the Genius》Oxford University Press, 2005。**第 6 章（书页 p192-223）**：Bandura 波波玩偶、Meltzoff & Moore 1983 新生儿模仿、Hanna & Meltzoff 1993 同伴示范优于成人、Bailey Burchinal & McWilliam 1993 混龄二次曲线、每教师 30-35 名儿童（p201-202）、Greenwood et al 1987 87% vs 75%、Annis 1983 教的一组理解最好、Benware & Deci 1984 成绩约翻倍、Brown & Kane 1988 类比使用翻倍、Graesser & Person 1994 提问 240 倍
+- Angeline Stoll Lillard《Montessori: The Science Behind the Genius》Oxford University Press, 2005。**第 6 章（书页 p192-223）**：Bandura 波波玩偶、Meltzoff & Moore 1983 新生儿模仿、Hanna & Meltzoff 1993 同伴示范优于成人、Bailey Burchinal & McWilliam 1993 混龄二次曲线、每教师 30-35 名儿童、Greenwood et al 1987 87% vs 75%、Annis 1983 教的一组理解最好、Benware & Deci 1984 成绩约翻倍、Brown & Kane 1988 类比使用翻倍、Graesser & Person 1994 提问 240 倍
 - **证据分级**：同伴教学、教者受益、同伴示范等有实验支持（tier-2 级证据）；但"蒙氏式混龄"的具体收益呈中等跨度最佳曲线，整体记 tier-3。
 - extraction：S1-PDF-视觉 Montessori: The Science Behind the Genius p192-223（视觉逐页读取）。
