@@ -37,7 +37,7 @@
 baby-tutor/
 ├── SKILL.md                    # 主 skill（消费端）
 ├── references/                 # 知识库
-│   ├── _index/                 # 10 个分类索引（检索层）
+│   ├── _index/                 # 两级索引：分类簇表 + clusters/ 二级子索引
 │   ├── 00-安全与就医红旗/ … 09-父母自身/
 ├── skills/
 │   └── baby-distill/           # 蒸馏 skill（生产端工具）

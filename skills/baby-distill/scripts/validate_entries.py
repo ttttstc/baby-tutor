@@ -63,7 +63,7 @@ def main():
                     errors['conflicts悬空'].append(f'{os.path.basename(p)}→{cid}')
     # 索引覆盖
     indexed = set()
-    for f in glob.glob(os.path.join(REFS,'_index','*.md')):
+    for f in glob.glob(os.path.join(REFS,'_index','**','*.md'), recursive=True):
         for line in open(f,encoding='utf-8'):
             mm = re.match(r'^\|\s*`([^`]+)`', line)
             if mm: indexed.add(mm.group(1).replace(' ⤴副','').strip())
