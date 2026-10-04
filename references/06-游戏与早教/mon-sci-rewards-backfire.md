@@ -52,13 +52,13 @@ note: |
 
 （按证据强度分级）
 
-**预期奖励削弱内在动机（经典实验）。** **Lepper, Greene & Nisbett 1973**：让本来就爱画画的孩子画画，一组事先被告知"画完有奖励"。之后在自由活动时间，**拿过奖励的那组自发画画的量只有对照组的一半**（p155）。**Deci 1971**：付费（**每拼图 1 美元**）玩 SOMA 拼图的人，在自由时间更少继续玩（p156）。
+**预期奖励削弱内在动机（经典实验）。** **Lepper, Greene & Nisbett 1973**：让本来就爱画画的孩子画画，一组事先被告知"画完有奖励"。之后在自由活动时间，**拿过奖励的那组自发画画的量只有对照组的一半**。**Deci 1971**：付费（**每拼图 1 美元**）玩 SOMA 拼图的人，在自由时间更少继续玩。
 
 **大规模元分析确认这条规律（强证据）。** **Deci, Koestner & Ryan 1999** 汇总 **128 项实验**得出结论：**有形的（tangible）奖励会可靠地削弱内在动机**（p158-159）。**Grolnick & Ryan 1987**、**Lepper & Henderlong 2000** 方向一致（p157、p160-161）。
 
-**关键在于奖励"感觉上是不是控制你"。** **Graham & Golan 1991** 的元分析区分：**让人觉得"被控制"的奖励削弱动机，而"信息性"的反馈（帮你了解自己做得怎样）不削弱、甚至有益**（p161）。这解释了为什么"夸努力"和"买行为"效果相反。
+**关键在于奖励"感觉上是不是控制你"。** **Graham & Golan 1991** 的元分析区分：**让人觉得"被控制"的奖励削弱动机，而"信息性"的反馈（帮你了解自己做得怎样）不削弱、甚至有益**。这解释了为什么"夸努力"和"买行为"效果相反。
 
-**奖励让坚持时间变短、帮助变少。** **McGraw & McCullers 1979**：被奖励的孩子做任务的时间只有对照组的**一半**（p162）。**Glucksberg 1962**：**无奖励组比有奖励组多坚持了 3.5 分钟**（p162）。**Fabes et al 1989**：在没有奖励的情况下，**85% 的孩子主动帮忙**（p164-165）——孩子本来就有内在的帮助动机，是奖励把它挤走了。
+**奖励让坚持时间变短、帮助变少。** **McGraw & McCullers 1979**：被奖励的孩子做任务的时间只有对照组的**一半**。**Glucksberg 1962**：**无奖励组比有奖励组多坚持了 3.5 分钟**。**Fabes et al 1989**：在没有奖励的情况下，**85% 的孩子主动帮忙**（p164-165）——孩子本来就有内在的帮助动机，是奖励把它挤走了。
 
 **蒙氏的做法是"自我修正"而非"外部奖惩"。** 蒙氏材料用"错误控制（Control of Error）"让孩子自己看出对不对（p174-175），用对照图（Control Maps，p175-176）自查，而不是靠老师发奖；蒙氏本人也反对用糖果奖励（"Silence Game"与糖果，p173）。
 
@@ -135,6 +135,6 @@ note: |
 
 ## 来源
 
-- Angeline Stoll Lillard《Montessori: The Science Behind the Genius》Oxford University Press, 2005。**第 5 章（书页 p152-191）**：Lepper Greene & Nisbett 1973 奖励→画画减半（p155）、Deci 1971 每拼图 1 美元（p156）、Lepper & Henderlong 2000（p157）、Deci Koestner & Ryan 1999 128 项实验元分析（p158-159）、Grolnick & Ryan 1987（p160-161）、Graham & Golan 1991（p161）、McGraw & McCullers 1979（p162）、Glucksberg 1962 无奖励多 3.5 分钟（p162）、Fabes et al 1989 85% 帮忙（p164-165）、Control of Error（p174-175）、Control Maps 18×30（p175-176）、Montessori 反对糖果奖励（p173）
+- Angeline Stoll Lillard《Montessori: The Science Behind the Genius》Oxford University Press, 2005。**第 5 章（书页 p152-191）**：Lepper Greene & Nisbett 1973 奖励→画画减半、Deci 1971 每拼图 1 美元、Lepper & Henderlong 2000、Deci Koestner & Ryan 1999 128 项实验元分析（p158-159）、Grolnick & Ryan 1987（p160-161）、Graham & Golan 1991、McGraw & McCullers 1979、Glucksberg 1962 无奖励多 3.5 分钟、Fabes et al 1989 85% 帮忙（p164-165）、Control of Error（p174-175）、Control Maps 18×30（p175-176）、Montessori 反对糖果奖励
 - **证据分级**：核心主张"预期/有形奖励削弱内在动机"有 128 项实验的元分析支持 → tier-2。
 - extraction：S1-PDF-视觉 Montessori: The Science Behind the Genius p152-191（视觉逐页读取）。

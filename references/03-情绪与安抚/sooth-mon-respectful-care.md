@@ -135,7 +135,7 @@ note: |
 ## 来源
 
 - Paula Polk Lillard & Lynn Lillard Jessen《Montessori from the Start: The Child at Home, from Birth to Age Three》Schocken Books, 2003
-  - ch7（epub 页码 p121 及 p146-147）："哪个步骤我从孩子手里拿走了"之问（p121）、穿衣预告原话与固定顺序（p146-147）、破裂任务步骤化（系鞋带案例）
+  - ch7（epub 页码 p121 及 p146-147）："哪个步骤我从孩子手里拿走了"之问、穿衣预告原话与固定顺序（p146-147）、破裂任务步骤化（系鞋带案例）
   - ch2（p27-33）：护理/换尿布区布置、观察式照护的房间基础
   - ch8（p164-165）：呀呀语与父母回应的相关性、半速神经传导与"说慢些等回应"
   - ch9（p197-219）：配合式互动从出生建立、"自然领导者"的确定语气、三阶段服从发展
