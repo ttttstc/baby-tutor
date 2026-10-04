@@ -146,6 +146,7 @@ def main():
         cats[cat].append(fm)
 
     total = 0
+    route = []          # 全局路由总表数据：(cat, 总条数, [(簇名, 条数, 一句话)])
     for cat, rows in sorted(cats.items()):
         disp = cat.split('-', 1)[1]
         rules = CLUSTERS.get(cat) or [('全部', '该分类全部条目', r'.')]
@@ -204,6 +205,19 @@ def main():
         if subrows:
             L.append(f'\n> 另有跨类挂靠 {len(subrows)} 条（正文在别类）：见 `_index/clusters/{cat}/_副.md`')
         open(os.path.join(IDX, cat + '.md'), 'w', encoding='utf-8', newline='\n').write('\n'.join(L) + '\n')
+        route.append((cat, len(rows), [(n, c, d) for n, c, d, _ in lvl1]))
+
+    # 全局路由总表：给 LLM 一次读懂全库分类×簇、按理解判路由（替代易脆的关键词表）
+    R = ['# 路由总表 · 全库 %d 条 / %d 分类 / %d 簇' % (total, len(cats), sum(len(r[2]) for r in route)), '',
+         '> **这是路由入口**：读本表 → 你判断最贴切的「分类 · 簇」→ 读该簇子索引 `_index/clusters/<分类>/<NN>-<簇>.md` 匹配条目。',
+         '> **用理解判断，不要只做字面匹配**：家长说"半夜总醒"= 01-睡眠/夜醒与夜奶；"一见生人就哭"= 08/认生与陌生人；"孩子不听话"= 04/沟通共情与不听话。',
+         '> **高频跨类对**（拿不准可列 2 个候选簇）：发脾气 03↔04 · 挑食/自己吃饭 02↔07 · 二胎同胞 04↔08 · 怕黑恐惧 01↔03 · 屏幕 06 · 发烧就医 00。']
+    for cat, cnt, cl in route:
+        R.append('')
+        R.append(f'## {cat}（{cnt} 条）')
+        for i, (name, c, d) in enumerate(cl, 1):
+            R.append(f'- {i:02d} · {name} · {d}')
+    open(os.path.join(IDX, '_route.md'), 'w', encoding='utf-8', newline='\n').write('\n'.join(R) + '\n')
 
     print(f'重建完成: {total} 条条目, {len(cats)} 个分类一级索引 + 二级簇索引')
 
