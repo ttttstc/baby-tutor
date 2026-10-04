@@ -8,28 +8,28 @@
 0. **安全筛查**——命中红旗症状（3月内发热/呼吸窘迫/脱水等）→ 只输出就医指导，跳过方法论
 1. **定位月龄**——唯一必问项（8个月的夜醒和3岁的夜醒是两个问题）
 2. **定分类**——10 类（睡眠/喂养/情绪/管教/发展/早教/自理/社交/父母自身/安全红旗）
-3. **匹配条目**——双通道（用户会怎么问逐字命中 > 判断同一问题 > signals）
+3. **匹配条目**——双通道（用户会怎么问逐字命中 > 判断同一问题）
 4. **输出**——主推方案 + 2-3 条备选（适用家庭/代价）+ 就医红线 + 证据等级
 
 ## 知识库现状
 
-- **1723 条方法论条目**，10 分类
+- **1731 条方法论条目**，10 分类
 - 全部来自**原书实文蒸馏**（`extraction` 字段可溯源到书名+章节 / 官方 URL）
 - **证据分级**：tier-1 机构指南 / tier-2 同行评议 / tier-3 专家专著 / tier-4 流行理念（争议已标注）
 - 每条目 13 节正文（含「正常范围与个体差异」「就医红线」两节育儿特有内容）
 
 | 分类 | 条数 | 主要来源 |
 |---|---|---|
-| 00-安全与就医红旗 | 281 | AAP 育儿百科、崔玉涛、裴洪岗、虾米妈咪、冀连梅、Science of Mom、官方指南 |
+| 00-安全与就医红旗 | 282 | AAP 育儿百科、崔玉涛、裴洪岗、虾米妈咪、冀连梅、Science of Mom、官方指南 |
 | 01-睡眠 | 186 | Precious Little Sleep、法伯、Weissbluth、Kassowitz、实用程序育儿法、小土大橙子、Mindell、Karp |
 | 02-喂养与营养 | 233 | Satter、崔玉涛、Science of Mom、Eliot、BLW |
 | 03-情绪与安抚 | 72 | Karp 5S、Hogg、RIE、Lieberman |
 | 04-管教与边界 | 211 | 蒙氏、Siegel、Faber、Greene、Phelan、德雷克斯、Gordon、Karp |
-| 05-发展与里程碑 | 261 | AAP、Eliot、崔玉涛、Lieberman、Wonder Weeks |
+| 05-发展与里程碑 | 262 | AAP、Eliot、崔玉涛、Lieberman、Wonder Weeks |
 | 06-游戏与早教 | 205 | 蒙氏（3 本）、Dirksen、RIE、Eliot、Cohen、Hanscom、NurtureShock、Suskind |
-| 07-生活自理与习惯 | 125 | AAP、Jana、蒙氏、Azrin-Foxx、Glowacki、Payne |
-| 08-社交与分离 | 65 | Gonzalez-Mina、Fraiberg |
-| 09-父母自身 | 84 | Mindell、佩里、雷诺、Oster、高普尼克、Gonzalez-Mina |
+| 07-生活自理与习惯 | 127 | AAP、Jana、蒙氏、Azrin-Foxx、Glowacki、Payne |
+| 08-社交与分离 | 67 | Gonzalez-Mina、Fraiberg |
+| 09-父母自身 | 86 | Mindell、佩里、雷诺、Oster、高普尼克、Gonzalez-Mina |
 
 ## 目录结构
 
