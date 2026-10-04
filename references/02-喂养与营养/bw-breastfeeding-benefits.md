@@ -1,6 +1,6 @@
 ---
 id: bw-breastfeeding-benefits
-title: 母乳喂养的好处（White 立场转变）——早期（30年前）认为母乳与人工喂养"不会有太大差别"，但 20 世纪 60 年代末医学研究证明母乳"在很多重要的方面都优于人工喂养"、宝宝"基本上都比人工喂养的宝宝更加健康"；White 因此改变立场"强烈建议采用母乳喂养"并"尽可能延长母乳喂养的时间"：芬兰赫尔辛基 237 名儿童研究显示"长期母乳喂养(6 个月或 6 个月以上)能对婴儿起到长期保护作用、影响持续到 3 岁"，反复中耳炎与早期人工喂养"有极强的关联"(尤其男孩)；另有新西兰研究显示母乳提高 5~6 岁儿童语言清晰度与阅读能力(仅男孩)；若无法母乳，须特别关心中耳问题——尤其男孩
+title: 母乳喂养的好处（White 立场转变）
 category: 喂养与营养
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months]
 also_in: [安全与就医红旗, 发展与里程碑]

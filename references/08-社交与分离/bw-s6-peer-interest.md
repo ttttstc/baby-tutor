@@ -1,6 +1,6 @@
 ---
 id: bw-s6-peer-interest
-title: 2岁前孩子不与同龄小伙伴"真正玩耍"——头2年唯一的社会需求是"和你建立稳固、健康的依恋"；17~18个月孩子凑一起会互推互打、强者胁迫弱者服从，真正对同龄的社会兴趣要到第3年；例外：会和3~4岁大孩子玩得挺好
+title: 2岁前孩子不与同龄小伙伴"真正玩耍"
 category: 社交与分离
 age_range: [toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years]
 also_in: [发展与里程碑, 游戏与早教]

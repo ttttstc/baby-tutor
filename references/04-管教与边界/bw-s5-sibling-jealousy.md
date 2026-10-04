@@ -1,6 +1,6 @@
 ---
 id: bw-s5-sibling-jealousy
-title: 二胎相差"3岁以内"时，大宝对弟妹的攻击与嫉妒几乎必然——新生儿阶段不构成竞争，等小宝会爬(约8个月)才真正开始；11~12个月小宝会"被碰之前先哭"，到1岁左右闹成"停战"，差距越小越严重
+title: 二胎相差"3岁以内"时，大宝对弟妹的攻击与嫉妒几乎必然
 category: 管教与边界
 age_range: [infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years]
 also_in: [社交与分离, 情绪与安抚]

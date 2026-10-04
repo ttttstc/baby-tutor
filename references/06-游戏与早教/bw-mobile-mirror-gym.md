@@ -1,6 +1,6 @@
 ---
 id: bw-mobile-mirror-gym
-title: 最好的早期玩具不是买来的——自己做的Mobile、一面镜子、一个地板健身架就够了：Mobile挂在左右侧25~30厘米、镜子放眼前13~15厘米倾斜10°，6个月以下玩具不发出尖锐声和闪灯
+title: 最好的早期玩具不是买来的
 category: 游戏与早教
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months]
 also_in: [发展与里程碑]

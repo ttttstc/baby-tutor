@@ -1,6 +1,6 @@
 ---
 id: bw-hearing-screening
-title: 宝宝对声音"没反应"别等——头3年反复中耳炎是语言和智力地基的隐形杀手，家长用"背后叫名字"4次测试就能初筛18周以上宝宝的轻中度听力损失
+title: 宝宝对声音"没反应"别等
 category: 发展与里程碑
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months]
 also_in: [安全与就医红旗]

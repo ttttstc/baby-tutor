@@ -1,6 +1,6 @@
 ---
 id: bw-language-milestone-words
-title: 语言里程碑的关键不是"几个月开口"而是理解先于表达——1岁前两词句子+50个词才算天赋，普通孩子18个月开口都不算晚；词汇量表看的是一条随月龄持续上升的理解词量曲线
+title: 语言里程碑的关键不是"几个月开口"而是理解先于表达
 category: 发展与里程碑
 age_range: [infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years, child-3-4-years]
 also_in: [游戏与早教]

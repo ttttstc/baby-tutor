@@ -1,6 +1,6 @@
 ---
 id: bw-stage-transition-signs
-title: 别按月龄数字判断宝宝"该升级了"——进入下一阶段有明确的标志性行为：趴着能把头竖稳15~30秒、能伸手够物、能自己移动，出现哪个就是那一阶段的开始
+title: 别按月龄数字判断宝宝"该升级了"
 category: 发展与里程碑
 age_range: [infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months]
 also_in: [游戏与早教]

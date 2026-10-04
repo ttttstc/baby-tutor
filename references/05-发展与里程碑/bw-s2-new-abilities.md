@@ -1,6 +1,6 @@
 ---
 id: bw-s2-new-abilities
-title: 第二阶段是"与生俱来的反射退场、新能力登场"——寻乳/抓握/惊吓等天生反射在 6~14 周逐渐消失，换来 90° 抬头、立体视觉、能分辨主要看护者、开始用口水"实验发音"
+title: 第二阶段是"与生俱来的反射退场、新能力登场"
 category: 发展与里程碑
 age_range: [infant-1-2-months, infant-2-3-months, infant-3-4-months]
 also_in: [情绪与安抚]

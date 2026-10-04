@@ -1,6 +1,6 @@
 ---
 id: bw-s6-nonsocial-behavior
-title: 第六阶段白天约八成为"非社会行为"——凝视12~15个月>17%、18~21个月约12%；"探索"(14个月占上风)与"掌握"(2岁反超)是主角，转轮子/折页/门抽屉/穿洞/装倒反复练；"什么也不做"5~10%正常、15~20%提示发展欠佳
+title: 第六阶段白天约八成为"非社会行为"
 category: 发展与里程碑
 age_range: [toddler-12-15-months, toddler-15-18-months, toddler-18-24-months]
 also_in: [游戏与早教]

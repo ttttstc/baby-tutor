@@ -1,6 +1,6 @@
 ---
 id: bw-s5-avoid-forced-teaching
-title: 第五阶段"不该做"的养育——强迫教学（提前阅读/识字/超级宝宝）、长时间限制性装置（围栏/跳椅/门）、让宝宝无聊、过度放任与过量零食；成功父母都从8个月起"慈爱又坚定"
+title: 第五阶段"不该做"的养育
 category: 游戏与早教
 age_range: [infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months]
 also_in: [管教与边界, 父母自身]

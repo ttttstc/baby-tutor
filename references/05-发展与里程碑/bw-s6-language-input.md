@@ -1,6 +1,6 @@
 ---
 id: bw-s6-language-input
-title: 第六阶段语言发展靠"现场语言"——你对他正在做的事谈论得越多，语言能力越好；机器语言（电话/录音机/收音机）效果差；孩子间的语言输入差异很大，多说、且说"当下"
+title: 第六阶段语言发展靠"现场语言"
 category: 发展与里程碑
 age_range: [toddler-12-15-months, toddler-15-18-months, toddler-18-24-months]
 also_in: [游戏与早教, 社交与分离]

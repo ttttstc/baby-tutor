@@ -1,6 +1,6 @@
 ---
 id: bw-seven-stages-map
-title: 决定孩子的不是头几个月有没有"陪够"——头8个月只需做三件事打地基，8~24个月才是塑造性格真正的困难期，多孩家庭压力最大来自年龄差不到3岁
+title: 决定孩子的不是头几个月有没有"陪够"
 category: 发展与里程碑
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years, child-3-4-years, child-4-5-years, child-5-6-years]
 also_in: [游戏与早教]

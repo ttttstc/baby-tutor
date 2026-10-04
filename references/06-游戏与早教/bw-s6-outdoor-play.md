@@ -1,6 +1,6 @@
 ---
 id: bw-s6-outdoor-play
-title: 第六阶段户外活动——蹒跚学步的孩子爱往外跑；固定支架的户外安全秋千、玩水(小水池/厕所)、沙坑是三大乐趣；注意：拒绝草地/沥青只是转瞬即逝的怪癖，少量水即可致溺、沙坑易被猫粪污染
+title: 第六阶段户外活动
 category: 游戏与早教
 age_range: [toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years]
 also_in: [安全与就医红旗, 发展与里程碑]

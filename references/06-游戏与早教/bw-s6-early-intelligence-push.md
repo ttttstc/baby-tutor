@@ -1,6 +1,6 @@
 ---
 id: bw-s6-early-intelligence-push
-title: 第六阶段不要"促成智力早熟"——2岁半前任何正常成人的基本智力就足以满足孩子的学习需求；研究中发展格外好、3岁达很高智力的孩子"没有接受过任何特殊教学"；父母想尽办法促智力早熟，反而会削弱孩子天生的学习兴趣、并把成就当成评价标准而忽略孩子本身；满足好奇心其实很容易
+title: 第六阶段不要"促成智力早熟"
 category: 游戏与早教
 age_range: [toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years]
 also_in: [发展与里程碑, 父母自身]

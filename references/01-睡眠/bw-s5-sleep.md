@@ -1,6 +1,6 @@
 ---
 id: bw-s5-sleep
-title: 8~24个月睡眠问题的处理——照"困倦信号"而非钟表；放下就走、关门、5分钟渐离法；夜醒用"30分钟检查法"，4~10天见效；生病时停用
+title: 8~24个月睡眠问题的处理
 category: 睡眠
 age_range: [infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months, toddler-18-24-months]
 also_in: [情绪与安抚, 生活自理与习惯]

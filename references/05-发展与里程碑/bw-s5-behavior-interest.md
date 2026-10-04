@@ -1,6 +1,6 @@
 ---
 id: bw-s5-behavior-interest
-title: 8~14个月宝宝更像"探索者"而不是"社交家"——清醒时约80%在非社交探索、只有约11%与人互动；最爱的三件事：盯事物(约17%)、研究小东西(约25%)、粘着主要看护人
+title: 8~14个月宝宝更像"探索者"而不是"社交家"
 category: 发展与里程碑
 age_range: [infant-6-9-months, infant-9-12-months, toddler-12-15-months]
 also_in: [游戏与早教, 社交与分离]

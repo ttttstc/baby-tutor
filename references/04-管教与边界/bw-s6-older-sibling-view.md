@@ -1,6 +1,6 @@
 ---
 id: bw-s6-older-sibling-view
-title: 从"大宝"视角看第六阶段二胎冲突——15~16个月小宝第一次感受"个人力量"，开始咬/打/揪姐姐头发；大宝"吃亏"、情绪低落；父母的"无能为力"常持续6~8个月甚至几年；出生间隔短是建议"≥3年"的主因；Zajonc 137.9万名儿童研究：相差越小、孩子越多，IQ 越低
+title: 从"大宝"视角看第六阶段二胎冲突
 category: 管教与边界
 age_range: [toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years]
 also_in: [社交与分离, 发展与里程碑]

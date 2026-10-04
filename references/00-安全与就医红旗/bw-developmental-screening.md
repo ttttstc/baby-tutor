@@ -1,6 +1,6 @@
 ---
 id: bw-developmental-screening
-title: 尽早发现发展障碍与"头3年能力筛查"程序——"如果从3岁才开始着手解决这些问题，就会事倍功半"；White 团队提供的例行筛查表：3周(问诊听视觉家族史与出生过程)、4~5个月(丹佛发展筛查测试DDST修订版 + 尤因听力测试)、8~30个月(哈佛学前项目社会能力量表修订版)、12个月(DDST+尤因)、14个月(哈佛学前项目语言能力测试修订版)、24个月与30个月(DDST+尤因+哈佛语言)；关键判据——14个月不会说话可能正常，但"如果不能理解至少24个单词，那么他的发展很有可能就是迟缓的"；接受性语言筛查常被忽视，"最好的资源还是你自己"
+title: 尽早发现发展障碍与"头3年能力筛查"程序
 category: 安全与就医红旗
 age_range: [newborn-adaptation, infant-2-3-months, infant-4-6-months, infant-9-12-months, toddler-12-15-months, toddler-18-24-months, child-2-3-years]
 also_in: [发展与里程碑, 父母自身]

@@ -1,6 +1,6 @@
 ---
 id: bw-s1-newborn-behavior
-title: 新生儿的"怪行为"大多是正常的——白天每小时只醒2~3分钟、神情烦躁、对摇铃不理、被惊醒就大哭，都是第一阶段（出生至6周）该有的样子
+title: 新生儿的"怪行为"大多是正常的
 category: 发展与里程碑
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months, infant-2-3-months]
 also_in: [情绪与安抚]

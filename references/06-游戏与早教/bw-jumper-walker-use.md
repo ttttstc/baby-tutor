@@ -1,6 +1,6 @@
 ---
 id: bw-jumper-walker-use
-title: 弹跳椅和学步车不是不能用，是必须限时+全程看护——弹跳椅挂在门口、4个半月起用、赤脚脚踩硬地，每次15分钟每天不超过1小时；学步车4个半月用到会爬就停，1992年美国有2.8万起意外都出在没人看护时
+title: 弹跳椅和学步车不是不能用，是必须限时+全程看护
 category: 游戏与早教
 age_range: [infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months]
 also_in: [安全与就医红旗]

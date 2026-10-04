@@ -1,6 +1,6 @@
 ---
 id: bw-s3-babbling-response
-title: 第三阶段宝宝开始"玩声音"——第4个月起对口水声做试验、越来越爱发声；大人的功课是"他一出声就回应+谈论他正在看的东西"，这会把"发声"变成他头9个月唯一的社会能力
+title: 第三阶段宝宝开始"玩声音"
 category: 游戏与早教
 age_range: [infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months]
 also_in: [发展与里程碑]

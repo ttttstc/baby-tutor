@@ -1,6 +1,6 @@
 ---
 id: bw-s1-learning-and-donts
-title: 头6周别折腾三件事——不必布置"丰富环境"、别把"让宝宝哭到停/发泄一下"当常规、更别因怕刺激而不敢抱不敢摸；这阶段宝宝能做的只有少量反射和求舒适
+title: 头6周别折腾三件事
 category: 发展与里程碑
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months, infant-2-3-months]
 also_in: [情绪与安抚]

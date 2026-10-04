@@ -1,6 +1,6 @@
 ---
 id: bw-s5-alternate-care
-title: 8~24个月的"高质量替代看护"——每天4小时（甚至7天）可行，但别全天；首选请人来你家带、且只带一个；集体看护使感染率增3~4倍、正撞学语言期伤听力；父亲除哺乳外可同等承担
+title: 8~24个月的"高质量替代看护"
 category: 生活自理与习惯
 age_range: [infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months, toddler-18-24-months]
 also_in: [社交与分离, 父母自身]

@@ -1,6 +1,6 @@
 ---
 id: bw-s2-learning-play
-title: 6~14周宝宝的"学习"发生在三件事里——走近会安静/期待喂奶/把"面孔-气味-声音"和"被安抚"连起来；而他的微笑其实是对熟悉图案的"认得出"，不是社交性的爱
+title: 6~14周宝宝的"学习"发生在三件事里
 category: 游戏与早教
 age_range: [infant-1-2-months, infant-2-3-months, infant-3-4-months]
 also_in: [发展与里程碑]

@@ -1,6 +1,6 @@
 ---
 id: bw-toys-by-stage
-title: 每个阶段该给什么玩具不用花大钱——3.5个月起给能啃咬的小物、5.5个月起给可扔可敲的5~13厘米小东西加塑料容器、7~9个月上弹出式玩具；宝藏盒和围栏是不推荐的坑
+title: 每个阶段该给什么玩具不用花大钱
 category: 游戏与早教
 age_range: [infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months]
 also_in: [发展与里程碑]

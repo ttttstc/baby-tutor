@@ -1,6 +1,6 @@
 ---
 id: bw-s5-motor-climbing
-title: 8~14个月的运动进阶——9~10个月扶物站起、1岁前多会独走、13~14个月学跑；攀爬分"20厘米(8~12个月)"和"41厘米(11~12个月)"两个台阶，约4/5宝宝是谨慎型
+title: 8~14个月的运动进阶
 category: 发展与里程碑
 age_range: [infant-6-9-months, infant-9-12-months, toddler-12-15-months]
 also_in: [安全与就医红旗]

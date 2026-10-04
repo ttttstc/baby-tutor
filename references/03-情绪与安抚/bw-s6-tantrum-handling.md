@@ -1,6 +1,6 @@
 ---
 id: bw-s6-tantrum-handling
-title: 千万别"奖励孩子发脾气"——第五、六阶段不管责备还是安慰，你的关注都是"极大的奖励"，只让他越来越爱发脾气、养成习惯；孩子第一次发脾气常是"寻求一种限制、让你去阻止他"；建议除非他会伤害别人就不要管他；身体不舒服可以安慰，但发脾气时不能安慰
+title: 千万别"奖励孩子发脾气"
 category: 情绪与安抚
 age_range: [toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years]
 also_in: [管教与边界, 发展与里程碑]

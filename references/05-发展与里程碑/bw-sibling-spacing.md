@@ -1,6 +1,6 @@
 ---
 id: bw-sibling-spacing
-title: 二胎出生间隔别太近——多孩家庭最大的压力来源是孩子年龄差不到3岁；同胞竞争在老二会爬时集中爆发，缓解的关键是每天给大宝单独半小时+别在小宝面前过度夸他
+title: 二胎出生间隔别太近
 category: 发展与里程碑
 age_range: [toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years, child-3-4-years]
 also_in: [社交与分离, 父母自身]

@@ -1,6 +1,6 @@
 ---
 id: bw-s6-critical-final-personality
-title: 14~24个月是"决定成败"的最后窗口——2岁前人格基本定型，此后再影响极难；17~20个月是"挫折忍耐最低、意志力最高"的至暗时刻，22~24个月才"太阳出来"；两岁才发现问题就晚了
+title: 14~24个月是"决定成败"的最后窗口
 category: 发展与里程碑
 age_range: [toddler-12-15-months, toddler-15-18-months, toddler-18-24-months]
 also_in: [管教与边界, 父母自身]

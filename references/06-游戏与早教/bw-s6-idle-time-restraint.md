@@ -1,6 +1,6 @@
 ---
 id: bw-s6-idle-time-restraint
-title: 第六阶段警惕"消磨时间"——14个月起，婴儿围栏/婴儿床/跳椅/婴儿椅/汽车座椅会让宝宝陷入"找不到事做"的状态；3岁以下孩子在受限时几乎找不到有趣的事；用"能否在15秒内自行找到事做"作分界
+title: 第六阶段警惕"消磨时间"
 category: 游戏与早教
 age_range: [toddler-12-15-months, toddler-15-18-months, toddler-18-24-months]
 also_in: [管教与边界, 生活自理与习惯]

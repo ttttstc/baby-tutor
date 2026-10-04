@@ -1,6 +1,6 @@
 ---
 id: bw-s6-sibling-prepare
-title: 第六阶段的同胞准备——若较大孩子还不到3岁，"大量谈话+读特别故事"帮不上忙，最好的准备是"头几年就教他尊重你的权利"；帮第六阶段孩子面对相差<3岁的兄姐：继续坚定但慈爱、每天约1小时单独陪他、鼓励多到外面玩；"排行中间"的孩子也要同样控制与安慰
+title: 第六阶段的同胞准备
 category: 管教与边界
 age_range: [toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years]
 also_in: [社交与分离, 发展与里程碑]

@@ -1,6 +1,6 @@
 ---
 id: bw-s5-parenting-roles
-title: 第五阶段父母要当三个角色——"世界的设计者、提供帮助和鼓励的顾问、设定纪律的权威"；核心是"有效回应"（11~14个月每小时约10次示意、平均25秒）；并奉行"健康的利己主义"：他的需要很重要，但不比别人的更重要
+title: 第五阶段父母要当三个角色
 category: 父母自身
 age_range: [infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years]
 also_in: [情绪与安抚, 生活自理与习惯]

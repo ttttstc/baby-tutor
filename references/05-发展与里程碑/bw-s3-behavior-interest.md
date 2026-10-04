@@ -1,6 +1,6 @@
 ---
 id: bw-s3-behavior-interest
-title: 3个半月至5个半月是"微笑的行动家"——白天一半时间醒着、翻身/伸手够物反复练、对呵痒第一次有反应、还不太会咯咯笑出声（那是 14 周后才有的社会意识）
+title: 3个半月至5个半月是"微笑的行动家"
 category: 发展与里程碑
 age_range: [infant-3-4-months, infant-4-6-months]
 also_in: [情绪与安抚]

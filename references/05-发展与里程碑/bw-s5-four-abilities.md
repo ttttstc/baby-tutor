@@ -1,6 +1,6 @@
 ---
 id: bw-s5-four-abilities
-title: 8个月起宝宝的"三大兴趣、四种能力"——社会交往/满足好奇心/掌握运动是三大驱力；9个半月~11个月涌现"求助、求赞、表达感情、表达愤怒"四种社会能力；1岁后出现假装游戏
+title: 8个月起宝宝的"三大兴趣、四种能力"
 category: 发展与里程碑
 age_range: [infant-6-9-months, infant-9-12-months, toddler-12-15-months]
 also_in: [游戏与早教]

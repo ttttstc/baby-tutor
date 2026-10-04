@@ -1,6 +1,6 @@
 ---
 id: bw-motor-milestone-months
-title: 从竖头到走路的运动时间表——头8个月"七坐八爬"只是大致规律：满6个月会爬、8个月会走虽不常见但存在，7.5~8个月还不会移动也正常
+title: 从竖头到走路的运动时间表
 category: 发展与里程碑
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months, toddler-12-15-months]
 also_in: [游戏与早教]

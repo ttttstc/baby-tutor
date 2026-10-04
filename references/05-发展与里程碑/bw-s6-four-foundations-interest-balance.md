@@ -1,6 +1,6 @@
 ---
 id: bw-s6-four-foundations-interest-balance
-title: 第六阶段的四个教育基础——语言、智力、好奇心、社会能力；它们能否充分发展"更大程度取决于宝宝学到了什么，而不是天赋"，取决于你的行为；父母知道孩子在做什么并给有效指导才最佳，凭感觉做可能适得其反；须平衡三种主要兴趣(好奇心/运动/社会化)，别让社会兴趣过度发展抑制另两种
+title: 第六阶段的四个教育基础
 category: 发展与里程碑
 age_range: [toddler-12-15-months, toddler-15-18-months, toddler-18-24-months]
 also_in: [游戏与早教, 父母自身]

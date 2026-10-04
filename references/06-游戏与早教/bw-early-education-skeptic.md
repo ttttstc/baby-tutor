@@ -1,6 +1,6 @@
 ---
 id: bw-early-education-skeptic
-title: 别信"教育型玩具"和早教课程的智力承诺——怀特研究几十年后说，任何号称能"开发智力/激发视觉"的玩具效果都从未被证实，普通家庭环境已包含学习所需的大部分元素
+title: 别信"教育型玩具"和早教课程的智力承诺
 category: 游戏与早教
 age_range: [infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years]
 also_in: [发展与里程碑]

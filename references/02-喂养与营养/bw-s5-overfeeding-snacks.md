@@ -1,6 +1,6 @@
 ---
 id: bw-s5-overfeeding-snacks
-title: 别频繁给零食哄娃——发展良好的8~24个月宝宝"正餐就够"；过多餐间零食影响发育，且"是造成一些人终生肥胖的原因"
+title: 别频繁给零食哄娃
 category: 喂养与营养
 age_range: [infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months, toddler-18-24-months]
 also_in: [生活自理与习惯]

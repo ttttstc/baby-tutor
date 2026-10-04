@@ -1,6 +1,6 @@
 ---
 id: bw-s6-possessiveness-sharing
-title: 第六阶段的"占有欲"与"我要选择"——不想与任何人分享任何东西，至少要满22个月才谈得上分享；18个月典型孩子希望在同父母交流中获尽可能多的主导权；"我自己选"是个人权力正常增长的体现
+title: 第六阶段的"占有欲"与"我要选择"
 category: 社交与分离
 age_range: [toddler-12-15-months, toddler-15-18-months, toddler-18-24-months]
 also_in: [管教与边界, 发展与里程碑]

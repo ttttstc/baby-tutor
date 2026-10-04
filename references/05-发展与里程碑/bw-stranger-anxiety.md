@@ -1,6 +1,6 @@
 ---
 id: bw-stranger-anxiety
-title: 认生是7~8个月才出现的正常进步而不是倒退——刚会认生时"预热期"从几秒到几分钟再到两个月越拉越长，约1/20的宝宝压根不经历
+title: 认生是7~8个月才出现的正常进步而不是倒退
 category: 发展与里程碑
 age_range: [infant-4-6-months, infant-6-9-months, infant-9-12-months, toddler-12-15-months]
 also_in: [社交与分离]

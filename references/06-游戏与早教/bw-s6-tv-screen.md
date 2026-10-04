@@ -1,6 +1,6 @@
 ---
 id: bw-s6-tv-screen
-title: 第六阶段看电视的数据——14~24个月孩子清醒时平均每约2分钟；1岁半前语言智力有限、无法长时间对屏幕内容感兴趣；2岁前通常不会长时间看，2岁后才渐增；"智力早熟者"中约1/4在18个月偶尔看满1小时
+title: 第六阶段看电视的数据
 category: 游戏与早教
 age_range: [toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years]
 also_in: [发展与里程碑, 生活自理与习惯]

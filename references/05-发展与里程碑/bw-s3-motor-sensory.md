@@ -1,6 +1,6 @@
 ---
 id: bw-s3-motor-sensory
-title: 第三阶段的三大成就——5个半月前学会翻身、在视觉引导下学会伸手够物、开始用眼+耳准确定位声源；伸手够物通常5个半月至6个月掌握，早到晚到都不携带信息
+title: 第三阶段的三大成就
 category: 发展与里程碑
 age_range: [infant-3-4-months, infant-4-6-months]
 also_in: [游戏与早教]

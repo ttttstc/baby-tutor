@@ -1,6 +1,6 @@
 ---
 id: bw-s5-critical-window
-title: 8~36个月是"决定性格与社会习惯"的关键窗口——怀特估计不到1/10的家庭让孩子获得"最充分发展"；三大障碍是忽视、压力、缺乏帮助；第1年测分不预测2~3岁，2岁前才是干预窗口
+title: 8~36个月是"决定性格与社会习惯"的关键窗口
 category: 发展与里程碑
 age_range: [infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years]
 also_in: [父母自身]

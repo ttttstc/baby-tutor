@@ -1,6 +1,6 @@
 ---
 id: bw-s4-home-safety
-title: 会爬之前就要做的"全屋防摔防误吞"——从宝宝进入第四阶段（5.5~8个月）起，把家重新布置成"可探险的安全区"：检查91厘米以下一切、封插座、藏电线毒物、楼梯上下加门、浴室上锁、室外寸步不离
+title: 会爬之前就要做的"全屋防摔防误吞"
 category: 安全与就医红旗
 age_range: [infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months]
 also_in: [生活自理与习惯]

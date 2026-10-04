@@ -1,6 +1,6 @@
 ---
 id: bw-s6-mouth-exploration-poisoning
-title: 第六阶段是"意外中毒"最高发的时期——宝宝把任何东西（固/液）放嘴里、咀嚼、甚至咽下一部分；"味道"对他是否吞下完全没有影响（巧克力味到臭鸡蛋味都一样），汽油/洁厕剂/清洁剂照样吞；必须加倍小心
+title: 第六阶段是"意外中毒"最高发的时期
 category: 安全与就医红旗
 age_range: [toddler-12-15-months, toddler-15-18-months, toddler-18-24-months]
 also_in: [发展与里程碑, 喂养与营养]

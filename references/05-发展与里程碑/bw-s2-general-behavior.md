@@ -1,6 +1,6 @@
 ---
 id: bw-s2-general-behavior
-title: 从"小机器"到会看会笑的小人儿——6~14周宝宝的头控、追视、看手、微笑都在快速上线，但绝大多数动作仍是"被刺激牵着走"的反射，还不是自主
+title: 从"小机器"到会看会笑的小人儿
 category: 发展与里程碑
 age_range: [infant-1-2-months, infant-2-3-months, infant-3-4-months]
 also_in: [情绪与安抚]

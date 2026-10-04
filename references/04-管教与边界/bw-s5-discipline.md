@@ -1,6 +1,6 @@
 ---
 id: bw-s5-discipline
-title: 第五阶段就该立的纪律——指令最多重复两次、之后必须行动；"限制活动法"：抱到别处、抓住肩膀/上臂限制 15 秒~1 分钟（可延到 30~60 秒），7~10 天能改掉坏毛病；慈爱但坚定，不必打屁股
+title: 第五阶段就该立的纪律
 category: 管教与边界
 age_range: [infant-6-9-months, infant-9-12-months, toddler-12-15-months]
 also_in: [情绪与安抚, 父母自身]

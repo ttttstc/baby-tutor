@@ -1,6 +1,6 @@
 ---
 id: bw-newborn-first-months-care
-title: 头6周养好开端的做法其实很少——睡眠是白天清醒每次2~3分钟、人工喂养到6个月末可一觉睡10小时；换尿布洗澡玩耍都要说话；安抚奶嘴备3~4种至少6个；走投无路时让宝宝大哭一场是最后手段
+title: 头6周养好开端的做法其实很少
 category: 发展与里程碑
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months]
 also_in: [睡眠, 情绪与安抚]

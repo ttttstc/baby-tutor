@@ -1,6 +1,6 @@
 ---
 id: bw-s6-motor-skills
-title: 第六阶段运动——14个月"走得很好但还不稳"(大量脂肪带来不便)、攀爬已很熟练(须始终看护)；18个月爱拉手上楼下楼、不愿再四肢爬；末期可独立上下楼；出现跑、跳、骑较矮四轮婴儿车/拉着走；满2岁前不太会骑哪怕最小的三轮车
+title: 第六阶段运动
 category: 发展与里程碑
 age_range: [toddler-12-15-months, toddler-15-18-months, toddler-18-24-months]
 also_in: [游戏与早教, 安全与就医红旗]

@@ -1,6 +1,6 @@
 ---
 id: bw-s4-toys-avoid
-title: 第四阶段"该给什么、别买什么"——可啃咬小物+大塑料容器、靠坐/弹跳椅/学步车、格蒂球、镜子是首选；宝藏盒和婴儿围栏是怀特点名"不值得买"的两样
+title: 第四阶段"该给什么、别买什么"
 category: 游戏与早教
 age_range: [infant-6-9-months, infant-9-12-months]
 also_in: [生活自理与习惯]

@@ -1,6 +1,6 @@
 ---
 id: bw-s5-learning
-title: 第五阶段的"学会学习"——他其实在练"拿笔涂鸦/开关柜门/翻硬板书/把东西装进倒出"这些先决技能；约1岁能把东西记到"枕头下面"，12~14个月前用"转移注意力"就能让他忘掉不该碰的东西
+title: 第五阶段的"学会学习"
 category: 发展与里程碑
 age_range: [infant-6-9-months, infant-9-12-months, toddler-12-15-months]
 also_in: [游戏与早教]

@@ -1,6 +1,6 @@
 ---
 id: bw-demand-crying-spoiling
-title: 一哭就抱会不会宠坏？头6个月怎么抱都不会——但从6个月末起会出现"故意啼哭"，那时拼的不是抱不抱，而是白天有没有给他安排有意义的事做
+title: 一哭就抱会不会宠坏？头6个月怎么抱都不会
 category: 发展与里程碑
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months, toddler-18-24-months]
 also_in: [情绪与安抚, 管教与边界]
