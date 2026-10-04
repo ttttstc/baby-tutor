@@ -5,7 +5,7 @@ category: 生活自理与习惯
 age_range: [toddler-15-18-months, toddler-18-24-months, child-2-3-years, child-3-4-years]
 also_in: [发展与里程碑]
 evidence: tier-3
-conflicts_with: []
+conflicts_with: ["hab-azrin-foxx-ondeday"]
 red_flags: [排便疼痛或血便或长期便秘, 憋便致腹胀呕吐拒食, 排尿疼痛尿频伴发热提示尿路感染, 已会如厕后技能明显倒退并伴其他发展倒退, 3月龄内发热]
 extraction: "S1: The Montessori Toddler (epub) c07(Toileting 节 p151-154), c04(Room by room: Bathroom 节 p70)"
 problem: 娃一岁半了，到底什么时候开始如厕、要不要现在就每天按他坐小马桶，坐了他不拉、不坐他就拉到裤子里，我是不是太晚/太早了

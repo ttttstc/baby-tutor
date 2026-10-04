@@ -5,6 +5,7 @@ category: 发展与里程碑
 age_range: [newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months]
 also_in: ["00-安全与就医红旗"]
 evidence: tier-1
+conflicts_with: []
 red_flags: ["体重不增或下降", "髋关节检查有持续'闷响'（尤其女婴）→4-8 周做超声", "神经反射或全身肌张力异常", "发育里程碑红旗（见 dev-aap-milestone-watch）", "囟门异常（膨隆紧张或明显凹陷）", "黄疸持续或加重、喂养困难"]
 extraction: "S1: 美国儿科学会育儿百科（第6版）(epub) 第3章「拜访儿科医生」（part0011）；第5章「婴儿的最初几日」新生儿早期体格检查与随访（part0013）；检查项目与随访节点经 AAP healthychildren 2026-10-04 校准"
 problem: 孩子出生后到底什么时候要去体检、多久一次？每次都量身高体重头围，医生还掰腿、抠耳朵、拿手电照眼睛、摸肚子——这些到底在查什么？我该提前准备什么，才能不白跑一趟？

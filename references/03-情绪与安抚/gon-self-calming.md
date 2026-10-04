@@ -5,7 +5,7 @@ category: 03-情绪与安抚
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months, toddler-18-24-months]
 also_in: [发展与里程碑]
 evidence: tier-3
-conflicts_with: [sooth-rie-cry-allowed]
+conflicts_with: [sooth-rie-cry-allowed, sooth-karp-5s]
 red_flags: [持续无法被任何方式安抚且伴不同寻常的尖锐哭声, 惊跳后长时间无法自行回稳伴面色异常, 呓语嗜睡叫不醒, 发展倒退, 3月龄内发热]
 extraction: "S1: 婴幼儿及其照料者（第8版）(epub) 第10章 情绪（自我平静技术/情绪化的大脑/社会参照与情绪标签）、第7章（变换姿势与自我安抚）"
 problem: 宝宝一哭我就条件反射地塞奶嘴、抱起来摇，可听说这样他永远学不会自己安静下来，我到底该让他哭一会儿自己平复，还是马上回应

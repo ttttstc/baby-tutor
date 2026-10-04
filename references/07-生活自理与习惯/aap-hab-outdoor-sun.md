@@ -5,6 +5,7 @@ category: 生活自理与习惯
 age_range: [newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months]
 also_in: ["00-安全与就医红旗"]
 evidence: tier-1
+conflicts_with: []
 red_flags: ["晒伤（皮肤发红、起疱）", "中暑或脱水（精神差、尿少、囟门凹陷）", "体温过低（手脚和胸部都摸上去很冷）", "长时间置于太阳下的安全座椅/推车金属塑料件烫伤皮肤"]
 extraction: "S1: 美国儿科学会育儿百科（第6版）(epub) 第6章 外出（part0014）+ 第3章 穿衣（part0011）；6 月内皮肤怕晒、1 岁内体温调节未健全、多穿一层、摸手脚胸部判断冷热等数字经 AAP healthychildren 2026-10-04 校准"
 problem: 天气好想带宝宝出去晒晒太阳、透透气，可婆婆说要晒太阳能补钙，我又怕太阳太晒把宝宝晒伤——到底能不能带这么小的宝宝出门、要穿多少、要不要涂防晒霜？

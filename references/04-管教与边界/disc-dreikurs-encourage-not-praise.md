@@ -5,7 +5,7 @@ category: 04-管教与边界
 age_range: [toddler-18-24-months, child-2-3-years, child-3-4-years, child-4-5-years, child-5-6-years]
 also_in: [父母自身]
 evidence: tier-3
-conflicts_with: []
+conflicts_with: [disc-phelan-seven-start-tactics]
 red_flags: [孩子对表扬/失败反应激烈到自伤或持续情绪低落, 已习得技能或语言明显倒退, 因"怕做不好"而长期拒绝一切新任务并伴睡眠食欲改变, 家长长期只以成败评价孩子并出现贬低性言语]
 extraction: "S1: 孩子：挑战 (epub) c03（鼓励全章）, c11（批评与错误）, app（附录案例 16/26）"
 problem: 我天天把"你真棒""你真聪明"挂在嘴边，可孩子越夸越输不起，拼图拼不好就把拼图一扔说自己笨，稍微不如人就崩溃，是不是我夸的方式不对

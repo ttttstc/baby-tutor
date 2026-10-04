@@ -5,7 +5,7 @@ category: 情绪与安抚
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months]
 also_in: [睡眠]
 evidence: tier-3
-conflicts_with: []
+conflicts_with: [sooth-rie-cry-allowed, sooth-rie-self-settle, gon-self-calming, sooth-rie-spoil]
 red_flags: [3月内发热, 异常尖锐哭声, 黄绿色呕吐, 前囟膨隆, 嗜睡反应差, 体重不增, 进食时哭闹打挺]
 extraction: "S1: The Happiest Baby on the Block (epub) c03, c07, c13, app1"
 problem: 宝宝一哭就是几个小时，喂了换了抱了拍嗝了全套做完还在哭，我快崩溃了

@@ -5,6 +5,7 @@ category: 02-喂养与营养
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months]
 also_in: ["00-安全与就医红旗"]
 evidence: tier-1
+conflicts_with: []
 red_flags: ["喷射状呕吐（射出数寸远而非口角溢出）", "血便或严重皮疹", "喝奶频繁呛咳、面色改变、需中断吸吮呼吸", "3个月内直肠体温≥38℃直接就医", "湿尿布明显减少、口干、异常嗜睡（脱水）", "稀释配方或额外喂水（水中毒风险）"]
 extraction: "S1: Your Baby's First Year 5th ed (AAP, 2020, epub) c04 Bottle-Feeding（Choosing a Formula / Preparing, Sterilizing, and Storing Formula / Amount and Schedule of Formula Feedings / Why Formula Instead of Cow's Milk）；CDC Cronobacter 冲调口径校准 2026-10-03"
 problem: 宝宝改喝配方奶了，婆婆冲奶总多加半勺说更顶饿，我说她还生气——到底按什么比例冲才安全，冰箱里隔夜的奶还能不能喝？

@@ -5,7 +5,7 @@ category: 04-管教与边界
 age_range: [infant-9-12-months, toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years, child-3-4-years, child-4-5-years]
 also_in: [03-情绪与安抚]
 evidence: tier-3
-conflicts_with: [disc-rie-punishment-vs-limits, disc-markham-empathic-limits]
+conflicts_with: [disc-rie-punishment-vs-limits, disc-markham-empathic-limits, disc-siegel-time-out, disc-faber-punishment-alternatives, edu-cohen-rules]
 red_flags: [对同伴随屡次咬人破皮, 攻击行为每次无法用任何后果中断, 被罚时出现撞头咬自己等自伤, 说不好短语且完全不听指令, time-out 后攻击升级而非收敛]
 extraction: "S1: The Happiest Toddler on the Block (epub, 2-book bundle 之 Toddler 卷, ISBN 9780553905601) c05, c06, c07, c08, c09, app1, app2"
 problem: 一岁半的孩子打人咬人怎么说都不听，我又不想打他，家里人说我管得太软，到底要怎么管才既管得住又不伤孩子

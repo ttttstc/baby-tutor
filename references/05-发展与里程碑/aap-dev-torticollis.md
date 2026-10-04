@@ -5,6 +5,7 @@ category: 发展与里程碑
 age_range: [newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months]
 also_in: ["07-生活自理与习惯"]
 evidence: tier-1
+conflicts_with: []
 red_flags: ["头部持续向一侧倾斜，或患侧脖颈摸到肿块", "头型不对称进行性加重且颈部持续偏向一侧（斜颈）", "斜颈伴髋关节异常（腿纹不对称、外展受限）", "突然出现的斜颈伴剧烈疼痛、发热（外伤或炎症性）", "伸展操与体位矫正做了仍无效、头歪加剧"]
 extraction: "S1: 美国儿科学会育儿百科（第6版）(epub) 第29章 头部倾斜/斜颈病（part0038）；先天性肌性斜颈 6-8 月发现、5 岁以下头歪最常见病因、合并髋关节脱位需查臀超声等症状经 AAP healthychildren 2026-10-04 校准"
 problem: 宝宝的头老是往一边歪，只肯用半边脸贴着床睡，把另一侧睡扁了，扶正了他又歪回去——老人说是睡姿没摆好，是不是长大自己就正了？

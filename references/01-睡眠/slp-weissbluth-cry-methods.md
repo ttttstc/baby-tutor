@@ -5,7 +5,7 @@ category: 01-睡眠
 age_range: [infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years]
 also_in: []
 evidence: tier-3
-conflicts_with: [slp-xiaotu-companion-method, slp-dubief-swap-soothing-ladder]
+conflicts_with: [slp-xiaotu-companion-method, slp-dubief-swap-soothing-ladder, par-peri-sleep-nudging]
 red_flags: [哭到呕吐或生长发育停滞, 3月龄内发热≥38℃, 哭伴弓背拒食血便(反流/过敏), 面色青紫或呼吸暂停, 家长情绪失控有伤害婴儿念头]
 extraction: "S1: Healthy Sleep Habits, Happy Child (Marc Weissbluth, 2003修订版 epub) c02-c06"
 problem: 到底该不该让孩子哭？我狠不下心让他哭，可又听说不让他哭就永远学不会自己睡，我该怎么办

@@ -5,6 +5,7 @@ category: 07-生活自理与习惯
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months]
 also_in: ["00-安全与就医红旗"]
 evidence: tier-1
+conflicts_with: []
 red_flags: ["洗澡时必须带宝宝一起离开取物（一步都不能离开视线）", "脐部红肿渗脓伴发热→当天就医", "皮肤持续 48-72 小时以上的红色皮疹+鳞屑（湿疹就医评估）", "纸尿裤部位出血、排尿哭闹（就医排查感染）", "发热时摸手脚胸部冰凉（先复温再判断）", "剪指甲剪伤后红肿化脓（甲沟炎需就医）"]
 extraction: "S1: Your Baby's First Year 5th ed (AAP, 2020, epub) c03 Basic Infant Care（Bathing / Skin and Nail Care / Clothing / Swaddling / Diapers / Urination / Bowel Movements）+ c06 Going Outside"
 problem: 第一次当爸妈，光是日常那些事就手忙脚乱——脐带没掉能不能碰水？指甲那么小怎么剪？他到底是冷是热该穿几件？有没有一套照着做就行的清单？

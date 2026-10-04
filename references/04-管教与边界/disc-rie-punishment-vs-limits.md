@@ -5,7 +5,7 @@ category: 04-管教与边界
 age_range: [infant-9-12-months, toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years, child-3-4-years]
 also_in: [09-父母自身]
 evidence: tier-3
-conflicts_with: []
+conflicts_with: [disc-karp-traffic-light, disc-phelan-123-counting, disc-phelan-seven-start-tactics]
 red_flags: [打骂已升级为家常便饭, 孩子对某位家长出现持续恐惧回避, 管教冲突后孩子出现行为倒退或夜惊, 家长情绪耗竭到出现抑郁念头]
 extraction: "S1: No Bad Kids: Toddler Discipline Without Shame (epub) c05, c09, c11, c22, c24, c26, c29, c31"
 problem: 都说要温和育儿不能打不能吼，可我好好说他根本不听啊，不凶一点完全管不住，温和管教是不是就等于惯孩子

@@ -5,7 +5,7 @@ category: 07-生活自理与习惯
 age_range: [toddler-18-24-months, child-2-3-years, child-3-4-years]
 also_in: []
 evidence: tier-2
-conflicts_with: ["hab-glowacki-blocks"]
+conflicts_with: ["hab-glowacki-blocks", "hab-glowacki-reset", "gon-toileting-learning", "hab-mon-toddler-toileting", "hab-mon-toilet-learning", "frai-toilet-psych"]
 red_flags: ["排尿疼痛或尿频到几乎没有干爽期（先就医）", "腹泻或便秘期间推迟训练（书内原文）", "癫痫/惊厥史不给孩子过量液体（书内原文）", "糖尿病儿用无糖饮料零食（书内原文）", "训练中出现持续无法中断的强烈抗拒（超 2-3 次 testing 需重新评估）"]
 extraction: "S1: Toilet Training in Less Than a Day (Azrin & Foxx, epub) ch01-ch07"
 problem: 孩子两岁多了还在全天纸尿裤，我听老大小时候请人带要训一年半，有没有真的能几天内、干脆利落把上厕所教会的办法？我愿意专门腾一整天出来做。

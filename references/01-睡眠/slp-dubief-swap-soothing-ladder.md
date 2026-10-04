@@ -5,7 +5,7 @@ category: 01-睡眠
 age_range: [infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months]
 also_in: [03-情绪与安抚]
 evidence: tier-3
-conflicts_with: []
+conflicts_with: [slp-ferber-graduated-extinction, slp-kastzahn-sleep-plan, slp-weissbluth-cry-methods, slp-turgeon-sleep-wave, slp-weissbluth-soothing-to-sleep]
 red_flags: [吐奶带血丝, 哭时弓背打挺伴频繁呕吐, 体重不增, 每天哭超过5小时, 呼吸暂停或面色改变]
 extraction: "S1: Precious Little Sleep (epub) ch4-ch6, ch8, ch11"
 problem: 宝宝只有吃着奶才睡得着，一放床就醒，夜里一小时醒一次非要重新奶才能睡回去，我是不是把她惯坏了

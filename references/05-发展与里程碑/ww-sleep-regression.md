@@ -5,7 +5,7 @@ category: 发展与里程碑
 age_range: [infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months]
 also_in: [睡眠]
 evidence: tier-4
-conflicts_with: [slp-dubief-sleep-regression, slp-ferber-graduated-extinction]
+conflicts_with: [slp-ferber-graduated-extinction, slp-kastzahn-sleep-plan, slp-weissbluth-cry-methods]
 red_flags: [发热, 呼吸费力, 耳痛抓耳伴发热, 呕吐胆汁性, 囟门膨隆, 嗜睡难醒, 脱水征, 体重不增, 哭声尖锐持续且进食打挺弓背, 夜哭伴白天精神行为异常]
 extraction: "S1: The Wonder Weeks, 6th ed 2019 (epub) c04（Sleeps and Leaps：昼夜节律发育时间线、褪黑素与体温节律、睡眠周期数据、REM 与脑连接、飞跃期浅睡、睡眠倒退与飞跃 4/6/10、噩梦与夜惊、家长互助清单）、c01（飞跃时刻表按预产期计、29-30 周非飞跃注记）、ch08 Leap 4 / ch11 Leap 6 / ch15 Leap 10（这三次被列为最重的睡眠崩塌期）、ch10 Leap 5（噩梦与 29 周二次烦躁）"
 problem: 宝宝四个月（或八个多月、一岁多）这周睡眠突然全崩，夜醒翻倍、白天小睡二十分钟就醒、还要重新夜奶，是不是到了传说中的睡眠倒退期，要不要趁机做睡眠训练让他睡整夜

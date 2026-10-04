@@ -5,7 +5,7 @@ category: 生活自理与习惯
 age_range: [toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years]
 also_in: [发展与里程碑]
 evidence: tier-3
-conflicts_with: []
+conflicts_with: ["hab-azrin-foxx-ondeday"]
 red_flags: [排尿/排便时哭闹剧痛, 尿味异常刺鼻或尿色发红混浊, 便秘伴便血或腹部胀痛, 发热伴尿路症状, 4岁后白天仍频繁失控伴其他发育落后, 3月龄内发热]
 extraction: "S1: Montessori from the Start (epub) ch7 p151-158"
 problem: 娃快一岁半了，到底什么时候开始训练如厕、怎么知道可以开始了、要不要现在就买小马桶每天按着他坐

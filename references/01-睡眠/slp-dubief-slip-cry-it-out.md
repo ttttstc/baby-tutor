@@ -5,7 +5,7 @@ category: 01-睡眠
 age_range: [infant-4-6-months, infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months, toddler-18-24-months]
 also_in: []
 evidence: tier-2
-conflicts_with: [slp-xiaotu-companion-method, slp-kastzahn-sleep-plan]
+conflicts_with: [slp-xiaotu-companion-method, slp-kastzahn-sleep-plan, par-peri-sleep-nudging]
 red_flags: [未满4个月, 早产未达矫正月龄, 活跃的疾病(发热/耳感染/反流未控), 体重不增, 呼吸暂停或面色青紫, 父母未达成一致]
 extraction: "S1: Precious Little Sleep (epub) ch7, ch7_cont, ch6"
 problem: 宝宝必须奶睡/抱走才能睡，夜里反复醒，我做了各种温和方法都没用，听说可以让他哭，可到底怎么哭、哭多久、要不要进去看

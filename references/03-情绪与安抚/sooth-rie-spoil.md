@@ -5,7 +5,7 @@ category: 情绪与安抚
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months, toddler-18-24-months]
 also_in: [父母自身]
 evidence: tier-3
-conflicts_with: []
+conflicts_with: [sooth-karp-5s]
 red_flags: [3月龄内发热38度以上, 哭声异常尖锐或呻吟样, 长期无法安抚伴体重不增, 精神萎靡拒奶嗜睡]
 extraction: "S1: Your Self-Confident Baby (azw3→epub) c01（Respect/Basic Trust 节）, c03（Can We Spoil Our Babies? 节）, c04（The Qualities of a Good Parent 节）"
 problem: 婆婆天天说我把孩子惯坏了，一哭就抱、一要就给，说再这样下去他这辈子就废了，我到底该不该狠心一点

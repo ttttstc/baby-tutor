@@ -5,7 +5,7 @@ category: 01-睡眠
 age_range: [infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years, child-3-4-years]
 also_in: []
 evidence: tier-3
-conflicts_with: []
+conflicts_with: [slp-mon-toddler-sleep]
 red_flags: [入睡时打鼾伴呼吸暂停, 呛咳面色青紫]
 extraction: "S1: Sleeping Through the Night (epub) c04-c06（第4章头几个月／第5章卧室、就寝时间与就寝程序／第6章基本就寝方法前半）"
 problem: 每天晚上哄睡都要一两个小时，又唱又摇又讲书，搞到十点半他困过头了反而狂哭，是不是我的睡前流程哪里做错了

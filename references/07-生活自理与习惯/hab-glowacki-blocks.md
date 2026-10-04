@@ -5,7 +5,7 @@ category: 07-生活自理与习惯
 age_range: [toddler-18-24-months, child-2-3-years]
 also_in: []
 evidence: tier-3
-conflicts_with: ["hab-azrin-foxx-ondeday"]
+conflicts_with: ["hab-azrin-foxx-ondeday", "hab-azrin-after"]
 red_flags: ["排尿时哭闹或排尿疼痛（就医排查泌尿感染）", "大便带血或既往肛周疼痛/手术史（先儿科评估再开训）", "稀便每天 4 次以上（书内：过敏/消化问题就医线）", "憋便数日伴明显腹胀不适（儿科咨询软便剂）", "全天尿频且几乎没有干爽间隔（先就医排查）"]
 extraction: "S1: Oh Crap! Potty Training (Jamie Glowacki, epub) ch02-ch06 + ch15 + bm02（cheat sheet）"
 problem: 我家宝宝 22 个月了，所有人都说"等孩子准备好、给你信号了再戒尿布"，可他拉了尿了跟没事人一样，到底什么时候开始、从哪一步开始？

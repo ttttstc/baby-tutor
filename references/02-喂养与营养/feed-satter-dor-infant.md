@@ -5,7 +5,7 @@ category: 喂养与营养
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months]
 also_in: [父母自身]
 evidence: tier-3
-conflicts_with: []
+conflicts_with: [slp-hogg-easy-routine]
 red_flags: [体重不增或下降, 生长曲线突然跨越百分位, 尿量明显减少, 吃奶时哭闹打挺弓背, 精神萎靡嗜睡, 发热, 出生后体重持续低于第3百分位]
 extraction: "S1: Feeding with Love and Good Sense: The First Two Years (epub) ch2, ch4（部分）, ch7"
 problem: 宝宝每次吃奶量都对不上书上写的数，我到底该按需喂还是按时喂，喂多了怕撑着喂少了怕饿着

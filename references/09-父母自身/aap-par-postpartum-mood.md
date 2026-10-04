@@ -5,6 +5,7 @@ category: 父母自身
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months, infant-2-3-months]
 also_in: ["03-情绪与安抚"]
 evidence: tier-1
+conflicts_with: []
 red_flags: ["负面感觉 2 周内没有缓解或持续加重", "有伤害自己或孩子的念头", "严重到无法照顾婴儿（无助、认为自己没有能力照顾婴儿）", "情绪问题伴失眠、食欲改变、频繁哭泣或惊恐发作"]
 extraction: "S1: 美国儿科学会育儿百科（第6版）(epub) 第5章 家人的情感/母亲的感受（part0013）+ 第6章 给母亲的特别信息（part0014）；3/4 新妈妈产后情绪低落、产后抑郁症发病率接近 10%、2 周不缓解就医等数字经 AAP healthychildren 2026-10-04 校准"
 problem: 生完孩子以后我总莫名其妙想哭，看什么都不顺眼，有时候甚至觉得讨厌自己的宝宝，还觉得自己是个坏妈妈——是不是我太矫情、扛不住当妈这件事？

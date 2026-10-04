@@ -5,6 +5,7 @@ category: 02-喂养与营养
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months]
 also_in: ["00-安全与就医红旗"]
 evidence: tier-1
+conflicts_with: []
 red_flags: ["婴儿过度嗜睡、异常哭闹、抽搐（大量喂水/稀释配方后的水中毒征象）", "6个月后仍只纯母乳、未补铁且出现苍白乏力（缺铁性贫血）", "维生素D缺乏致骨骼软化（佝偻病）", "大剂量维生素后恶心、皮疹、头痛（维生素中毒）", "严格素食母亲喂养的婴儿出现神经系统异常（维生素B12缺乏）"]
 extraction: "S1: Your Baby's First Year 5th ed (AAP, 2020, epub) c04 Vitamin Supplements / Iron Supplements / Water and Juice / Fluoride Supplements / What About Vitamins for Breastfed Babies?；c08 Dietary Supplements"
 problem: 纯母乳的宝宝要不要每天补维生素 D 和铁？要不要喂水、喂果汁、补氟？

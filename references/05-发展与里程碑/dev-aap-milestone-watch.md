@@ -5,6 +5,7 @@ category: 05-发展与里程碑
 age_range: [newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months, toddler-12-15-months]
 also_in: ["00-安全与就医红旗"]
 evidence: tier-1
+conflicts_with: []
 red_flags: ["满 2 个月对大声无反应、不会盯着自己的手", "满 3 个月头控仍差、不会对人笑、眼不追物", "满 4 个月仍见莫罗反射（惊跳反射）、身体发紧或发软", "满 5-7 个月两个方向都不翻身", "满 6 个月扶坐不能、不会笑出声", "满 8 个月不会咿呀学语（babble）", "满 9 个月不会独坐、爬时身体一侧拖行", "满 12 个月扶站不能、对名字无反应、无任何手势/单词", "任何月龄已会技能倒退丢失"]
 extraction: "S1: Your Baby's First Year 5th ed (AAP, 2020, epub) c06-c09 各章 Developmental Health Watch + Milestone 框；CDC「Learn the Signs. Act Early」75% 里程碑口径校准 2026-10-03"
 problem: 都五个月了还不会翻身，隔壁同月龄的都会坐了——到底是"每个宝宝不一样"，还是发育真的落后了？要看什么信号才该去查？

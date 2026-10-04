@@ -5,6 +5,7 @@ category: 发展与里程碑
 age_range: [infant-4-6-months, infant-6-9-months, infant-9-12-months]
 also_in: []
 evidence: tier-3
+conflicts_with: []
 red_flags: ["发热超过38℃（很可能不是长牙，应就医）", "极度痛苦、怎么哄都不停", "1岁以后仍无任何牙齿（咨询儿科医生）", "牙龈或面部肿胀（非单纯出牙）", "3月龄内肛温≥38℃（通用红线）"]
 extraction: "S1: 美国儿科学会育儿百科（第6版）(epub) 第8章「长牙」节（part0016）；出牙低热阈值 38℃ 经 AAP healthychildren 2026-10-04 校准"
 problem: 宝宝最近见什么咬什么、口水直流、夜里也有点闹，摸着头还有点温温的——是开始长牙了吗？那我要不要给他抹点药、买个咬胶，别人等着长牙要等多久、先长哪颗？

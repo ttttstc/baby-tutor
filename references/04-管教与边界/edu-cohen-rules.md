@@ -5,7 +5,7 @@ category: 04-管教与边界
 age_range: [toddler-18-24-months, child-2-3-years, child-3-4-years, child-4-5-years, child-5-6-years]
 also_in: [06-游戏与早教, 03-情绪与安抚]
 evidence: tier-3
-conflicts_with: [disc-phelan-123-counting]
+conflicts_with: [disc-phelan-123-counting, disc-karp-traffic-light]
 red_flags: [体罚或羞辱后孩子出现持续恐惧退缩或攻击升级, 行为问题伴随自伤、伤人、虐待动物或纵火, 孩子因被惩罚长期封闭拒绝对话超过一个月, 出现厌学拒学或严重情绪障碍]
 extraction: "S1: 游戏力（中文版 mobi）第13章（冷却自己/联结/“沙发会议”而非“冷处理”/游戏！/逐渐引导良好的判断力/翻译行为背后的情绪和需求/事先预防而非事后惩罚/了解孩子/给出明确的界限）"
 problem: 孩子犯错我除了吼和罚，关房间、罚站、"反省角"都试过，当时好像怕了，回头照犯，我到底该怎么立规矩

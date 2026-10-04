@@ -5,7 +5,7 @@ category: 管教与边界
 age_range: [child-2-3-years, child-3-4-years, child-4-5-years, child-5-6-years]
 also_in: [父母自身]
 evidence: tier-2
-conflicts_with: [disc-greene-cps-lens, disc-greene-plan-b]
+conflicts_with: [disc-greene-cps-lens, disc-greene-plan-b, disc-greene-school, disc-greene-consequences-fail, disc-siegel-time-out, disc-rie-punishment-vs-limits, disc-faber-punishment-alternatives, edu-cohen-rules]
 red_flags: [凭空出现的自杀言语, 四五岁后身体攻击持续升级, 体罚留下伤痕, 家长自认控制不住动手冲动, 威胁离家出走后真的失踪]
 extraction: "S1: 1-2-3 Magic (3rd ed., mobi) Introduction + ch1-13（计数规则 ch5、二十问 ch6、公共场合 ch7、变体 ch8、启动谈话 ch9、六种测试 ch10、实战 ch11、启动行为七战术 ch13）"
 problem: 孩子一不如意就闹翻天，好好说他不听，非要吼他一顿才消停，过两小时又来一遍，一天下来我嗓子都哑了，难道只能靠吼吗

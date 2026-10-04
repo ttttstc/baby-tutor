@@ -5,7 +5,7 @@ category: 01-睡眠
 age_range: [toddler-18-24-months, child-2-3-years, child-3-4-years, child-4-5-years, child-5-6-years]
 also_in: [04-管教与边界]
 evidence: tier-3
-conflicts_with: []
+conflicts_with: [slp-som-sleep-training]
 red_flags: [半夜尖叫不认人越哄越糟, 发热≥38℃伴白天精神差, 睡眠中呼吸暂停或面色青紫, 夜间恐惧持续数周伴白天情绪异常]
 extraction: "S1: The Happy Sleeper (epub) ch5 Falling Asleep Independently 节（Reverse Sleep Wave/Sleep Wave/Gradual Parent Wean 三法，HappySleeper-0090）"
 problem: 三岁娃每晚都要我陪着睡，我一起身他就哭，半夜还要爬到我床上来，说好只能讲两本绘本他讨价还价，到底怎么才能让他自己睡

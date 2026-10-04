@@ -5,7 +5,7 @@ category: 管教与边界
 age_range: [child-2-3-years, child-3-4-years, child-4-5-years, child-5-6-years]
 also_in: [生活自理与习惯]
 evidence: tier-3
-conflicts_with: []
+conflicts_with: [disc-rie-punishment-vs-limits, disc-faber-punishment-alternatives, disc-markham-praise-vs-appreciation, disc-dreikurs-chores-training, disc-dreikurs-encourage-not-praise]
 red_flags: []
 extraction: "S1: 1-2-3 Magic (3rd ed., mobi) Part IV ch13《7 Start Behavior Tactics》全章（七战术逐一：正强化、简单请求、厨房计时器、扣钱、自然后果、图表、短暂数数变体；两分钟门槛；图表退出标准）"
 problem: 我知道不能光靠吼，可叫他起床、写作业、收拾、刷牙，每样都得说八遍，说急了又变成吵。除了数到三，到底还有什么正经办法能让孩子动起来

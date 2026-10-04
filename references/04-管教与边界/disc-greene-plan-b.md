@@ -4,7 +4,7 @@ title: 跟孩子谈问题他不是"不知道"就是炸毛——不是他没话�
 category: 管教与边界
 age_range: [child-3-4-years, child-4-5-years, child-5-6-years]
 evidence: tier-2
-conflicts_with: []
+conflicts_with: [disc-phelan-123-counting, disc-phelan-stop-vs-start, disc-phelan-testing-manipulation]
 red_flags: [协作对话中孩子自伤或伤人, 孩子说出想死之类的话, 对话中透露被虐待迹象, 家长发现自己只是把单边决定包装成协商]
 extraction: "S1: The Explosive Child (6th ed., epub) ch7-9（Plan B 三步全文、Empathy 开场白与五种回应分支、drilling 八策略、Define Adult Concerns 范例、Invitation 双标准、Emergency vs Proactive、The Nuances 失败排查清单、The Questions 关键问答）"
 problem: 每次想跟孩子好好谈谈他总是"不知道"，逼急了就炸，然后一切照旧，我都不知道还能怎么沟通了

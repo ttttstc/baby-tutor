@@ -5,7 +5,7 @@ category: 情绪与安抚
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months]
 also_in: [父母自身]
 evidence: tier-3
-conflicts_with: [sooth-karp-5s]
+conflicts_with: [sooth-karp-5s, gon-self-calming, ww-fussy-phase-navigator]
 red_flags: [3月龄内发热38度以上, 哭声异常尖锐或高调, 哭声微弱或呻吟样, 哭闹伴面色苍白青紫或精神萎靡, 呕吐胆汁样或黄绿色, 囟门膨隆, 长时间无法安抚伴嗜睡, 哭闹总量骤变伴体重不增]
 extraction: "S1: Your Self-Confident Baby (azw3→epub) c03-c05, c07；Lansbury 补充源 Elevating Child Care (epub) c05, c06"
 problem: 宝宝一哭我就浑身发麻必须马上让他停下来，摇了喂了拍了抱了全套上，可我心里知道我在瞎对付，到底该不该让他哭

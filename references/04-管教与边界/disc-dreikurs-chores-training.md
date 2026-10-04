@@ -5,7 +5,7 @@ category: 04-管教与边界
 age_range: [toddler-18-24-months, child-2-3-years, child-3-4-years, child-4-5-years, child-5-6-years]
 also_in: [生活自理与习惯]
 evidence: tier-3
-conflicts_with: []
+conflicts_with: [disc-phelan-seven-start-tactics]
 red_flags: [孩子的自理能力较同龄明显落后且持续（穿衣、进食、如厕等多项）, 已习得技能明显倒退, 孩子求助时伴随持续的情绪低落或退缩, 家长长期因孩子"做不好"体罚或羞辱]
 extraction: "S1: 孩子：挑战 (epub) c13（花时间训练）, c14（赢得合作）, c05（奖赏与家务脱钩）, c23（激发独立）"
 problem: 孩子都四五岁了，穿衣服要催、玩具不收、让他搭把手做家务就耍赖，什么都等着我伺候，怎么说都没用，是不是我平时管太多惯出来的

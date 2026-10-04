@@ -5,7 +5,7 @@ category: 07-生活自理与习惯
 age_range: [toddler-12-15-months, toddler-15-18-months, toddler-18-24-months]
 also_in: []
 evidence: tier-3
-conflicts_with: ["hab-azrin-foxx-ondeday"]
+conflicts_with: ["hab-azrin-foxx-ondeday", "hab-azrin-readiness"]
 red_flags: ["排尿疼痛或尿频到几乎无干爽间隔（先就医再谈训练）", "18 个月以下出现持续强烈抗拒与恐慌（先退回，评估是否月龄未到）"]
 extraction: "S1: Oh Crap! Potty Training (Jamie Glowacki, epub) ch15(Under Twenty Months) + ch05(主流程)"
 problem: 我家宝宝才十八个月，我妈说太早了、网上都说等两岁，可我觉得他能听懂、也能自己脱袜子，到底能不能现在训？

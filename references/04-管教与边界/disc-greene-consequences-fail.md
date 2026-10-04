@@ -5,7 +5,7 @@ category: 管教与边界
 age_range: [child-3-4-years, child-4-5-years, child-5-6-years]
 also_in: [父母自身]
 evidence: tier-2
-conflicts_with: [disc-phelan-123-counting]
+conflicts_with: [disc-phelan-123-counting, disc-dreikurs-consequences]
 red_flags: [惩罚已升级到打骂或体罚且程度在加深, 孩子因惩罚出现自伤或退缩抑郁, 家长在惩罚中反复失控, 惩罚出现"关起来/不给饭吃"类剥夺, 行为在惩罚后持续升级]
 extraction: "S1: The Explosive Child (6th ed., epub) ch5（The Truth About Consequences：传统纪律的因果假设、六组件逐条为何失效、"如果疼有用早就用了"、自然后果同理、Q&A：不会什么都答应/立规矩给谁看/还是我说了算/自然后果）、ch9（Q&A：hold accountable=take responsibility 其实是 punishment 的代码；若痛苦有用早该有用；真正的"负责"=把顾虑摆上桌、纳入对方顾虑、共同找方案）"
 problem: 该罚的我都罚了，打也打了、没收也收了、禁足也用了，他一点都不改，是不是我心太软罚得不够狠，再这样下去是不是得往死里管

@@ -5,7 +5,7 @@ category: 01-睡眠
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months]
 also_in: []
 evidence: tier-3
-conflicts_with: []
+conflicts_with: [slp-dubief-swap-soothing-ladder]
 red_flags: [睡眠中呼吸暂停或面色青紫, 3月龄内发热≥38℃, 嗜睡难唤醒或吃奶骤减, 奶睡伴呛咳面色改变, 哭到呕吐或生长发育停滞]
 extraction: "S1: Healthy Sleep Habits, Happy Child (Marc Weissbluth, 2003修订版 epub) c02-c06"
 problem: 每次都是奶睡/抱着摇睡的，一放床就醒，白天黑夜全靠抱着，我是不是把他惯坏了、以后都改不过来

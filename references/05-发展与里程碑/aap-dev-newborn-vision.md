@@ -5,6 +5,7 @@ category: 发展与里程碑
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months]
 also_in: []
 evidence: tier-3
+conflicts_with: []
 red_flags: ["3个月大时双眼仍无法同时跟踪移动的物体", "大部分时间都'对眼'（持续内斜，尤其4个月后）", "某只眼无法灵活转动或眼球持续外斜", "强光照射下不会眨眼", "白瞳或眼球浑浊（警惕白内障）", "早产（未满32周）或出生时需吸氧→做眼科检查"]
 extraction: "S1: 美国儿科学会育儿百科（第6版）(epub) 第5章「新生儿的最初几日」视力段（part0013）；第6章「第1个月」视力与发育健康表（part0014）；第7章「1～3个月」视力与关注发育健康（part0015）；视力月龄口径经 AAP healthychildren 2026-10-04 校准"
 problem: 宝宝醒着的时候眼睛好像总是往鼻梁那边飘，看着像"斗鸡眼"；凑近他才像看得见我，远一点眼神就散了——这到底是没发育好，还是眼睛有问题？我该给他看什么、怎么陪他玩才不耽误视力发育？

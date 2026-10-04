@@ -5,7 +5,7 @@ category: 04-管教与边界
 age_range: [toddler-18-24-months, child-2-3-years, child-3-4-years, child-4-5-years, child-5-6-years]
 also_in: [09-父母自身, 08-社交与分离]
 evidence: tier-3
-conflicts_with: []
+conflicts_with: [disc-phelan-123-counting, disc-karp-traffic-light, disc-phelan-seven-start-tactics, disc-dreikurs-consequences]
 red_flags: [管教冲突中出现打骂孩子后反复自伤或伤害宠物, 孩子的攻击行为频率和强度持续升级数月不减缓, 攻击伴语言与社交能力倒退, 5岁后仍频繁无诱因攻击他人且无懊悔表现]
 extraction: "S1: How to Talk So Little Kids Will Listen (epub) ch03, Part II ch03/ch12；《如何说孩子才会听，怎么听孩子才肯说》精华版 (epub) 代替惩罚（解决问题六步）、家长问答（两岁打妈妈/反思时间/车后座问题解决）"
 problem: 孩子故意干坏事，打也打了罚也罚了，当时老实两天照旧，我是不是该罚得更狠一点

@@ -5,7 +5,7 @@ category: 01-睡眠
 age_range: [infant-4-6-months, infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months, toddler-18-24-months]
 also_in: []
 evidence: tier-2
-conflicts_with: [slp-dubief-swap-soothing-ladder, slp-ferber-graduated-extinction]
+conflicts_with: [slp-dubief-swap-soothing-ladder, slp-ferber-graduated-extinction, slp-xiaotu-companion-method, slp-dubief-slip-cry-it-out, slp-turgeon-sleep-wave, par-peri-sleep-nudging]
 red_flags: [呼吸暂停或面色青紫, 呕吐物呛咳, 发热≥38℃(3月龄内), 呕吐超过1次或精神差, 白天异常嗜睡难唤醒]
 extraction: "S1: 每个孩子都能好好睡觉 (epub) 第三章「让孩子学会一觉到天亮」(c06-2)"
 problem: 想让八个月的宝宝学会自己睡，但完全放任哭我做不到，有没有不那么狠的办法能让他夜里不再醒五六次

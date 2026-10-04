@@ -5,6 +5,7 @@ category: 02-喂养与营养
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months]
 also_in: ["01-睡眠"]
 evidence: tier-1
+conflicts_with: []
 red_flags: ["出生几天内体重下降超过出生体重的10%", "第2周末仍未回到出生体重", "满月后每天湿尿布少于4-6片", "异常嗜睡、显得'特别好带'", "第一周黄疸不退反深", "喂奶时反复咳嗽、频繁中断或面色改变", "3个月内直肠体温≥38℃"]
 extraction: "S1: Your Baby's First Year 5th ed (AAP, 2020, epub) c04 How Often and How Long? / Amount and Schedule of Formula Feedings / Is Your Baby Eating Enough? / Too Much Feeding / Too Little Feeding；c07 Basic Care: Feeding；c09 Basic Care: Feeding"
 problem: 宝宝一次到底该喂多少毫升？隔多久喂一次？他一哭我就慌了——是没吃饱还是喂多了？

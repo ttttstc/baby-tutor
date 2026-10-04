@@ -5,7 +5,7 @@ category: 管教与边界
 age_range: [toddler-18-24-months, child-2-3-years, child-3-4-years, child-4-5-years, child-5-6-years]
 also_in: [生活自理与习惯]
 evidence: tier-3
-conflicts_with: []
+conflicts_with: [disc-greene-consequences-fail, disc-faber-punishment-alternatives]
 red_flags: [行为后果涉及安全或健康风险（马路、火、利器、过敏）时不得使用后果法, 后果法被用于进食场景并出现体重不增或疑似进食障碍, 孩子以绝食自罚或伴随情绪持续低落]
 extraction: "S1: 孩子：挑战 (epub) c05-c07, c09, c12, c15, c22, c28, c29, app（附录案例 2/4/13/19）"
 problem: 孩子不吃饭、不收玩具、上学磨蹭，我催一百遍吼到嗓子哑，天天从早吵到晚，到底怎么才能不靠吼让他长记性

@@ -5,6 +5,7 @@ category: 00-安全与就医红旗
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months, toddler-12-15-months]
 also_in: ["05-发展与里程碑"]
 evidence: tier-1
+conflicts_with: []
 red_flags: ["接种后发热 >103°F（39.4℃）", "全身皮疹（含荨麻疹）", "接种肢体大面积肿胀", "抽搐", "任何让你担心的接种后症状", "对疫苗成分的严重（危及生命）过敏反应"]
 extraction: "S1: Your Baby's First Year 5th ed (AAP, 2020, epub) c26 Immunizations（Important and Safe / More About Immunizations / Easing the Hurt / What Shots Does Your Child Need?）；c07/08/09 Immunization Update"
 problem: 疫苗到底该什么时候打？一次打好几针会不会太多、把孩子免疫系统压垮？打完发烧是不是疫苗伤到孩子了？

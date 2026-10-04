@@ -5,6 +5,7 @@ category: 发展与里程碑
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months]
 also_in: []
 evidence: tier-1
+conflicts_with: []
 red_flags: ["听力筛查未通过却未复查/结果不明", "对很大或突然的声音没有反应（不惊跳、不转头）", "跟他说话时不会安静下来或转向你", "不会把哭以外的声音发出来、4 个月仍不模仿你的声音", "早产儿、家族中有人婴儿期患耳聋、出生需吸氧——高风险要格外重视", "怀疑听力问题（及早告诉医生，不要观望）"]
 extraction: "S1: 美国儿科学会育儿百科（第6版）(epub) 第5章「新生儿的最初几日」早期体格检查/耳部检查与听力筛查（part0013）；第6章「第1个月」听力与健康观察（part0014）；听力筛查程序经 AAP healthychildren 2026-10-04 校准"
 problem: 宝宝出院前做过听力筛查，可我根本不知道结果是什么，也没人跟我说过；平时叫他、在他耳边拍手，他好像没什么反应——是筛查漏了什么，还是他太正常、我想多了？要不要主动去查？

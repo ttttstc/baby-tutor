@@ -5,6 +5,7 @@ category: 发展与里程碑
 age_range: [newborn-early, newborn-adaptation, infant-1-2-months, infant-2-3-months, infant-3-4-months]
 also_in: []
 evidence: tier-3
+conflicts_with: []
 red_flags: ["4个月后仍然有拥抱（惊跳）反射", "4-5个月时仍然有强直性颈部反射", "反射持续不对称（只一侧出现）", "四肢看起来非常僵硬或非常松软", "对剧烈声响没有反应", "下巴不停颤抖（即使不在哭泣或兴奋时）"]
 extraction: "S1: 美国儿科学会育儿百科（第6版）(epub) 第6章「反射行为」与「发育健康表」（part0014）；第7章「动作」与「关注发育健康」（part0015）；反射消失月龄经 AAP healthychildren 2026-10-04 校准"
 problem: 最近一有动静、或者一晃他，宝宝就猛地双臂张开像要抱，接着大哭；有时头一转，胳膊还一伸一曲像在击剑——这些动作是不是抽搐、是不是脑子有问题？他在医院检查时医生捏着他的手掌、托着让他迈步，到底在查什么？

@@ -5,7 +5,7 @@ category: 01-睡眠
 age_range: [infant-4-6-months, infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years, child-3-4-years, child-4-5-years, child-5-6-years]
 also_in: []
 evidence: tier-2
-conflicts_with: [slp-ferber-graduated-extinction, slp-kastzahn-sleep-plan]
+conflicts_with: [slp-ferber-graduated-extinction, slp-kastzahn-sleep-plan, slp-xiaotu-companion-method, slp-dubief-swap-soothing-ladder, slp-weissbluth-night-waking, par-peri-sleep-nudging]
 red_flags: [呼吸暂停或面色青紫, 发热≥38℃(3月龄内), 呕吐超过1次或呕吐后精神差, 白天异常嗜睡难唤醒, 夜醒伴抓耳揪耳, 打鼾伴张口呼吸]
 extraction: "S1: The Happy Sleeper (epub) ch4 Sleep Wave 全节＋troubleshooting（HappySleeper-0080）、ch5 大孩子 Sleep Wave 节（HappySleeper-0090）、ch2 方法论（HappySleeper-0060）"
 problem: 想给八个月的宝宝做睡眠训练，可法伯那种等十分钟二十分钟再进去的过程我熬不住，有没有一直就五分钟进去看一眼的温和做法

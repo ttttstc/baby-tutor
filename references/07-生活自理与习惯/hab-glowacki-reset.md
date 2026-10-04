@@ -5,7 +5,7 @@ category: 07-生活自理与习惯
 age_range: [toddler-18-24-months, child-2-3-years, child-3-4-years]
 also_in: []
 evidence: tier-3
-conflicts_with: ["hab-azrin-foxx-ondeday"]
+conflicts_with: ["hab-azrin-foxx-ondeday", "hab-azrin-after"]
 red_flags: ["排尿哭闹或疼痛（先排查泌尿感染再谈训练）", "血便或既往肛周疼痛史（儿科评估）", "稀便每天 4 次以上（过敏/消化就医线）", "憋便超过数日伴腹胀不适（儿科咨询软便剂）", "书内标注的'真恐惧'：开场即尖叫挣扎、视马桶如熔岩（罕见，全书数千例仅 11 例）——持续无改善需专业评估"]
 extraction: "S1: Oh Crap! Potty Training (Jamie Glowacki, epub) ch07-ch11 + ch13 + ch16 + questions.xhtml"
 problem: 戒尿布第五天了，孩子一提马桶就打挺，屎憋着不拉，或者干脆站着尿我一裤子，我快崩溃了，是不是该给他穿回尿布过几个月再说？

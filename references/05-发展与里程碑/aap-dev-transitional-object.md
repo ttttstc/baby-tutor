@@ -5,6 +5,7 @@ category: 发展与里程碑
 age_range: [infant-6-9-months, infant-9-12-months]
 also_in: ["情绪与安抚"]
 evidence: tier-3
+conflicts_with: []
 red_flags: []
 extraction: "S1: 美国儿科学会育儿百科（第6版）(epub) 第9章移情物（part0017）；移情物 8-12 月选择窗口、两个备份/剪毯子/淘同款玩具做法按原书原文，经 AAP healthychildren 2026-10-04 校对"
 problem: 孩子不知从哪天起认准了一条破毯子，睡觉要、出门要、我去洗手间他也要抱着站在门口哭——婆婆说这么大还离不开东西太没出息，是不是该给他戒掉？

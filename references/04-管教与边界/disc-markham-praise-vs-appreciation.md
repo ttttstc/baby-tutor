@@ -5,7 +5,7 @@ category: 04-管教与边界
 age_range: [infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years, child-3-4-years, child-4-5-years, child-5-6-years]
 also_in: [06-游戏与早教]
 evidence: tier-3
-conflicts_with: []
+conflicts_with: [disc-phelan-seven-start-tactics]
 red_flags: []
 extraction: "S1: Peaceful Parent, Happy Kids (epub) ch5（Giving Constructive Feedback 全节：孩子需要持续的正向肯定、但肯定不等于表扬、常规表扬是在用你的标准评价他、被夸的孩子更不安全更依赖外部肯定、表扬只在你在场时有效（分享实验）、奖励剥夺内在乐趣（成绩给钱）、无条件积极关注 vs 有条件表扬、拼图案例、夸努力的细致区分、表扬 vs 欣赏的"I"句式）"
 problem: 都说要多鼓励孩子，我天天夸"你真棒""你真聪明"，可他反而越来越怕难、越来越在意我怎么看，是不是我夸错了

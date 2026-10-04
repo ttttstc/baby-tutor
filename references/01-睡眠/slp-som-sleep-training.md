@@ -5,7 +5,7 @@ category: 01-睡眠
 age_range: [infant-4-6-months, infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years]
 also_in: [09-父母自身]
 evidence: tier-2
-conflicts_with: [slp-turgeon-reverse-wave]
+conflicts_with: [slp-turgeon-reverse-wave, par-peri-sleep-nudging]
 red_flags: [睡眠中反复呼吸暂停或憋气, 夜间惊醒伴尖叫出汗意识模糊, 睡眠问题伴体重不增或发育倒退, 打鼾严重伴白天嗜睡, 长期睡眠紊乱伴情绪行为剧烈变化]
 extraction: "S1: The Science of Mom (epub) c07"
 problem: 宝宝必须奶睡抱睡，我实在熬不住了想试试睡眠训练，可又怕"哭声免疫法会伤害宝宝大脑、破坏安全感"，到底能不能做、会不会留下伤害

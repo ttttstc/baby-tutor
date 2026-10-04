@@ -5,6 +5,7 @@ category: 02-喂养与营养
 age_range: [infant-4-6-months, infant-6-9-months, infant-9-12-months]
 also_in: ["07-生活自理与习惯"]
 evidence: tier-1
+conflicts_with: []
 red_flags: ["进食中呛咳、面红、无法出声（窒息）", "进食后突发荨麻疹/喘息/呕吐/面色苍白或虚脱（严重过敏）", "便中带血", "加辅食后体重不增或下降", "持续拒食并伴生长迟缓"]
 extraction: "S1: Your Baby's First Year 5th ed (AAP, 2020, epub) c08 Introducing Solid Foods / Dietary Supplements；c09 Basic Care: Feeding / Sample One-Day Menu"
 problem: 婆婆说四个月就该加辅食了，医生又说六个月，到底什么时候加？第一口加什么、先加米粉还是先加菜？

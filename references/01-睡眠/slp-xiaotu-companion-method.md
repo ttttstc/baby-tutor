@@ -5,7 +5,7 @@ category: 01-睡眠
 age_range: [infant-1-2-months, infant-2-3-months, infant-3-4-months, infant-4-6-months, infant-6-9-months, infant-9-12-months, toddler-12-15-months, toddler-15-18-months]
 also_in: []
 evidence: tier-3
-conflicts_with: [slp-ferber-graduated-extinction, slp-kastzahn-sleep-plan]
+conflicts_with: [slp-ferber-graduated-extinction, slp-kastzahn-sleep-plan, slp-dubief-slip-cry-it-out, slp-weissbluth-cry-methods, slp-weissbluth-night-waking, slp-turgeon-sleep-wave]
 red_flags: [睡眠中呼吸暂停或面色青紫, 呕吐后呛咳或精神差, 发热≥38℃(3月龄内), 白天异常嗜睡难唤醒, 体重不增]
 extraction: "S1: 婴幼儿睡眠全书 (epub) 第四章「自主入睡及难点突破」全章 (chapter04)、第三章「小土5步睡眠引导」第三至五节 (chapter03)、第五章「效果不错的摸索实例」抱睡改善节 (chapter05)"
 problem: 八个月的宝宝要抱着走半小时才睡着，一放床就哭，想让他学会自己睡，可让他自己哭我下不去手，有没有大人在旁边陪着也能教会他自己睡的办法

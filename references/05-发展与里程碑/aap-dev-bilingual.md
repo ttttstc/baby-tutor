@@ -5,6 +5,7 @@ category: 发展与里程碑
 age_range: [infant-6-9-months, infant-9-12-months]
 also_in: ["06-游戏与早教"]
 evidence: tier-3
+conflicts_with: []
 red_flags: ["8-12 月仍无任何单词且对身体语言无反应", "对声音或说话无正常反应（排查听力）", "语言相关里程碑明显落后并持续（见 dev-aap-milestone-watch）"]
 extraction: "S1: 美国儿科学会育儿百科（第6版）(epub) 第9章 双语环境里的孩子（part0017）；双语可同时习得、接触越早越熟练、混语阶段正常等要点按原书原文，经 AAP healthychildren 2026-10-04 校对"
 problem: 我们家爸爸说英语我说中文，老人说两种话一起讲会把孩子搞糊涂，让他话都学不利索——到底该不该只跟他说一种，还是等一种学好了再教另一种？

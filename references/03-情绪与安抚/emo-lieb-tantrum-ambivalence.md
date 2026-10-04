@@ -5,7 +5,7 @@ category: 03-情绪与安抚
 age_range: [toddler-12-15-months, toddler-15-18-months, toddler-18-24-months, child-2-3-years]
 also_in: [04-管教与边界]
 evidence: tier-3
-conflicts_with: []
+conflicts_with: [disc-phelan-tantrums-pouting]
 red_flags: [发脾气成为常态而非例外, 发作超长且无法恢复, 伤人或伤己或毁物, 数月高频不退, 18月龄不会有意识叫爸爸妈妈, 18月龄与人无目光交流, 24月龄不会按吩咐做简单事情, 30月龄兴趣单一刻板]
 extraction: "S1: The Emotional Life of the Toddler (Alicia Lieberman, 2018 二版, epub) ch1（矛盾行为清单）、ch2（学步儿的内在矛盾/镜子自我识别/18个月分离反弹/取悦愿望）、ch3（冲突频率数据/违拗研究/发脾气机制/四案例/伙伴关系/过度协商案例/鼓励配合六法）、ch4（高强度气质五要素）、ch7（可控焦虑与恢复力判据）"
 problem: 一岁半的娃说不顺他就躺地上打滚，哭到岔气怎么哄都不行，一天好几回，我是不是把他惯坏了
