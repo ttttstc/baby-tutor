@@ -118,7 +118,7 @@ note: 本条讲"打电话前的准备 + 生命体征测量 + 电话分诊三档"
 
 ## 就医红线
 
-- **新生儿直肠温持续低于 97.6℉（36.4℃）**：低体温也是问题，联系医生。
+- **新生儿直肠温持续低于 97.6℉（约 36℃）（36.4℃）**：低体温也是问题，联系医生。
 - **呼吸费力**：呼吸急促伴**胸部凹陷（retractions）、鼻翼扇动（flaring）、每次呼气末呻吟（grunting）**——立即联系医生。
 - **婴儿呼吸停止超过 15 秒（apnea）**：拨打 911/120。
 - **嘴唇或面色发青、意识改变、出血无法控制**：走急救通道，先别打电话干等。
@@ -131,4 +131,4 @@ note: 本条讲"打电话前的准备 + 生命体征测量 + 电话分诊三档"
 
 - 《Baby 411 (7th ed)》(Ari Brown MD & Denise Fields) 第16章 First Aid「On Call Etiquette / Your First Aid Kit / Taking Vital Signs / How Can Docs Make a Diagnosis Over the Phone」，PDF 文字层 p743-750。
 - 生命体征年龄范围（心率/呼吸率）、急救箱清单、中毒热线 800-222-1222、分诊三档：本书原文照录，2026-10-05 校准。
-- AAP（美国儿科学会）healthychildren.org「How to Take a Child's Temperature」（直肠测温、发热阈值 100.4℉/38℃）：2026-10-05 校准。
+- AAP（美国儿科学会）healthychildren.org「How to Take a Child's Temperature」（直肠测温、发热阈值 100.4℉（约 38℃）/38℃）：2026-10-05 校准。

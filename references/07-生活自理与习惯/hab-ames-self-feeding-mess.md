@@ -55,7 +55,7 @@ note: 食欲下降见 feed-ames-appetite-drop；挑食见 feed-ames-food-refusal
 - **脏乱是学习成本**：练得越早，越早熟练；不让练，就一直是"喂"。
 - **"吃不饱"可补**：一顿吃得少没关系，全天有均衡即可（见 feed-ames-appetite-drop）。
 
-以上为 Gesell 常模与作者观察（tier-3），非 RCT 证据。
+以上为 Gesell 常模与作者观察，非 RCT 证据。
 
 **补充机制：**
 

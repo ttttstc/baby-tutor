@@ -62,7 +62,7 @@ Janet Lansbury 在《No Bad Kids》里专门用一整章反对这个流行招数
 4. **低估并抑制了觉察力（Underestimates awareness）**：让他"换频道、忘掉刚发生的"，是在训练更短的注意力；不被转移的孩子"骗不动"，他们要的是直话。
 5. **不尊重（Respect）**：书里原话——孩子值得你和对待成人一样的尊重，而不是被当成"干扰一下就好"的傻瓜。
 
-**为什么"现场解说 + 直话"有效。**它的替代动作是：先呼吸、保持平静坚定、然后**用 sportscasting（现场解说）**把争端客观讲出来（Magda 的术语）："Jake and John are both trying to hold onto the truck. It's tough when you both want to use the same thing… You're really having a hard time…"（Jake 和 John 都想抓着卡车。俩人都想用同一样东西，真难……你们真的很难受……）允许争夺存在，但不许互相伤害："I see you're frustrated, but I won't let you hit."事后确认各自观点："Jake 现在有卡车，John，你想要它，你很委屈。"**这套做法的功能是：让孩子在真实发生的冲突里，学会识别情绪、理解规则、并慢慢自己找解法。**（RIE 把"允许一次安全的冲突 + 现场解说"当作社交学习的地基，属专业方法论，tier-3；"照护者解说情绪有助幼儿情绪理解"在发展心理学有支持。）
+**为什么"现场解说 + 直话"有效。**它的替代动作是：先呼吸、保持平静坚定、然后**用 sportscasting（现场解说）**把争端客观讲出来（Magda 的术语）："Jake and John are both trying to hold onto the truck. It's tough when you both want to use the same thing… You're really having a hard time…"（Jake 和 John 都想抓着卡车。俩人都想用同一样东西，真难……你们真的很难受……）允许争夺存在，但不许互相伤害："I see you're frustrated, but I won't let you hit."事后确认各自观点："Jake 现在有卡车，John，你想要它，你很委屈。"**这套做法的功能是：让孩子在真实发生的冲突里，学会识别情绪、理解规则、并慢慢自己找解法。**
 
 ## 诊断信号
 

@@ -69,7 +69,7 @@ note: |
 
 ## 正常范围与个体差异
 
-- 室温：专家共识的舒适区间 68-72℉（约 20-22.2℃）。AAP 睡眠指引的口径是"穿着轻便的成年人感觉舒适的温度"。
+- 室温：专家共识的舒适区间 68-72℉（约 22℃）（约 20-22.2℃）。AAP 睡眠指引的口径是"穿着轻便的成年人感觉舒适的温度"。
 - 手脚偏凉、皮肤花斑（大理石纹）：在躯干温暖、吃睡正常的前提下属于这个月龄的正常现象，随月龄消退（书 c26 Blue or Mottled 节）。嘴唇口周发青不在此列（见红线）。
 - 层数：同一环境比大人多一层（AAP 睡眠现行指引）；书作者认为"同层 vs 多一层"差别不大、以宝宝舒适度为准——两说不冲突：取"多一层"为默认值，出现热信号就减（分歧已在来源注明）。
 - 每天衣物消耗量：吐奶+漏屎之下，一天 2-4 套很正常，按这个量配置衣物库存（书 c13 An Outfit a Day）。
@@ -121,7 +121,7 @@ note: |
 ## 就医红线
 
 （以下为 tier-1 级，2026-10-03 校准）
-- **3 月龄内发热 ≥38℃（100.4℉）直接就医**，不观察、不自行退烧。穿多确实能轻微抬高体表温度，但**肛温 ≥100.4℉ 不可以归结为"捂热了"**——书 c27 明确：别把升高的肛温当成穿多的结果而忽视，脱掉衣物复测，降不下来就是发热。
+- **3 月龄内发热 ≥38℃（100.4℉（约 38℃））直接就医**，不观察、不自行退烧。穿多确实能轻微抬高体表温度，但**肛温 ≥100.4℉（约 38℃） 不可以归结为"捂热了"**——书 c27 明确：别把升高的肛温当成穿多的结果而忽视，脱掉衣物复测，降不下来就是发热。
 - **嘴唇、口周、牙龈发青**：外周花斑是正常的，但中央性发绀（口周）提示缺氧——立即就医。
 - **过热征象持续**：出汗、胸口烫、皮肤潮红——立即减层；若伴随嗜睡、拒奶、呼吸异常，就医。
 - **3 月龄内出现任何感冒症状**（哪怕没发烧）——就医评估（与 safe-aap-cold-nosecare 的红线一致）。
@@ -135,7 +135,7 @@ note: |
 
 ## 来源
 
-- Laura A. Jana, MD & Jennifer Shu, MD《Heading Home With Your Newborn》AAP Publishing 2020（第4版）：c13 Clothing and Accessories（层数与室温、one-piece vs 两件式、拉链防夹、CPSC 睡衣阻燃与抽绳规则、码数、blowout 处理）；Section 5 Thinking Outside of the House（头部散热与戴帽、出行原则 less is more、3-6 英尺、背带 ASTM F2236 与气道、婴儿车 recline 与慢跑限制、汽车座椅只用于乘车、SPF15 与 oxybenzone）；c27 Fever: Trial by Fire 之 Limiting exposure、Handwashing、Over-bundled、Climate Control（68-72℉）；c26 Cover Up、Blue or Mottled 节。
+- Laura A. Jana, MD & Jennifer Shu, MD《Heading Home With Your Newborn》AAP Publishing 2020（第4版）：c13 Clothing and Accessories（层数与室温、one-piece vs 两件式、拉链防夹、CPSC 睡衣阻燃与抽绳规则、码数、blowout 处理）；Section 5 Thinking Outside of the House（头部散热与戴帽、出行原则 less is more、3-6 英尺、背带 ASTM F2236 与气道、婴儿车 recline 与慢跑限制、汽车座椅只用于乘车、SPF15 与 oxybenzone）；c27 Fever: Trial by Fire 之 Limiting exposure、Handwashing、Over-bundled、Climate Control（68-72℉（约 22℃））；c26 Cover Up、Blue or Mottled 节。
 - AAP 安全睡眠现行指引（本地官方指南库 AAP_安全睡眠指南_2025.html）：睡觉穿衣只比大人多一层、过热征象（出汗/胸口烫/皮肤潮红）、室内不戴帽；2026-10-03 核对。
 - AAP healthychildren.org「Sun Safety」：6 个月内避免直晒、衣物遮盖优先、SPF≥15、10am-4pm、3 英寸宽檐帽、oxybenzone 尽量避免；2026-10-03 校准。
 - AAP healthychildren.org「How to Cocoon a Newborn」：访客管理（生病不接触、全家 Tdap/流感接种、洗手是必要非充分）；2026-10-03 校准。
