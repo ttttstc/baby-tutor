@@ -121,6 +121,7 @@
 - **多格式副本**：_网盘下载/ 内法伯睡眠宝典（azw3/epub/mobi）、AAP 百科第6版（azw3/epub/mobi）——与根目录同书，不重复蒸馏
 - **仍缺失**：母乳喂养的女性艺术（LLLI）——02 类"母乳操作"主题暂由 AAP 指南 + Science of Mom 覆盖，书到后补蒸
 - **PDF 不蒸馏**（用户指示）：AAP 百科相关 PDF、从出生到3岁、捕捉儿童敏感期、崔玉涛图解系列 PDF、朗读手册等——待 PDF 管线就绪后重估
+- **2026-10-05 更新**：崔玉涛图解 4 册 PDF 齐（含肠道健康）+ 育儿百科 PDF；Touchpoints: Birth to Three 英文版（Internet Archive 数字版，516 页）；英文替补 4 本到位：The Read-Aloud Handbook、The Womanly Art of Breastfeeding、The Big Book of Symptoms、Into the Minds of Babes；其余文字版已排 Z-Library 自动补下（10-06、10-07 清晨两轮，结果见 电子书/_scripts/robust_report.json；13 项剩余目标 zlib 候选已预检通过，见 _scripts/cand_check_1005.out）；Baby 411 第 7 版 PDF 到手（libgen，含文字层，1101 页），第 11 版 epub：libgen 两轮重试均败（镜像 524），改由 10-06 zlib 轮次补下；下载策略：文字版优先、PDF 降权，《儿童发展蓝图》仅取文字版
 
 ## 蒸馏排期（非 PDF 全量）
 

@@ -17,22 +17,22 @@ A parent arrives with a concrete trouble ("my baby wakes all night", "my 2-year-
 
 ## Knowledge base
 
-- **1731 methodology entries, 10 categories**, all distilled from the **original text of 69 books** (the `extraction` field traces to title + chapter/page or an official URL). Non-original, pirated, book-summary, and OCR-garbled sources are all rejected
+- **2208 methodology entries, 10 categories**, all distilled from the **original text of 77 books** (the `extraction` field traces to title + chapter/page or an official URL). Non-original, pirated, book-summary, and OCR-garbled sources are all rejected
 - Each entry has a **15-field frontmatter + a 13-section body** (including the two parenting-specific sections "Normal range & individual variation" and "When to see a doctor")
 - Opposing cross-book schools are marked bilaterally via `conflicts_with`, which the consumer uses to resolve contradictions
 
 | Category | Entries | Main sources |
 |---|---|---|
-| 00-Safety & medical red flags | 282 | AAP Caring for Your Baby, Cui Yutao, Pei Honggang, Xiami Mama, Ji Lianmei, Science of Mom, official guidelines |
-| 01-Sleep | 186 | Precious Little Sleep, Ferber, Weissbluth, Kast-Zahn, The Baby Whisperer, Xiaotu, Mindell, Karp |
-| 02-Feeding & nutrition | 233 | Satter, Cui Yutao, Science of Mom, Eliot, BLW |
-| 03-Emotion & soothing | 72 | Karp 5S, Hogg, RIE, Lieberman |
-| 04-Discipline & boundaries | 211 | Montessori, Siegel, Faber, Greene, Phelan, Dreikurs, Gordon, Karp |
-| 05-Development & milestones | 262 | AAP, Eliot, Cui Yutao, Lieberman, Wonder Weeks |
-| 06-Play & early learning | 205 | Montessori (3 books), Dirksen, RIE, Eliot, Cohen, Hanscom, NurtureShock, Suskind |
-| 07-Self-care & habits | 127 | AAP, Jana, Montessori, Azrin-Foxx, Glowacki, Payne |
-| 08-Social & separation | 67 | Gonzalez-Mina, Fraiberg |
-| 09-Parents themselves | 86 | Mindell, Perry, Neufeld, Oster, Gopnik, Gonzalez-Mina |
+| 00-Safety & medical red flags | 396 | AAP Caring for Your Baby, Cui Yutao, Pei Honggang, Xiami Mama, Ji Lianmei, Science of Mom, official guidelines |
+| 01-Sleep | 198 | Precious Little Sleep, Ferber, Weissbluth, Kast-Zahn, The Baby Whisperer, Xiaotu, Mindell, Karp |
+| 02-Feeding & nutrition | 388 | Satter, Cui Yutao, Science of Mom, Eliot, BLW |
+| 03-Emotion & soothing | 83 | Karp 5S, Hogg, RIE, Lieberman |
+| 04-Discipline & boundaries | 232 | Montessori, Siegel, Faber, Greene, Phelan, Dreikurs, Gordon, Karp |
+| 05-Development & milestones | 310 | AAP, Eliot, Cui Yutao, Lieberman, Wonder Weeks |
+| 06-Play & early learning | 268 | Montessori (3 books), Dirksen, RIE, Eliot, Cohen, Hanscom, NurtureShock, Suskind |
+| 07-Self-care & habits | 139 | AAP, Jana, Montessori, Azrin-Foxx, Glowacki, Payne |
+| 08-Social & separation | 85 | Gonzalez-Mina, Fraiberg |
+| 09-Parents themselves | 109 | Mindell, Perry, Neufeld, Oster, Gopnik, Gonzalez-Mina |
 
 ## Retrieval architecture
 
