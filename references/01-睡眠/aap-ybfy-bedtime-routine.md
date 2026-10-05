@@ -48,7 +48,7 @@ sources:
 
 - **固定程序=把入睡变条件反射**：一致的睡前流程会让宝宝逐渐"associate them with sleep"——把洗澡、奶、书、放进小床这一串动作与"接下来是睡觉"绑定，流程一走，身体就切到入睡模式。
 - **过累反比按时困更难睡**（书第30章 Scenario #2）：书里的五个月宝宝"cries at the mere sight of his bed"，儿科医生判断部分是就寝太晚导致的过度疲劳，处方是"place him in bed much earlier"。这套逻辑在 Scenario #1 里也出现——硬留到爸爸回家 = 人为打乱孩子的睡眠-清醒节律，他会变得 moody、注意力差。
-- **"困但还醒着"是自我安抚的开关**：书反复强调"place him in his crib when he's drowsy but still awake"，第8章同样——"settle your baby in his crib while he's drowsy but still awake so he learns to fall asleep on his own"。在怀里睡着再放下，孩子学到的是"入睡需要被抱着";在自己床上睡着，学到的才是"我自己能睡"。
+- **"困但还醒着"是自我安抚的开关**：书反复强调"place him in his crib when he's drowsy but still awake"，第8章同样——"settle your baby in his crib while he's drowsy but still awake so he learns to fall asleep on his own"。在怀里睡着再放下，孩子学到的是"入睡需要被抱着"；在自己床上睡着，学到的才是"我自己能睡"。
 - **一致性让哭闹逐夜递减**："if parents are consistent, most babies will cry less each night and will be more likely to learn self-soothing"。
 - **让哭不会造成伤害**：原话"there are times when you may need to let your baby cry himself to sleep; it won't cause any harm……He won't be thinking that you're abandoning him"。书还给了一个关键界定——"the goal with sleep training is to teach your child to fall asleep on his own, not to make him more upset"，所以"如果哭得持久，仍去看他一眼"。
 - **"many hands"防止你被单独绑定**（书第30章 Sharing the Bedtime Routine）：越多人参与睡前仪式，宝宝越不可能把"入睡"只和某一个人绑定。

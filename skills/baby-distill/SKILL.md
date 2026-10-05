@@ -100,18 +100,28 @@ cd /tmp && rm -rf <workdir> && mkdir <workdir> && cd <workdir> \
 - 医学/安全数字（阈值/时长/剂量）：原文照录后，核对本仓库 `D:\AI\workspace\电子书\官方指南\` 下对应官方文件（WHO/卫健委/CDC/AAP），不一致时以官方为准并在「来源」注明分歧
 - 官方指南类蒸馏（S2）产出 00 类安全条目时，条目 red_flags 直接嵌官方阈值
 
-## 五、批次验收（每批蒸馏完成后必跑，机械检查）
+## 五、批次验收（每批蒸馏完成后必跑——**双门禁，退出码非 0 不许收工**）
 
-**跑脚本，不靠肉眼**（本批曾真实踩坑：24 条缺闭合 `---` 或 H1、7 条 CRLF）：
+**跑脚本，不靠人提醒、不靠肉眼**（历史真实踩坑：24 条缺闭合 `---`/H1、7 条 CRLF；正文残留 `（tier-X）`/`（pXX）`/"原书说…"叙述上千处、整段复制、半角标点）：
 
 ```bash
 # 1. 索引重建（代理不写索引，主会话统一生成）
 python skills/baby-distill/scripts/rebuild_index.py
-# 2. 机械验收（frontmatter/H1/CRLF/字段/13节/月龄id/conflicts/索引覆盖）
+# 2. 结构门禁：frontmatter/H1/CRLF/字段/13节/月龄id/conflicts/索引覆盖
 python skills/baby-distill/scripts/validate_entries.py
+# 3. 内容质量门禁：策略节元语言残留/整段重复/半角标点/空节/兜底簇
+python skills/baby-distill/scripts/validate_quality.py --all
 ```
 
-脚本退出码非 0 = 有硬伤，逐项修复后重跑至通过。**另需人工抽查**：
+**两个校验脚本退出码都必须为 0**（任一非 0 = 有硬伤，逐项修复后重跑至通过）。这是**收工前的硬门禁**——每次蒸馏收尾自动跑，不等用户提醒。
+
+`validate_quality.py` 的硬失败项（内容质量，结构性检查之外）：
+- 策略节（解决的问题/核心判断/机制/诊断信号/正常范围/实操/备选/决策/反模式/边界）**残留来源与元语言**：`（tier-X）`、`（pXX）`、`（原书/本书…）`、正文"原书/本书/书中/书里 + 动词"的叙述口气。正文只讲内容，出处一律只进 `extraction` 与 `## 来源`（format.md §七.12）
+- **整段重复**（同一 ≥40 字段落出现 ≥2 次）
+- **半角标点**为主（中文正文半角逗号占比过高）
+- 核心策略节为空/过短
+
+**另需人工抽查**：
 1. 随机抽 3-5 条，对照四件套 + extraction 页码/章节与源文件核对（防凭记忆补写）
 2. 风格检查：无鸡汤段落；「正常范围」无"别担心"式语言；判断标准可操作
 3. 问题分级：硬伤（四件套缺失/extraction 造假/医学数字无来源）→ 修复；软伤（表达啰嗦/signals 弱）→ 列待用户决定
@@ -128,6 +138,6 @@ python skills/baby-distill/scripts/validate_entries.py
 - **不用盗版判断标准放松质量门**：用户自筹的源也照 A/B/C/D 分级，C/D 拒收——与来源合法性是两回事
 - **不代跑 baby-tutor**：蒸馏出的条目如何被使用是 baby-tutor skill 的职责
 - **医学数字双源核对**：书 vs 官方指南不一致时，以指南为准+标注分歧
-- **批次必过机械验收**：validate_entries.py 通过才收工
+- **批次必过双门禁**：`validate_entries.py`（结构）+ `validate_quality.py`（内容质量）**都通过才收工**，每批收尾自动跑、不等用户提醒
 - **并发 ≤20 subagent**：超限报错；shell 坏了先 `export PATH="/d/soft/Git/usr/bin:$PATH"`
 - 汇报时如实报未覆盖主题，不为好看凑条数

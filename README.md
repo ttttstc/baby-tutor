@@ -17,22 +17,22 @@
 
 ## 知识库
 
-- **1731 条方法论条目，10 分类**，全部来自 **69 本书的原文实文蒸馏**（`extraction` 字段可溯源到书名 + 章节/页码 / 官方 URL）；非原书、盗版、读书笔记、OCR 乱码一律不收录
+- **2208 条方法论条目，10 分类**，全部来自 **77 本书的原文实文蒸馏**（`extraction` 字段可溯源到书名 + 章节/页码 / 官方 URL）；非原书、盗版、读书笔记、OCR 乱码一律不收录
 - 每条 **15 字段 frontmatter + 13 节正文**（含育儿特有的「正常范围与个体差异」「就医红线」两节）
 - 跨书对立流派双边标 `conflicts_with`，消费端据此消解矛盾
 
 | 分类 | 条数 | 主要来源 |
 |---|---|---|
-| 00-安全与就医红旗 | 282 | AAP 育儿百科、崔玉涛、裴洪岗、虾米妈咪、冀连梅、Science of Mom、官方指南 |
-| 01-睡眠 | 186 | Precious Little Sleep、法伯、Weissbluth、Kast-Zahn、实用程序育儿法、小土大橙子、Mindell、Karp |
-| 02-喂养与营养 | 233 | Satter、崔玉涛、Science of Mom、Eliot、BLW |
-| 03-情绪与安抚 | 72 | Karp 5S、Hogg、RIE、Lieberman |
-| 04-管教与边界 | 211 | 蒙氏、Siegel、Faber、Greene、Phelan、德雷克斯、Gordon、Karp |
-| 05-发展与里程碑 | 262 | AAP、Eliot、崔玉涛、Lieberman、Wonder Weeks |
-| 06-游戏与早教 | 205 | 蒙氏（3 本）、Dirksen、RIE、Eliot、Cohen、Hanscom、NurtureShock、Suskind |
-| 07-生活自理与习惯 | 127 | AAP、Jana、蒙氏、Azrin-Foxx、Glowacki、Payne |
-| 08-社交与分离 | 67 | Gonzalez-Mina、Fraiberg |
-| 09-父母自身 | 86 | Mindell、佩里、雷诺、Oster、高普尼克、Gonzalez-Mina |
+| 00-安全与就医红旗 | 396 | AAP 育儿百科、崔玉涛、裴洪岗、虾米妈咪、冀连梅、Science of Mom、官方指南 |
+| 01-睡眠 | 198 | Precious Little Sleep、法伯、Weissbluth、Kast-Zahn、实用程序育儿法、小土大橙子、Mindell、Karp |
+| 02-喂养与营养 | 388 | Satter、崔玉涛、Science of Mom、Eliot、BLW |
+| 03-情绪与安抚 | 83 | Karp 5S、Hogg、RIE、Lieberman |
+| 04-管教与边界 | 232 | 蒙氏、Siegel、Faber、Greene、Phelan、德雷克斯、Gordon、Karp |
+| 05-发展与里程碑 | 310 | AAP、Eliot、崔玉涛、Lieberman、Wonder Weeks |
+| 06-游戏与早教 | 268 | 蒙氏（3 本）、Dirksen、RIE、Eliot、Cohen、Hanscom、NurtureShock、Suskind |
+| 07-生活自理与习惯 | 139 | AAP、Jana、蒙氏、Azrin-Foxx、Glowacki、Payne |
+| 08-社交与分离 | 85 | Gonzalez-Mina、Fraiberg |
+| 09-父母自身 | 109 | Mindell、佩里、雷诺、Oster、高普尼克、Gonzalez-Mina |
 
 ## 检索架构
 

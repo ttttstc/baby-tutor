@@ -128,7 +128,7 @@ Precious Little Sleep 给出一个让父母既惊讶又有点绝望的事实：*
 - **前置**：夜睡独立是优先项；三件套地基不到位不训。
 - **早产儿**按矫正月龄。
 - **并觉期**：过渡期小睡波动是噪声，别在该并觉时硬训独立，见 slp-dubief-nap-transition。
-- **同他书条目区别**：Dubief 强调「学两遍 + 先夜后昼 + Nap Master Plan」；他书的接觉/延长条目（如 slp-xiaotu-nap-extension-kit）偏「接觉技术」,两者互补。
+- **同他书条目区别**：Dubief 强调「学两遍 + 先夜后昼 + Nap Master Plan」；他书的接觉/延长条目（如 slp-xiaotu-nap-extension-kit）偏「接觉技术」，两者互补。
 - **第三条觉豁免**不等于「任何旧方法都行」——指引是「可用动中睡兜底，但不退回要戒的旧睡法」。
 
 ## 就医红线
